@@ -61,22 +61,24 @@ def parse_date_fr(date_str: str) -> str | None:
     return None
 
 
-def fetch_tournament_list(session: requests.Session, season_id: int) -> list[dict]:
-    """Fetch all tournaments for a given season (all pages)."""
+def fetch_tournament_list(session: requests.Session, season_id: int, month: int | None = None) -> list[dict]:
+    """Fetch all tournaments for a given season and optional month (all pages)."""
     tournaments = []
     page = 1
 
     while True:
+        post_data = {
+            "Action": "tournoi_filtrer",
+            "affich_select_saison": season_id,
+            "affich_text_nom": "",
+            "affich_select_type": "",
+            "affich_select_genre": "",
+            "affich_select_mois": month if month is not None else "",
+            "page_hidden_pageActuelle": page,
+        }
         resp = session.post(
             f"{BASE_URL}/page.php?P=fo/public/menu/tournoi/index",
-            data={
-                "Action": "tournoi_filtrer",
-                "affich_select_saison": season_id,
-                "affich_text_nom": "",
-                "affich_select_type": "",
-                "affich_select_genre": "",
-                "page_hidden_pageActuelle": page,
-            },
+            data=post_data,
         )
         resp.encoding = "latin-1"
         soup = BeautifulSoup(resp.text, "lxml")
@@ -229,15 +231,21 @@ def main():
     geolocator = Nominatim(user_agent="beach-volley-map/1.0")
 
     all_tournaments = []
-    seen_ids = set()
+
+    now = datetime.now()
+    upcoming_months = list(range(now.month - 1, 12))  # 0-based: 0=Jan … 11=Dec
 
     print("Fetching tournament lists...")
+    seen_list_ids: set[str] = set()
     for season_id in SEASONS:
-        print(f"  Season {season_id}...")
-        tournaments = fetch_tournament_list(session, season_id)
-        print(f"  Found {len(tournaments)} entries")
-        all_tournaments.extend(tournaments)
-        time.sleep(0.5)
+        for month in upcoming_months:
+            print(f"  Season {season_id}, month {month}...")
+            tournaments = fetch_tournament_list(session, season_id, month)
+            new = [t for t in tournaments if t["id"] not in seen_list_ids]
+            seen_list_ids.update(t["id"] for t in new)
+            all_tournaments.extend(new)
+            print(f"    {len(new)} new entries (total: {len(all_tournaments)})")
+            time.sleep(0.5)
 
     print(f"\nFetching details for {len(all_tournaments)} entries...")
     results = []
@@ -245,11 +253,6 @@ def main():
     for i, t in enumerate(all_tournaments):
         tid = t["id"]
         season_id = t["season"]
-        key = f"{tid}_{season_id}"
-
-        if key in seen_ids:
-            continue
-        seen_ids.add(key)
 
         print(f"  [{i+1}/{len(all_tournaments)}] {t['name']} (ID={tid})")
 

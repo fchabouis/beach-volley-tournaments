@@ -166,19 +166,18 @@ select {
 .badge-X { background: var(--color-x); }
 .badge-  { background: var(--color-none); }
 
-/* ── Month range ── */
-.month-range {
-  display: flex;
+/* ── Period grid ── */
+.period-grid {
+  display: grid;
+  grid-template-columns: auto 1fr 1fr;
+  gap: 4px;
   align-items: center;
-  gap: 6px;
 }
 
-.month-range select { width: 0; flex: 1; }
-
-.month-range-sep {
+.period-lbl {
   font-size: 0.75rem;
-  color: #94a3b8;
-  flex-shrink: 0;
+  color: #64748b;
+  font-weight: 500;
 }
 
 /* ── Map ── */

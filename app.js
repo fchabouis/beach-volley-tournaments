@@ -6,7 +6,7 @@ const MONTHS_FR = ["", "Janvier", "Février", "Mars", "Avril", "Mai", "Juin",
   "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
 
 let allTournaments = [];
-let filters = { genre: "", serie: "", monthFrom: "", monthTo: "" };
+let filters = { genre: "", series: new Set(), monthFrom: "", yearFrom: "", monthTo: "", yearTo: "" };
 let activeId = null;
 let map, markers = [];
 
@@ -26,6 +26,7 @@ fetch("data/tournaments.json")
   .then((data) => {
     allTournaments = data;
     populateSerieFilter();
+    populateYearFilters();
     applyFilters();
     setLastUpdated();
   })
@@ -36,24 +37,64 @@ fetch("data/tournaments.json")
 // ── Filters ───────────────────────────────────────────────
 function populateSerieFilter() {
   const series = [...new Set(allTournaments.map((t) => t.serie))].sort();
-  const sel = document.getElementById("filter-serie");
+  const container = document.getElementById("filter-serie");
   series.forEach((s) => {
-    const opt = document.createElement("option");
-    opt.value = s;
-    opt.textContent = s;
-    sel.appendChild(opt);
+    const btn = document.createElement("button");
+    btn.dataset.value = s;
+    btn.textContent = s;
+    container.appendChild(btn);
   });
+}
+
+function populateYearFilters() {
+  const currentYear = String(new Date().getFullYear());
+  const years = [...new Set(
+    allTournaments.filter((t) => t.date_start).map((t) => t.date_start.split("-")[0])
+  )].sort();
+  ["filter-year-from", "filter-year-to"].forEach((id) => {
+    const sel = document.getElementById(id);
+    years.forEach((y) => {
+      const opt = document.createElement("option");
+      opt.value = y;
+      opt.textContent = y;
+      if (y === currentYear) opt.selected = true;
+      sel.appendChild(opt);
+    });
+  });
+  const currentMonth = String(new Date().getMonth() + 1);
+  document.getElementById("filter-month-from").value = currentMonth;
+  filters.yearFrom = currentYear;
+  filters.yearTo = currentYear;
+  filters.monthFrom = currentMonth;
 }
 
 function getFiltered() {
   return allTournaments.filter((t) => {
     if (filters.genre && t.genre_code !== filters.genre) return false;
-    if (filters.serie && t.serie !== filters.serie) return false;
-    if (filters.monthFrom || filters.monthTo) {
-      const month = t.date_start ? parseInt(t.date_start.split("-")[1], 10) : null;
-      if (!month) return false;
-      if (filters.monthFrom && month < parseInt(filters.monthFrom, 10)) return false;
-      if (filters.monthTo && month > parseInt(filters.monthTo, 10)) return false;
+    if (filters.series.size > 0 && !filters.series.has(t.serie)) return false;
+    if (filters.monthFrom || filters.yearFrom || filters.monthTo || filters.yearTo) {
+      if (!t.date_start) return false;
+      const [ys, ms] = t.date_start.split("-");
+      const y = parseInt(ys);
+      const m = parseInt(ms);
+      if (filters.yearFrom || filters.monthFrom) {
+        if (filters.yearFrom && filters.monthFrom) {
+          if (y * 12 + m < parseInt(filters.yearFrom) * 12 + parseInt(filters.monthFrom)) return false;
+        } else if (filters.yearFrom) {
+          if (y < parseInt(filters.yearFrom)) return false;
+        } else {
+          if (m < parseInt(filters.monthFrom)) return false;
+        }
+      }
+      if (filters.yearTo || filters.monthTo) {
+        if (filters.yearTo && filters.monthTo) {
+          if (y * 12 + m > parseInt(filters.yearTo) * 12 + parseInt(filters.monthTo)) return false;
+        } else if (filters.yearTo) {
+          if (y > parseInt(filters.yearTo)) return false;
+        } else {
+          if (m > parseInt(filters.monthTo)) return false;
+        }
+      }
     }
     return true;
   });
@@ -77,28 +118,37 @@ document.getElementById("filter-genre").addEventListener("click", (e) => {
   applyFilters();
 });
 
-document.getElementById("filter-serie").addEventListener("change", (e) => {
-  filters.serie = e.target.value;
+document.getElementById("filter-serie").addEventListener("click", (e) => {
+  const btn = e.target.closest("button");
+  if (!btn) return;
+  btn.classList.toggle("active");
+  if (btn.classList.contains("active")) {
+    filters.series.add(btn.dataset.value);
+  } else {
+    filters.series.delete(btn.dataset.value);
+  }
   applyFilters();
 });
 
-document.getElementById("filter-month-from").addEventListener("change", (e) => {
-  filters.monthFrom = e.target.value;
-  applyFilters();
-});
-
-document.getElementById("filter-month-to").addEventListener("change", (e) => {
-  filters.monthTo = e.target.value;
-  applyFilters();
+["filter-month-from", "filter-year-from", "filter-month-to", "filter-year-to"].forEach((id) => {
+  document.getElementById(id).addEventListener("change", (e) => {
+    const key = id.replace("filter-", "").replace(/-([a-z])/g, (_, c) => c.toUpperCase());
+    filters[key] = e.target.value;
+    applyFilters();
+  });
 });
 
 document.getElementById("reset-filters").addEventListener("click", () => {
-  filters = { genre: "", serie: "", monthFrom: "", monthTo: "" };
+  const currentYear = String(new Date().getFullYear());
+  const currentMonth = String(new Date().getMonth() + 1);
+  filters = { genre: "", series: new Set(), monthFrom: currentMonth, yearFrom: currentYear, monthTo: "", yearTo: currentYear };
   document.querySelectorAll("#filter-genre button").forEach((b) => b.classList.remove("active"));
   document.querySelector('#filter-genre button[data-value=""]').classList.add("active");
-  document.getElementById("filter-serie").value = "";
-  document.getElementById("filter-month-from").value = "";
+  document.querySelectorAll("#filter-serie button").forEach((b) => b.classList.remove("active"));
+  document.getElementById("filter-month-from").value = currentMonth;
+  document.getElementById("filter-year-from").value = currentYear;
   document.getElementById("filter-month-to").value = "";
+  document.getElementById("filter-year-to").value = currentYear;
   applyFilters();
 });
 

@@ -26,17 +26,16 @@
       </div>
 
       <div class="filter-group">
-        <label for="filter-serie">Niveau</label>
-        <select id="filter-serie">
-          <option value="">Tous les niveaux</option>
-        </select>
+        <label>Niveau</label>
+        <div class="btn-group" id="filter-serie"></div>
       </div>
 
       <div class="filter-group">
         <label>Période</label>
-        <div class="month-range">
+        <div class="period-grid">
+          <span class="period-lbl">De</span>
           <select id="filter-month-from">
-            <option value="">Début</option>
+            <option value="">Mois</option>
             <option value="1">Janvier</option>
             <option value="2">Février</option>
             <option value="3">Mars</option>
@@ -50,9 +49,10 @@
             <option value="11">Novembre</option>
             <option value="12">Décembre</option>
           </select>
-          <span class="month-range-sep">→</span>
+          <select id="filter-year-from"><option value="">Année</option></select>
+          <span class="period-lbl">À</span>
           <select id="filter-month-to">
-            <option value="">Fin</option>
+            <option value="">Mois</option>
             <option value="1">Janvier</option>
             <option value="2">Février</option>
             <option value="3">Mars</option>
@@ -66,6 +66,7 @@
             <option value="11">Novembre</option>
             <option value="12">Décembre</option>
           </select>
+          <select id="filter-year-to"><option value="">Année</option></select>
         </div>
       </div>
 
