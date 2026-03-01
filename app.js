@@ -6,7 +6,7 @@ const MONTHS_FR = ["", "Janvier", "Février", "Mars", "Avril", "Mai", "Juin",
   "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
 
 let allTournaments = [];
-let filters = { genre: "", series: new Set(), monthFrom: "", yearFrom: "", monthTo: "", yearTo: "" };
+let filters = { genres: new Set(), series: new Set(), monthFrom: "", yearFrom: "", monthTo: "", yearTo: "" };
 let activeId = null;
 let map, markers = [];
 
@@ -70,7 +70,7 @@ function populateYearFilters() {
 
 function getFiltered() {
   return allTournaments.filter((t) => {
-    if (filters.genre && t.genre_code !== filters.genre) return false;
+    if (filters.genres.size > 0 && !filters.genres.has(t.genre_code)) return false;
     if (filters.series.size > 0 && !filters.series.has(t.serie)) return false;
     if (filters.monthFrom || filters.yearFrom || filters.monthTo || filters.yearTo) {
       if (!t.date_start) return false;
@@ -112,9 +112,12 @@ function applyFilters() {
 document.getElementById("filter-genre").addEventListener("click", (e) => {
   const btn = e.target.closest("button");
   if (!btn) return;
-  document.querySelectorAll("#filter-genre button").forEach((b) => b.classList.remove("active"));
-  btn.classList.add("active");
-  filters.genre = btn.dataset.value;
+  btn.classList.toggle("active");
+  if (btn.classList.contains("active")) {
+    filters.genres.add(btn.dataset.value);
+  } else {
+    filters.genres.delete(btn.dataset.value);
+  }
   applyFilters();
 });
 
@@ -141,9 +144,8 @@ document.getElementById("filter-serie").addEventListener("click", (e) => {
 document.getElementById("reset-filters").addEventListener("click", () => {
   const currentYear = String(new Date().getFullYear());
   const currentMonth = String(new Date().getMonth() + 1);
-  filters = { genre: "", series: new Set(), monthFrom: currentMonth, yearFrom: currentYear, monthTo: "", yearTo: currentYear };
+  filters = { genres: new Set(), series: new Set(), monthFrom: currentMonth, yearFrom: currentYear, monthTo: "", yearTo: currentYear };
   document.querySelectorAll("#filter-genre button").forEach((b) => b.classList.remove("active"));
-  document.querySelector('#filter-genre button[data-value=""]').classList.add("active");
   document.querySelectorAll("#filter-serie button").forEach((b) => b.classList.remove("active"));
   document.getElementById("filter-month-from").value = currentMonth;
   document.getElementById("filter-year-from").value = currentYear;
@@ -216,24 +218,12 @@ function renderMarkers(tournaments) {
     el.className = "marker";
 
     const dot = document.createElement("div");
+    dot.style.cssText = `background:${color};`;
     if (multi) {
-      dot.style.cssText = `
-        width:22px; height:22px; border-radius:50%;
-        background:${color}; border:2px solid #fff;
-        box-shadow:0 1px 4px rgba(0,0,0,0.3);
-        cursor:pointer; transition: transform 0.15s;
-        display:flex; align-items:center; justify-content:center;
-        font-size:11px; font-weight:700; color:#fff;
-        font-family: system-ui, sans-serif;
-      `;
+      dot.className = "marker-dot marker-dot--multi";
       dot.textContent = group.length;
     } else {
-      dot.style.cssText = `
-        width:14px; height:14px; border-radius:50%;
-        background:${color}; border:2px solid #fff;
-        box-shadow:0 1px 4px rgba(0,0,0,0.3);
-        cursor:pointer; transition: transform 0.15s;
-      `;
+      dot.className = "marker-dot";
     }
     el.appendChild(dot);
 
