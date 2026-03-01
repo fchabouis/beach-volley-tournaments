@@ -43,7 +43,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main   # Checkout after the data commit
+          ref: master   # Checkout after the data commit
 
       - uses: actions/configure-pages@v5
 
