@@ -257,10 +257,12 @@ footer {
   body { flex-direction: column; }
   #sidebar {
     width: 100%;
-    height: 40dvh;
+    height: 45dvh;
     border-right: none;
     border-bottom: 1px solid #e2e8f0;
+    overflow-y: auto;
   }
-  #map { height: 60dvh; flex: unset; }
-  #popup { bottom: auto; top: 40dvh; right: 0; left: 0; width: 100%; border-radius: 0; }
+  #tournament-list { overflow-y: visible; }
+  #map { height: 55dvh; flex: unset; }
+  #popup { bottom: auto; top: 45dvh; right: 0; left: 0; width: 100%; border-radius: 0; }
 }
