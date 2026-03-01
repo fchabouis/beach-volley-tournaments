@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tournois Beach-Volley France</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="sidebar">
+    <header>
+      <h1>🏐 Beach-Volley</h1>
+      <p id="count-label">Chargement…</p>
+    </header>
+
+    <section id="filters">
+      <div class="filter-group">
+        <label>Genre</label>
+        <div class="btn-group" id="filter-genre">
+          <button class="active" data-value="">Tous</button>
+          <button data-value="M">Masculin</button>
+          <button data-value="F">Féminin</button>
+          <button data-value="X">Mixte</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <label for="filter-serie">Niveau</label>
+        <select id="filter-serie">
+          <option value="">Tous les niveaux</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label>Période</label>
+        <div class="month-range">
+          <select id="filter-month-from">
+            <option value="">Début</option>
+            <option value="1">Janvier</option>
+            <option value="2">Février</option>
+            <option value="3">Mars</option>
+            <option value="4">Avril</option>
+            <option value="5">Mai</option>
+            <option value="6">Juin</option>
+            <option value="7">Juillet</option>
+            <option value="8">Août</option>
+            <option value="9">Septembre</option>
+            <option value="10">Octobre</option>
+            <option value="11">Novembre</option>
+            <option value="12">Décembre</option>
+          </select>
+          <span class="month-range-sep">→</span>
+          <select id="filter-month-to">
+            <option value="">Fin</option>
+            <option value="1">Janvier</option>
+            <option value="2">Février</option>
+            <option value="3">Mars</option>
+            <option value="4">Avril</option>
+            <option value="5">Mai</option>
+            <option value="6">Juin</option>
+            <option value="7">Juillet</option>
+            <option value="8">Août</option>
+            <option value="9">Septembre</option>
+            <option value="10">Octobre</option>
+            <option value="11">Novembre</option>
+            <option value="12">Décembre</option>
+          </select>
+        </div>
+      </div>
+
+      <button id="reset-filters">Réinitialiser les filtres</button>
+    </section>
+
+    <ul id="tournament-list"></ul>
+
+    <footer>
+      <span id="last-updated"></span>
+    </footer>
+  </div>
+
+  <div id="map"></div>
+
+  <div id="popup" class="hidden">
+    <button id="popup-close">✕</button>
+    <h2 id="popup-name"></h2>
+    <div id="popup-details"></div>
+  </div>
+
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
