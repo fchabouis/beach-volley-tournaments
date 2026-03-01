@@ -12,10 +12,9 @@ from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
-from geopy.geocoders import Nominatim
-from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 
 BASE_URL = "https://bvs.ffvbbeach.org/mixte"
+BAN_URL = "https://data.geopf.fr/geocodage/completion/"
 DATA_DIR = Path(__file__).parent.parent / "data"
 GEOCACHE_FILE = DATA_DIR / "geocache.json"
 OUTPUT_FILE = DATA_DIR / "tournaments.json"
@@ -188,25 +187,29 @@ def save_geocache(cache: dict) -> None:
         json.dump(cache, f, ensure_ascii=False, indent=2)
 
 
-def geocode_address(geolocator: Nominatim, address: str, cache: dict) -> tuple[float | None, float | None]:
-    """Geocode an address, with caching."""
+def geocode_address(session: requests.Session, address: str, cache: dict) -> tuple[float | None, float | None]:
+    """Geocode an address using IGN Géoplateforme autocompletion API, with caching."""
     if address in cache:
         cached = cache[address]
         if cached is None:
             return None, None
         return cached["lat"], cached["lon"]
 
+    params: dict = {"text": address, "maximumResponses": 1, "type": "StreetAddress,PositionOfInterest"}
+    m = re.search(r"\b(\d{5})\b", address)
+    if m:
+        params["terr"] = m.group(1)
+
     try:
-        time.sleep(1.1)  # Nominatim rate limit: 1 req/sec
-        location = geolocator.geocode(address + ", France", timeout=10)
-        if location:
-            cache[address] = {"lat": location.latitude, "lon": location.longitude}
-            return location.latitude, location.longitude
-        else:
-            # Try just the city
-            cache[address] = None
-            return None, None
-    except (GeocoderTimedOut, GeocoderServiceError) as e:
+        resp = session.get(BAN_URL, params=params, timeout=10)
+        results = resp.json().get("results", [])
+        if results:
+            lon, lat = results[0]["x"], results[0]["y"]
+            cache[address] = {"lat": lat, "lon": lon}
+            return lat, lon
+        cache[address] = None
+        return None, None
+    except Exception as e:
         print(f"  Geocoding error for '{address}': {e}")
         return None, None
 
@@ -214,11 +217,9 @@ def geocode_address(geolocator: Nominatim, address: str, cache: dict) -> tuple[f
 def build_geocode_query(detail: dict, name: str) -> str:
     """Build the best geocoding query from available data."""
     if detail.get("address"):
-        # Extract postcode + city if present
-        m = re.search(r"(\d{5})\s*[-–]?\s*([A-Z][^F][^\n]+?)(?:\s+FRANCE)?$", detail["address"])
-        if m:
-            return f"{m.group(2).strip()}, {m.group(1)}"
-        return detail["address"]
+        addr = re.sub(r"\s+FRANCE\s*$", "", detail["address"], flags=re.IGNORECASE).strip()
+        addr = re.sub(r"\s*[-–]\s*", " ", addr)
+        return addr
     if detail.get("city"):
         return detail["city"]
     return name  # fallback: try to geocode by tournament name
@@ -228,7 +229,6 @@ def main():
     DATA_DIR.mkdir(exist_ok=True)
     session = get_session()
     geocache = load_geocache()
-    geolocator = Nominatim(user_agent="beach-volley-map/1.0")
 
     all_tournaments = []
 
@@ -269,12 +269,12 @@ def main():
 
         # Geocode
         query = build_geocode_query(detail, t["name"])
-        lat, lon = geocode_address(geolocator, query, geocache)
+        lat, lon = geocode_address(session, query, geocache)
         if lat is None:
             # Fallback: try just the city name
             city = detail.get("city")
             if city and city != query:
-                lat, lon = geocode_address(geolocator, city, geocache)
+                lat, lon = geocode_address(session, city, geocache)
 
         if lat is None:
             print(f"    WARNING: could not geocode '{query}'")
