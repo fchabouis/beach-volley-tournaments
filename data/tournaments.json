@@ -9,8 +9,8 @@
     "serie": "Série 2 - 1000",
     "city": "Croissy Sur Seine",
     "address": "Stade Omnisport Chemin de Ronde 78290 - CROISSY SUR SEINE FRANCE",
-    "lat": 48.8793601,
-    "lon": 2.146007
+    "lat": 48.878289,
+    "lon": 2.124583
   },
   {
     "id": "58",
@@ -22,8 +22,8 @@
     "serie": "Série 2 - 1000",
     "city": "Croissy Sur Seine",
     "address": "Stade Omnisport Chemin de Ronde 78290 - CROISSY SUR SEINE FRANCE",
-    "lat": 48.8793601,
-    "lon": 2.146007
+    "lat": 48.878289,
+    "lon": 2.124583
   },
   {
     "id": "59",
@@ -35,8 +35,8 @@
     "serie": "Série 2 - 1000",
     "city": "La Turbie",
     "address": "Centre Loisirs Albert II Google map : As Monaco Beach-volley 06320 - LA TURBIE FRANCE",
-    "lat": 43.7452982,
-    "lon": 7.4011252
+    "lat": 43.744724,
+    "lon": 7.401146
   },
   {
     "id": "64",
@@ -48,8 +48,8 @@
     "serie": "Série 2 - 500",
     "city": "Saint Brévin Les Pins",
     "address": "Plage du Val d'or Chemin de la marine 44250 - ST BREVIN LES PINS FRANCE",
-    "lat": 47.2473358,
-    "lon": -2.1677298
+    "lat": 47.234697,
+    "lon": -2.178265
   },
   {
     "id": "45",
@@ -61,8 +61,8 @@
     "serie": "Série 2 - 500",
     "city": "Montpellier",
     "address": "Parc de La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.6112422,
-    "lon": 3.8767337
+    "lat": 43.627214,
+    "lon": 3.875
   },
   {
     "id": "46",
@@ -74,8 +74,8 @@
     "serie": "Série 2 - 500",
     "city": "Montpellier",
     "address": "Parc de La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.6112422,
-    "lon": 3.8767337
+    "lat": 43.627214,
+    "lon": 3.875
   },
   {
     "id": "63",
@@ -87,8 +87,8 @@
     "serie": "Série 2 - 250",
     "city": "Montpellier",
     "address": "Parc de La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.6112422,
-    "lon": 3.8767337
+    "lat": 43.627214,
+    "lon": 3.875
   },
   {
     "id": "72",
@@ -100,8 +100,8 @@
     "serie": "Série 2 - 250",
     "city": "Paris",
     "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
-    "lat": 48.8534951,
-    "lon": 2.3483915
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "73",
@@ -113,8 +113,8 @@
     "serie": "Série 2 - 250",
     "city": "Paris",
     "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
-    "lat": 48.8534951,
-    "lon": 2.3483915
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "42",
@@ -126,8 +126,8 @@
     "serie": "Série 2 - 250",
     "city": "Gradignan",
     "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
-    "lat": 44.7739701,
-    "lon": -0.613907
+    "lat": 44.779392,
+    "lon": -0.628661
   },
   {
     "id": "41",
@@ -139,8 +139,8 @@
     "serie": "Série 2 - 250",
     "city": "Gradignan",
     "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
-    "lat": 44.7739701,
-    "lon": -0.613907
+    "lat": 44.779392,
+    "lon": -0.628661
   },
   {
     "id": "114",
@@ -152,8 +152,8 @@
     "serie": "Série 2 - 250",
     "city": "LYON, FRANCE",
     "address": "Complexe Grégory Coupet Rue Louis Pize 69004 - LYON FRANCE",
-    "lat": 45.7578137,
-    "lon": 4.8320114
+    "lat": 45.781728,
+    "lon": 4.821956
   },
   {
     "id": "115",
@@ -165,8 +165,8 @@
     "serie": "Série 2 - 250",
     "city": "Lyon",
     "address": "Complexe Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
-    "lat": 45.7578137,
-    "lon": 4.8320114
+    "lat": 45.781751,
+    "lon": 4.822236
   },
   {
     "id": "74",
@@ -178,8 +178,8 @@
     "serie": "Série 2 - 250",
     "city": "Anglet",
     "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
-    "lat": 43.4813927,
-    "lon": -1.5149935
+    "lat": 43.502002,
+    "lon": -1.540854
   },
   {
     "id": "109",
@@ -191,8 +191,8 @@
     "serie": "Série 3 - 150",
     "city": "Paris",
     "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
-    "lat": 48.8534951,
-    "lon": 2.3483915
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "125",
@@ -204,8 +204,8 @@
     "serie": "Série 3 - 150",
     "city": "Peymeinade",
     "address": "Beach Park Peymeinade 8 chemin du suye 06530 - PEYMEINADE FRANCE",
-    "lat": 43.641991,
-    "lon": 6.8756858
+    "lat": 43.637386,
+    "lon": 6.875652
   },
   {
     "id": "53",
@@ -217,8 +217,8 @@
     "serie": "Série 3 - 150",
     "city": "La Turbie",
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
-    "lat": 43.7452982,
-    "lon": 7.4011252
+    "lat": 43.744724,
+    "lon": 7.401146
   },
   {
     "id": "126",
@@ -230,8 +230,8 @@
     "serie": "Série 3 - 150",
     "city": "Peymeinade",
     "address": "Beach Park Peymeinade 8 chemin du suye 06530 - PEYMEINADE FRANCE",
-    "lat": 43.641991,
-    "lon": 6.8756858
+    "lat": 43.637386,
+    "lon": 6.875652
   },
   {
     "id": "34",
@@ -243,8 +243,8 @@
     "serie": "Série 3 - 150",
     "city": "Les Angles",
     "address": "La Pinède d2 rue daramon 30133 - LES ANGLES FRANCE",
-    "lat": 43.9525855,
-    "lon": 4.766294
+    "lat": 43.954326,
+    "lon": 4.775306
   },
   {
     "id": "29",
@@ -256,8 +256,8 @@
     "serie": "Série 3 - 150",
     "city": "Saint-Médar-en-Jalles",
     "address": "Ball' en Jall' Pl. Michel Gadret 33160 - SAINT MEDAR EN JALLES FRANCE",
-    "lat": 44.8938009,
-    "lon": -0.7457666
+    "lat": 44.888077,
+    "lon": -0.704039
   },
   {
     "id": "113",
@@ -269,8 +269,8 @@
     "serie": "Série 3 - 150",
     "city": "Paris",
     "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
-    "lat": 48.8534951,
-    "lon": 2.3483915
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "122",
@@ -282,8 +282,8 @@
     "serie": "Série 3 - 150",
     "city": "Saint Ouen L'aumone",
     "address": "Parc des Sports 1 boulevard Ducher 95310 - ST-OUEN L'AUMONE FRANCE",
-    "lat": 49.044765,
-    "lon": 2.1059841
+    "lat": 49.042462,
+    "lon": 2.101355
   },
   {
     "id": "102",
@@ -295,8 +295,8 @@
     "serie": "Série 3 - 150",
     "city": "Bondues",
     "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
-    "lat": 50.7034622,
-    "lon": 3.0921638
+    "lat": 50.68526,
+    "lon": 3.08317
   },
   {
     "id": "103",
@@ -308,8 +308,8 @@
     "serie": "Série 3 - 150",
     "city": "Bondues",
     "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
-    "lat": 50.7034622,
-    "lon": 3.0921638
+    "lat": 50.68526,
+    "lon": 3.08317
   },
   {
     "id": "104",
@@ -321,8 +321,8 @@
     "serie": "Série 3 - 150",
     "city": "Aix En Provence",
     "address": "CREPS PACA 62 chemin du viaduc 13100 - AIX EN PROVENCE FRANCE",
-    "lat": 43.5298424,
-    "lon": 5.4474738
+    "lat": 43.518938,
+    "lon": 5.469273
   },
   {
     "id": "107",
@@ -334,8 +334,8 @@
     "serie": "Série 3 - 150",
     "city": "Montpellier",
     "address": "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.6112422,
-    "lon": 3.8767337
+    "lat": 43.627214,
+    "lon": 3.875
   },
   {
     "id": "108",
@@ -347,8 +347,8 @@
     "serie": "Série 3 - 150",
     "city": "Montpellier",
     "address": "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.6112422,
-    "lon": 3.8767337
+    "lat": 43.627214,
+    "lon": 3.875
   },
   {
     "id": "112",
@@ -360,8 +360,8 @@
     "serie": "Série 3 - 150",
     "city": "Aix En Provence",
     "address": "CREPS Aix en Provence 62 chemin du viaduc 13100 - AIX EN PROVENCE FRANCE",
-    "lat": 43.5298424,
-    "lon": 5.4474738
+    "lat": 43.540643,
+    "lon": 5.479097
   },
   {
     "id": "120",
@@ -373,8 +373,8 @@
     "serie": "Série 3 - 150",
     "city": "Peymeinade",
     "address": "Beach Park Peymeinade 8 chemin du suye 06530 - PEYMEINADE FRANCE",
-    "lat": 43.641991,
-    "lon": 6.8756858
+    "lat": 43.637386,
+    "lon": 6.875652
   },
   {
     "id": "13",
@@ -386,8 +386,8 @@
     "serie": "Série 3 - 150",
     "city": "LE MOULE",
     "address": "Stade du Beach du Moule Plaine des jeux du Moule 97160 - LE MOULE FRANCE",
-    "lat": 16.3316709,
-    "lon": -61.3476233
+    "lat": 16.335294,
+    "lon": -61.369585
   },
   {
     "id": "14",
@@ -399,8 +399,8 @@
     "serie": "Série 3 - 150",
     "city": "LE MOULE",
     "address": "Stade du Beach du Moule Plaine des jeux du Moule 97160 - LE MOULE FRANCE",
-    "lat": 16.3316709,
-    "lon": -61.3476233
+    "lat": 16.335294,
+    "lon": -61.369585
   },
   {
     "id": "121",
@@ -412,8 +412,8 @@
     "serie": "Série 3 - 150",
     "city": "Peymeinade",
     "address": "Beach Park Peymeinade 8 chemin du suye 06530 - PEYMEINADE FRANCE",
-    "lat": 43.641991,
-    "lon": 6.8756858
+    "lat": 43.637386,
+    "lon": 6.875652
   },
   {
     "id": "146",
@@ -425,8 +425,8 @@
     "serie": "Série 3 - 150",
     "city": "Paris",
     "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE FRANCE",
-    "lat": 48.8849322,
-    "lon": 2.3708318
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "67",
@@ -438,8 +438,8 @@
     "serie": "Série 3 - 150",
     "city": "BISCAROSSE",
     "address": "LATECOERE 1500 Avenue Pierre Latecoere 40600 - BISCARROSSE FRANCE",
-    "lat": 44.3907065,
-    "lon": -1.1609361
+    "lat": 44.387282,
+    "lon": -1.182327
   },
   {
     "id": "68",
@@ -451,8 +451,8 @@
     "serie": "Série 3 - 150",
     "city": "BISCAROSSE",
     "address": "LATECOERE 1500 Avenue Pierre Latecoere 40600 - BISCARROSSE FRANCE",
-    "lat": 44.3907065,
-    "lon": -1.1609361
+    "lat": 44.387282,
+    "lon": -1.182327
   },
   {
     "id": "65",
@@ -464,8 +464,8 @@
     "serie": "Série 3 - 100",
     "city": "BISCAROSSE",
     "address": "LATECOERE 1500 Avenue Pierre Latecoere 40600 - BISCARROSSE FRANCE",
-    "lat": 44.3907065,
-    "lon": -1.1609361
+    "lat": 44.387282,
+    "lon": -1.182327
   },
   {
     "id": "66",
@@ -477,8 +477,8 @@
     "serie": "Série 3 - 100",
     "city": "BISCAROSSE",
     "address": "LATECOERE 1500 Avenue Pierre Latecoere 40600 - BISCARROSSE FRANCE",
-    "lat": 44.3907065,
-    "lon": -1.1609361
+    "lat": 44.387282,
+    "lon": -1.182327
   },
   {
     "id": "99",
@@ -490,8 +490,8 @@
     "serie": "Série 3 - 100",
     "city": "Ondres",
     "address": "Plage Ondres Océan Plage Ondres Océan 40440 - ONDRES FRANCE",
-    "lat": 43.5651547,
-    "lon": -1.453883
+    "lat": 43.577339,
+    "lon": -1.487982
   },
   {
     "id": "100",
@@ -503,8 +503,8 @@
     "serie": "Série 3 - 100",
     "city": "Ondres",
     "address": "Plage Ondres Océan Plage Ondres Océan 40440 - ONDRES FRANCE",
-    "lat": 43.5651547,
-    "lon": -1.453883
+    "lat": 43.577339,
+    "lon": -1.487982
   },
   {
     "id": "95",
@@ -516,8 +516,8 @@
     "serie": "Série 3 - 100",
     "city": "Toulouse",
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
-    "lat": 43.6044638,
-    "lon": 1.4442433
+    "lat": 43.608174,
+    "lon": 1.420437
   },
   {
     "id": "17",
@@ -529,8 +529,8 @@
     "serie": "Série 3 - 100",
     "city": "Mouilleron Le Captif",
     "address": "PLAYBOX 111 Rue Jacques Yves Cousteau 85000 - MOUILLERON LE CAPTIF FRANCE",
-    "lat": 46.7203336,
-    "lon": -1.4590747
+    "lat": 46.709805,
+    "lon": -1.427534
   },
   {
     "id": "82",
@@ -542,8 +542,8 @@
     "serie": "Série 3 - 100",
     "city": "Saint Brévin Les Pins",
     "address": "Plage du parc Chemin de la marine 44250 - ST BREVIN LES PINS FRANCE",
-    "lat": 47.2473358,
-    "lon": -2.1677298
+    "lat": 47.234697,
+    "lon": -2.178265
   },
   {
     "id": "96",
@@ -555,8 +555,8 @@
     "serie": "Série 3 - 100",
     "city": "Toulouse",
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
-    "lat": 43.6044638,
-    "lon": 1.4442433
+    "lat": 43.608174,
+    "lon": 1.420437
   },
   {
     "id": "130",
@@ -568,8 +568,8 @@
     "serie": "Série 3 - 100",
     "city": "Toulouse",
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
-    "lat": 43.6044638,
-    "lon": 1.4442433
+    "lat": 43.608174,
+    "lon": 1.420437
   },
   {
     "id": "77",
@@ -581,8 +581,8 @@
     "serie": "Série 3 - 100",
     "city": "Anglet",
     "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
-    "lat": 43.4813927,
-    "lon": -1.5149935
+    "lat": 43.502002,
+    "lon": -1.540854
   },
   {
     "id": "127",
@@ -594,8 +594,8 @@
     "serie": "Série 3 - 100",
     "city": "Pornic",
     "address": "Plage de la Noëveillard Avenue de la Noëveillard 44210 - PORNIC FRANCE",
-    "lat": 47.1152695,
-    "lon": -2.1040102
+    "lat": 47.111523,
+    "lon": -2.111882
   },
   {
     "id": "128",
@@ -607,8 +607,8 @@
     "serie": "Série 3 - 100",
     "city": "Pornic",
     "address": "Plage de la Noëveillard Avenue de la Noëveillard 44210 - PORNIC FRANCE",
-    "lat": 47.1152695,
-    "lon": -2.1040102
+    "lat": 47.111523,
+    "lon": -2.111882
   },
   {
     "id": "129",
@@ -620,8 +620,8 @@
     "serie": "Série 3 - 100",
     "city": "Pornic",
     "address": "Plage de la Noëveillard Avenue de la Noëveillard 44210 - PORNIC FRANCE",
-    "lat": 47.1152695,
-    "lon": -2.1040102
+    "lat": 47.111523,
+    "lon": -2.111882
   },
   {
     "id": "60",
@@ -633,8 +633,8 @@
     "serie": "Série 2 - 1000",
     "city": "La Turbie",
     "address": "Centre Loisirs Albert II Google map : As Monaco Beach-volley 06320 - LA TURBIE FRANCE",
-    "lat": 43.7452982,
-    "lon": 7.4011252
+    "lat": 43.744724,
+    "lon": 7.401146
   },
   {
     "id": "43",
@@ -646,8 +646,8 @@
     "serie": "Série 2 - 750",
     "city": "Gradignan",
     "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
-    "lat": 44.7739701,
-    "lon": -0.613907
+    "lat": 44.779392,
+    "lon": -0.628661
   },
   {
     "id": "54",
@@ -659,8 +659,8 @@
     "serie": "Série 2 - 750",
     "city": "Montpellier",
     "address": "Parc de La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.6112422,
-    "lon": 3.8767337
+    "lat": 43.627214,
+    "lon": 3.875
   },
   {
     "id": "91",
@@ -672,8 +672,8 @@
     "serie": "Série 2 - 750",
     "city": "Paris",
     "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
-    "lat": 48.8534951,
-    "lon": 2.3483915
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "92",
@@ -685,8 +685,8 @@
     "serie": "Série 2 - 750",
     "city": "Paris",
     "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
-    "lat": 48.8534951,
-    "lon": 2.3483915
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "55",
@@ -698,8 +698,8 @@
     "serie": "Série 2 - 750",
     "city": "Montpellier",
     "address": "Parc de La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.6112422,
-    "lon": 3.8767337
+    "lat": 43.627214,
+    "lon": 3.875
   },
   {
     "id": "44",
@@ -711,8 +711,8 @@
     "serie": "Série 2 - 500",
     "city": "Gradignan",
     "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
-    "lat": 44.7739701,
-    "lon": -0.613907
+    "lat": 44.779392,
+    "lon": -0.628661
   },
   {
     "id": "93",
@@ -724,8 +724,8 @@
     "serie": "Série 2 - 500",
     "city": "Bondues",
     "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
-    "lat": 50.7034622,
-    "lon": 3.0921638
+    "lat": 50.68526,
+    "lon": 3.08317
   },
   {
     "id": "94",
@@ -737,8 +737,8 @@
     "serie": "Série 2 - 500",
     "city": "Bondues",
     "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
-    "lat": 50.7034622,
-    "lon": 3.0921638
+    "lat": 50.68526,
+    "lon": 3.08317
   },
   {
     "id": "87",
@@ -750,8 +750,8 @@
     "serie": "Série 2 - 500",
     "city": "Le Bois Plage En Ré",
     "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
-    "lat": 46.1863932,
-    "lon": -1.3929639
+    "lat": 46.181152,
+    "lon": -1.395261
   },
   {
     "id": "88",
@@ -763,8 +763,8 @@
     "serie": "Série 2 - 500",
     "city": "Le Bois Plage En Ré",
     "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
-    "lat": 46.1863932,
-    "lon": -1.3929639
+    "lat": 46.181152,
+    "lon": -1.395261
   },
   {
     "id": "76",
@@ -776,8 +776,8 @@
     "serie": "Série 2 - 500",
     "city": "Anglet",
     "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
-    "lat": 43.4813927,
-    "lon": -1.5149935
+    "lat": 43.502002,
+    "lon": -1.540854
   },
   {
     "id": "143",
@@ -789,8 +789,8 @@
     "serie": "Série 2 - 250",
     "city": "Lyon",
     "address": "Non indiqué Rue Philippe de Lassalle 69004 - LYON, FRANCE FRANCE",
-    "lat": 45.7578137,
-    "lon": 4.8320114
+    "lat": 45.778506,
+    "lon": 4.820852
   },
   {
     "id": "105",
@@ -802,8 +802,8 @@
     "serie": "Série 2 - 250",
     "city": "Bondues",
     "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
-    "lat": 50.7034622,
-    "lon": 3.0921638
+    "lat": 50.68526,
+    "lon": 3.08317
   },
   {
     "id": "132",
@@ -815,8 +815,8 @@
     "serie": "Série 2 - 250",
     "city": "Nogent Sur Marne",
     "address": "Stade sous la Lune - Alain Mimoun Avenue Smith Champion 94130 - NOGENT-SUR-MARNE FRANCE",
-    "lat": 48.8387639,
-    "lon": 2.4916592
+    "lat": 48.832277,
+    "lon": 2.486139
   },
   {
     "id": "75",
@@ -828,8 +828,8 @@
     "serie": "Série 2 - 250",
     "city": "Anglet",
     "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
-    "lat": 43.4813927,
-    "lon": -1.5149935
+    "lat": 43.502002,
+    "lon": -1.540854
   },
   {
     "id": "149",
@@ -841,8 +841,8 @@
     "serie": "Série 2 - 250",
     "city": "La Turbie",
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
-    "lat": 43.7452982,
-    "lon": 7.4011252
+    "lat": 43.744724,
+    "lon": 7.401146
   },
   {
     "id": "97",
@@ -854,8 +854,8 @@
     "serie": "Série 3 - 150",
     "city": "Toulouse",
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
-    "lat": 43.6044638,
-    "lon": 1.4442433
+    "lat": 43.608174,
+    "lon": 1.420437
   },
   {
     "id": "38",
@@ -867,8 +867,8 @@
     "serie": "Série 3 - 150",
     "city": "Gradignan",
     "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
-    "lat": 44.7739701,
-    "lon": -0.613907
+    "lat": 44.779392,
+    "lon": -0.628661
   },
   {
     "id": "39",
@@ -880,8 +880,8 @@
     "serie": "Série 3 - 150",
     "city": "Gradignan",
     "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
-    "lat": 44.7739701,
-    "lon": -0.613907
+    "lat": 44.779392,
+    "lon": -0.628661
   },
   {
     "id": "98",
@@ -893,8 +893,8 @@
     "serie": "Série 3 - 150",
     "city": "Toulouse",
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
-    "lat": 43.6044638,
-    "lon": 1.4442433
+    "lat": 43.608174,
+    "lon": 1.420437
   },
   {
     "id": "148",
@@ -906,8 +906,8 @@
     "serie": "Série 3 - 150",
     "city": "Paris",
     "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE FRANCE",
-    "lat": 48.8849322,
-    "lon": 2.3708318
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "110",
@@ -919,8 +919,8 @@
     "serie": "Série 3 - 150",
     "city": "Pont De L'Isère",
     "address": "Complexe sportif André Despesse Rue des loisirs 26600 - PONT DE L'ISERE FRANCE",
-    "lat": 45.004331,
-    "lon": 4.8714601
+    "lat": 44.996958,
+    "lon": 4.868408
   },
   {
     "id": "84",
@@ -932,8 +932,8 @@
     "serie": "Série 3 - 150",
     "city": "Marmande",
     "address": "Terrain de beach volley 35 rue Portogruaro 47200 - MARMANDE FRANCE",
-    "lat": 44.5007939,
-    "lon": 0.164274
+    "lat": 44.507505,
+    "lon": 0.153957
   },
   {
     "id": "85",
@@ -945,8 +945,8 @@
     "serie": "Série 3 - 150",
     "city": "Marmande",
     "address": "Terrain de beach volley 35 rue Portogruaro 47200 - MARMANDE FRANCE",
-    "lat": 44.5007939,
-    "lon": 0.164274
+    "lat": 44.507505,
+    "lon": 0.153957
   },
   {
     "id": "106",
@@ -958,8 +958,8 @@
     "serie": "Série 3 - 150",
     "city": "Chartres",
     "address": "Terrains de Beach Volley - Chartres 9 Rue des Hauts de Chartres 28000 - CHARTRES FRANCE",
-    "lat": 48.4438601,
-    "lon": 1.4881434
+    "lat": 48.444761,
+    "lon": 1.510801
   },
   {
     "id": "86",
@@ -971,8 +971,8 @@
     "serie": "Série 3 - 150",
     "city": "Marmande",
     "address": "Terrain de beach volley 35 rue Portogruaro 47200 - MARMANDE FRANCE",
-    "lat": 44.5007939,
-    "lon": 0.164274
+    "lat": 44.507505,
+    "lon": 0.153957
   },
   {
     "id": "111",
@@ -984,8 +984,8 @@
     "serie": "Série 3 - 150",
     "city": "Chartres",
     "address": "Terrains de Beach Volley - Chartres 9 Rue des Hauts de Chartres 28000 - CHARTRES FRANCE",
-    "lat": 48.4438601,
-    "lon": 1.4881434
+    "lat": 48.444761,
+    "lon": 1.510801
   },
   {
     "id": "144",
@@ -997,8 +997,8 @@
     "serie": "Série 3 - 150",
     "city": "LE MOULE",
     "address": "Stade du Beach du Moule Plaine des jeux du Moule 97160 - LE MOULE FRANCE",
-    "lat": 16.3316709,
-    "lon": -61.3476233
+    "lat": 16.335294,
+    "lon": -61.369585
   },
   {
     "id": "145",
@@ -1010,8 +1010,8 @@
     "serie": "Série 3 - 150",
     "city": "LE MOULE",
     "address": "Stade du Beach du Moule Plaine des jeux du Moule 97160 - LE MOULE FRANCE",
-    "lat": 16.3316709,
-    "lon": -61.3476233
+    "lat": 16.335294,
+    "lon": -61.369585
   },
   {
     "id": "116",
@@ -1023,8 +1023,8 @@
     "serie": "Série 1 - 2000",
     "city": "St Germain En Laye",
     "address": "Stade Georges Lefèvre Avenue Kennedy, St Germain en Laye 78100 - ST GERMAIN EN LAYE FRANCE",
-    "lat": 48.9356047,
-    "lon": 2.0917743
+    "lat": 48.912034,
+    "lon": 2.080378
   },
   {
     "id": "117",
@@ -1036,8 +1036,8 @@
     "serie": "Série 1 - 2000",
     "city": "St Germain En Laye",
     "address": "Stade Georges Lefèvre Avenue Kennedy, St Germain en Laye 78100 - ST GERMAIN EN LAYE FRANCE",
-    "lat": 48.9356047,
-    "lon": 2.0917743
+    "lat": 48.912034,
+    "lon": 2.080378
   },
   {
     "id": "118",
@@ -1049,8 +1049,8 @@
     "serie": "Série 1 - 1500",
     "city": "Dijon",
     "address": "Lac Kir Avenue du 1er Consul 21000 - DIJON FRANCE",
-    "lat": 47.3215806,
-    "lon": 5.0414701
+    "lat": 47.322693,
+    "lon": 5.010421
   },
   {
     "id": "119",
@@ -1062,8 +1062,8 @@
     "serie": "Série 1 - 1500",
     "city": "Dijon",
     "address": "Lac Kir Avenue du 1er Consul 21000 - DIJON FRANCE",
-    "lat": 47.3215806,
-    "lon": 5.0414701
+    "lat": 47.322693,
+    "lon": 5.010421
   },
   {
     "id": "61",
@@ -1075,8 +1075,8 @@
     "serie": "Série 2 - 1000",
     "city": "La Courneuve",
     "address": "Parc Departemental des Sports de Marville 51 avenue Roger Salengro 93027 - LA COURNEUVE FRANCE",
-    "lat": 48.9267236,
-    "lon": 2.3896123
+    "lat": 48.932689,
+    "lon": 2.400799
   },
   {
     "id": "70",
@@ -1088,8 +1088,8 @@
     "serie": "Série 2 - 750",
     "city": "Saint-Laurent Du Var",
     "address": "Plage Cousteau Promenade Jacques Yves Coustau 06700 - ST-LAURENT-DU-VAR FRANCE",
-    "lat": 43.6690101,
-    "lon": 7.1906969
+    "lat": 43.657112,
+    "lon": 7.197195
   },
   {
     "id": "71",
@@ -1101,8 +1101,8 @@
     "serie": "Série 2 - 750",
     "city": "Saint-Laurent Du Var",
     "address": "Plage Cousteau Promenade Jacques Yves Coustau 06700 - ST-LAURENT-DU-VAR FRANCE",
-    "lat": 43.6690101,
-    "lon": 7.1906969
+    "lat": 43.657112,
+    "lon": 7.197195
   },
   {
     "id": "101",
@@ -1114,8 +1114,8 @@
     "serie": "Série 2 - 750",
     "city": "Saint-Laurent Du Var",
     "address": "Plage Cousteau Promenade Jacques Yves Coustau 06700 - ST-LAURENT-DU-VAR FRANCE",
-    "lat": 43.6690101,
-    "lon": 7.1906969
+    "lat": 43.657112,
+    "lon": 7.197195
   },
   {
     "id": "89",
@@ -1127,8 +1127,8 @@
     "serie": "Série 2 - 500",
     "city": "Le Bois Plage En Ré",
     "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
-    "lat": 46.1863932,
-    "lon": -1.3929639
+    "lat": 46.181152,
+    "lon": -1.395261
   },
   {
     "id": "90",
@@ -1140,8 +1140,8 @@
     "serie": "Série 2 - 500",
     "city": "Le Bois Plage En Ré",
     "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
-    "lat": 46.1863932,
-    "lon": -1.3929639
+    "lat": 46.181152,
+    "lon": -1.395261
   },
   {
     "id": "133",
@@ -1153,8 +1153,8 @@
     "serie": "Série 2 - 250",
     "city": "Nogent Sur Marne",
     "address": "Stade sous la Lune - Alain Mimoun Avenue Smith Champion 94130 - NOGENT-SUR-MARNE FRANCE",
-    "lat": 48.8387639,
-    "lon": 2.4916592
+    "lat": 48.832277,
+    "lon": 2.486139
   },
   {
     "id": "81",
@@ -1166,8 +1166,8 @@
     "serie": "Série 3 - 150",
     "city": "BISCARROSSE",
     "address": "LATECOERE 1500, avenue Pierre de Latécoère 40600 - BISCARROSSE FRANCE",
-    "lat": 44.3907065,
-    "lon": -1.1609361
+    "lat": 44.387282,
+    "lon": -1.182327
   },
   {
     "id": "40",
@@ -1179,8 +1179,8 @@
     "serie": "Série 3 - 150",
     "city": "Gradignan",
     "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
-    "lat": 44.7739701,
-    "lon": -0.613907
+    "lat": 44.779392,
+    "lon": -0.628661
   },
   {
     "id": "123",
@@ -1192,8 +1192,8 @@
     "serie": "Série 3 - 150",
     "city": "Marignane",
     "address": "Complexe Sportif et Culturel Airbus Helicopters Rue Jean-Louis Calderon 13700 - MARIGNANE FRANCE",
-    "lat": 43.4162193,
-    "lon": 5.2145269
+    "lat": 43.410202,
+    "lon": 5.239681
   },
   {
     "id": "131",
@@ -1205,8 +1205,8 @@
     "serie": "Série 3 - 150",
     "city": "Nogent Sur Marne",
     "address": "Stade sous la Lune - Alain Mimoun Avenue Smith Champion 94130 - NOGENT-SUR-MARNE FRANCE",
-    "lat": 48.8387639,
-    "lon": 2.4916592
+    "lat": 48.832277,
+    "lon": 2.486139
   },
   {
     "id": "124",
@@ -1218,8 +1218,8 @@
     "serie": "Série 3 - 150",
     "city": "Marignane",
     "address": "Complexe Sportif et Culturel Airbus Helicopters Rue Jean-Louis Calderon 13700 - MARIGNANE FRANCE",
-    "lat": 43.4162193,
-    "lon": 5.2145269
+    "lat": 43.410202,
+    "lon": 5.239681
   },
   {
     "id": "78",
@@ -1231,8 +1231,8 @@
     "serie": "Série 3 - 100",
     "city": "Montpellier",
     "address": "ASBAM 36 Rue de la Cavalerie 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.6112422,
-    "lon": 3.8767337
+    "lat": 43.618049,
+    "lon": 3.882289
   },
   {
     "id": "79",
@@ -1244,8 +1244,8 @@
     "serie": "Série 3 - 100",
     "city": "Montpellier",
     "address": "ASBAM 36 Rue de la Cavalerie 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.6112422,
-    "lon": 3.8767337
+    "lat": 43.618049,
+    "lon": 3.882289
   },
   {
     "id": "147",
@@ -1257,8 +1257,8 @@
     "serie": "Série 3 - 100",
     "city": "Rivières",
     "address": "Espace de loisirs dAiguelèze Espace de loisirs dAiguelèze 81600 - RIVIERES FRANCE",
-    "lat": 43.9144479,
-    "lon": 1.9627734
+    "lat": 43.91342,
+    "lon": 1.978507
   },
   {
     "id": "142",
@@ -1270,8 +1270,8 @@
     "serie": "Série 2 - 250",
     "city": "Pont De L'Isère",
     "address": "Complexe sportif Rue des loisirs 26600 - PONT DE L'ISERE FRANCE",
-    "lat": 45.004331,
-    "lon": 4.8714601
+    "lat": 44.996958,
+    "lon": 4.868408
   },
   {
     "id": "80",
@@ -1283,7 +1283,7 @@
     "serie": "Série 3 - 100",
     "city": "Montpellier",
     "address": "ASBAM 36 Rue de la Cavalerie 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.6112422,
-    "lon": 3.8767337
+    "lat": 43.618049,
+    "lon": 3.882289
   }
 ]
