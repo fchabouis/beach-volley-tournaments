@@ -171,5 +171,168 @@
   "SAINT-MARTIN EN RE, 17410": {
     "lat": 46.1912595,
     "lon": -1.3679301
+  },
+  "Stade Omnisport Chemin de Ronde 78290 CROISSY SUR SEINE": {
+    "lat": 48.878289,
+    "lon": 2.124583
+  },
+  "Centre Loisirs Albert II Google map : As Monaco Beach volley 06320 LA TURBIE": null,
+  "La Turbie": {
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  "Plage du Val d'or Chemin de la marine 44250 ST BREVIN LES PINS": {
+    "lat": 47.234697,
+    "lon": -2.178265
+  },
+  "Parc de La Rauze 419 avenue du docteur Jacques Fourcade 34000 MONTPELLIER CEDEX 5": {
+    "lat": 43.627214,
+    "lon": 3.875
+  },
+  "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 PARIS": {
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 GRADIGNAN": {
+    "lat": 44.779392,
+    "lon": -0.628661
+  },
+  "Complexe Grégory Coupet Rue Louis Pize 69004 LYON": {
+    "lat": 45.781728,
+    "lon": 4.821956
+  },
+  "Complexe Grégory Coupet 17 rue Louis Pize 69004 LYON": {
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  "plages des Sables d'or Plage des Sables d'or 64600 ANGLET": {
+    "lat": 43.502002,
+    "lon": -1.540854
+  },
+  "Beach Park Peymeinade 8 chemin du suye 06530 PEYMEINADE": {
+    "lat": 43.637386,
+    "lon": 6.875652
+  },
+  "Centre Loisirs Prince Albert II Google map : AS Monaco Beach volley 06320 LA TURBIE": null,
+  "La Pinède d2 rue daramon 30133 LES ANGLES": {
+    "lat": 43.954326,
+    "lon": 4.775306
+  },
+  "Ball' en Jall' Pl. Michel Gadret 33160 SAINT MEDAR EN JALLES": {
+    "lat": 44.888077,
+    "lon": -0.704039
+  },
+  "Parc des Sports 1 boulevard Ducher 95310 ST OUEN L'AUMONE": {
+    "lat": 49.042462,
+    "lon": 2.101355
+  },
+  "Skyball Aerodrome de Bondues 59910 BONDUES": {
+    "lat": 50.68526,
+    "lon": 3.08317
+  },
+  "CREPS PACA 62 chemin du viaduc 13100 AIX EN PROVENCE": {
+    "lat": 43.518938,
+    "lon": 5.469273
+  },
+  "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 MONTPELLIER CEDEX 5": {
+    "lat": 43.627214,
+    "lon": 3.875
+  },
+  "CREPS Aix en Provence 62 chemin du viaduc 13100 AIX EN PROVENCE": {
+    "lat": 43.540643,
+    "lon": 5.479097
+  },
+  "Stade du Beach du Moule Plaine des jeux du Moule 97160 LE MOULE": {
+    "lat": 16.335294,
+    "lon": -61.369585
+  },
+  "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 PARIS FRANCE": {
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  "LATECOERE 1500 Avenue Pierre Latecoere 40600 BISCARROSSE": {
+    "lat": 44.387282,
+    "lon": -1.182327
+  },
+  "Plage Ondres Océan Plage Ondres Océan 40440 ONDRES": {
+    "lat": 43.577339,
+    "lon": -1.487982
+  },
+  "CREPS Avenue Edouard Belin 31000 TOULOUSE": {
+    "lat": 43.608174,
+    "lon": 1.420437
+  },
+  "PLAYBOX 111 Rue Jacques Yves Cousteau 85000 MOUILLERON LE CAPTIF": {
+    "lat": 46.709805,
+    "lon": -1.427534
+  },
+  "Plage du parc Chemin de la marine 44250 ST BREVIN LES PINS": {
+    "lat": 47.234697,
+    "lon": -2.178265
+  },
+  "Plage de la Noëveillard Avenue de la Noëveillard 44210 PORNIC": {
+    "lat": 47.111523,
+    "lon": -2.111882
+  },
+  "Beach Stadium des Gollandières Avenue de la plage 17580 LE BOIS PLAGE EN RE": {
+    "lat": 46.181152,
+    "lon": -1.395261
+  },
+  "Non indiqué Rue Philippe de Lassalle 69004 LYON, FRANCE": {
+    "lat": 45.778506,
+    "lon": 4.820852
+  },
+  "Stade sous la Lune Alain Mimoun Avenue Smith Champion 94130 NOGENT SUR MARNE": {
+    "lat": 48.832277,
+    "lon": 2.486139
+  },
+  "Complexe sportif André Despesse Rue des loisirs 26600 PONT DE L'ISERE": {
+    "lat": 44.996958,
+    "lon": 4.868408
+  },
+  "Terrain de beach volley 35 rue Portogruaro 47200 MARMANDE": {
+    "lat": 44.507505,
+    "lon": 0.153957
+  },
+  "Terrains de Beach Volley Chartres 9 Rue des Hauts de Chartres 28000 CHARTRES": {
+    "lat": 48.444761,
+    "lon": 1.510801
+  },
+  "Stade Georges Lefèvre Avenue Kennedy, St Germain en Laye 78100 ST GERMAIN EN LAYE": {
+    "lat": 48.912034,
+    "lon": 2.080378
+  },
+  "Lac Kir Avenue du 1er Consul 21000 DIJON": {
+    "lat": 47.322693,
+    "lon": 5.010421
+  },
+  "Parc Departemental des Sports de Marville 51 avenue Roger Salengro 93027 LA COURNEUVE": null,
+  "La Courneuve": {
+    "lat": 48.932689,
+    "lon": 2.400799
+  },
+  "Plage Cousteau Promenade Jacques Yves Coustau 06700 ST LAURENT DU VAR": {
+    "lat": 43.657112,
+    "lon": 7.197195
+  },
+  "LATECOERE 1500, avenue Pierre de Latécoère 40600 BISCARROSSE": {
+    "lat": 44.387282,
+    "lon": -1.182327
+  },
+  "Complexe Sportif et Culturel Airbus Helicopters Rue Jean Louis Calderon 13700 MARIGNANE": {
+    "lat": 43.410202,
+    "lon": 5.239681
+  },
+  "ASBAM 36 Rue de la Cavalerie 34000 MONTPELLIER CEDEX 5": {
+    "lat": 43.618049,
+    "lon": 3.882289
+  },
+  "Espace de loisirs dAiguelèze Espace de loisirs dAiguelèze 81600 RIVIERES": {
+    "lat": 43.91342,
+    "lon": 1.978507
+  },
+  "Complexe sportif Rue des loisirs 26600 PONT DE L'ISERE": {
+    "lat": 44.996958,
+    "lon": 4.868408
   }
 }
