@@ -6,7 +6,7 @@ const MONTHS_FR = ["", "Janvier", "Février", "Mars", "Avril", "Mai", "Juin",
   "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
 
 let allTournaments = [];
-let filters = { genres: new Set(), series: new Set(), monthFrom: "", yearFrom: "", monthTo: "", yearTo: "" };
+let filters = { genres: new Set(), series: new Set(), monthFrom: "", yearFrom: "", monthTo: "", yearTo: "", week: "" };
 let activeId = null;
 let map, markers = [];
 
@@ -68,6 +68,14 @@ function populateYearFilters() {
   filters.monthFrom = currentMonth;
 }
 
+function getISOWeek(dateStr) {
+  const d = new Date(dateStr + "T00:00:00");
+  const day = (d.getDay() + 6) % 7; // Mon=0
+  d.setDate(d.getDate() - day + 3); // nearest Thursday
+  const yearStart = new Date(d.getFullYear(), 0, 1);
+  return Math.ceil(((d - yearStart) / 86400000 + 1) / 7);
+}
+
 function getFiltered() {
   return allTournaments.filter((t) => {
     if (filters.genres.size > 0 && !filters.genres.has(t.genre_code)) return false;
@@ -95,6 +103,11 @@ function getFiltered() {
           if (m > parseInt(filters.monthTo)) return false;
         }
       }
+    }
+    if (filters.week && t.date_start) {
+      const w = getISOWeek(t.date_start);
+      if (filters.week === "even" && w % 2 !== 0) return false;
+      if (filters.week === "odd" && w % 2 !== 1) return false;
     }
     return true;
   });
@@ -133,6 +146,20 @@ document.getElementById("filter-serie").addEventListener("click", (e) => {
   applyFilters();
 });
 
+document.getElementById("filter-week").addEventListener("click", (e) => {
+  const btn = e.target.closest("button");
+  if (!btn) return;
+  if (filters.week === btn.dataset.value) {
+    filters.week = "";
+    btn.classList.remove("active");
+  } else {
+    filters.week = btn.dataset.value;
+    document.querySelectorAll("#filter-week button").forEach((b) => b.classList.remove("active"));
+    btn.classList.add("active");
+  }
+  applyFilters();
+});
+
 ["filter-month-from", "filter-year-from", "filter-month-to", "filter-year-to"].forEach((id) => {
   document.getElementById(id).addEventListener("change", (e) => {
     const key = id.replace("filter-", "").replace(/-([a-z])/g, (_, c) => c.toUpperCase());
@@ -144,9 +171,10 @@ document.getElementById("filter-serie").addEventListener("click", (e) => {
 document.getElementById("reset-filters").addEventListener("click", () => {
   const currentYear = String(new Date().getFullYear());
   const currentMonth = String(new Date().getMonth() + 1);
-  filters = { genres: new Set(), series: new Set(), monthFrom: currentMonth, yearFrom: currentYear, monthTo: "", yearTo: currentYear };
+  filters = { genres: new Set(), series: new Set(), monthFrom: currentMonth, yearFrom: currentYear, monthTo: "", yearTo: currentYear, week: "" };
   document.querySelectorAll("#filter-genre button").forEach((b) => b.classList.remove("active"));
   document.querySelectorAll("#filter-serie button").forEach((b) => b.classList.remove("active"));
+  document.querySelectorAll("#filter-week button").forEach((b) => b.classList.remove("active"));
   document.getElementById("filter-month-from").value = currentMonth;
   document.getElementById("filter-year-from").value = currentYear;
   document.getElementById("filter-month-to").value = "";
