@@ -521,7 +521,7 @@
   },
   {
     "id": "17",
-    "name": "PLAYBOX BeachNantesReze ABBT#6",
+    "name": "PLAYBOX BNR",
     "date_start": "2026-03-15",
     "date_end": "2026-03-15",
     "genre": "Masculin",
@@ -1072,6 +1072,19 @@
     "date_end": "2026-05-02",
     "genre": "Féminin",
     "genre_code": "F",
+    "serie": "Série 2 - 1000",
+    "city": "La Courneuve",
+    "address": "Parc Departemental des Sports de Marville 51 avenue Roger Salengro 93027 - LA COURNEUVE FRANCE",
+    "lat": 48.932689,
+    "lon": 2.400799
+  },
+  {
+    "id": "150",
+    "name": "Champion's Ligue IDF",
+    "date_start": "2026-05-01",
+    "date_end": "2026-05-03",
+    "genre": "Masculin",
+    "genre_code": "M",
     "serie": "Série 2 - 1000",
     "city": "La Courneuve",
     "address": "Parc Departemental des Sports de Marville 51 avenue Roger Salengro 93027 - LA COURNEUVE FRANCE",
