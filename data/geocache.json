@@ -334,5 +334,13 @@
   "Complexe sportif Rue des loisirs 26600 PONT DE L'ISERE": {
     "lat": 44.996958,
     "lon": 4.868408
+  },
+  "Gymnase Evariste Galois 45 Rue Henri Lebrun 69330 MEYZIEU": {
+    "lat": 45.771222,
+    "lon": 4.996361
+  },
+  "Plages des Sables d'or Plage des Sables d'or 64600 ANGLET": {
+    "lat": 43.502002,
+    "lon": -1.540854
   }
 }

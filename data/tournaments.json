@@ -196,7 +196,7 @@
   },
   {
     "id": "125",
-    "name": "Peymeinade Beach séries 3",
+    "name": "(ANNULE) Peymeinade Beach séries 3",
     "date_start": "2026-03-07",
     "date_end": "2026-03-07",
     "genre": "Féminin",
@@ -222,7 +222,7 @@
   },
   {
     "id": "126",
-    "name": "Peymeinade Beach séries 3",
+    "name": "(ANNULE) Peymeinade Beach séries 3",
     "date_start": "2026-03-08",
     "date_end": "2026-03-08",
     "genre": "Masculin",
@@ -1014,6 +1014,32 @@
     "lon": -61.369585
   },
   {
+    "id": "151",
+    "name": "BTARA-US MEYZIEU BEACH #4",
+    "date_start": "2026-04-26",
+    "date_end": "2026-04-26",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Meyzieu",
+    "address": "Gymnase Evariste Galois 45 Rue Henri Lebrun 69330 - MEYZIEU FRANCE",
+    "lat": 45.771222,
+    "lon": 4.996361
+  },
+  {
+    "id": "152",
+    "name": "Sand System Beach Serie  - 100 F",
+    "date_start": "2026-04-24",
+    "date_end": "2026-04-24",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
     "id": "116",
     "name": "VSGC Beach Master 20 St Germain",
     "date_start": "2026-05-29",
@@ -1157,6 +1183,19 @@
     "lon": -1.395261
   },
   {
+    "id": "153",
+    "name": "Anglet beach bask Series 3",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 500",
+    "city": "Anglet",
+    "address": "Plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
+    "lat": 43.502002,
+    "lon": -1.540854
+  },
+  {
     "id": "133",
     "name": "RACCOON SUR MARNE (94)",
     "date_start": "2026-05-09",
@@ -1168,6 +1207,19 @@
     "address": "Stade sous la Lune - Alain Mimoun Avenue Smith Champion 94130 - NOGENT-SUR-MARNE FRANCE",
     "lat": 48.832277,
     "lon": 2.486139
+  },
+  {
+    "id": "154",
+    "name": "Anglet beach bask Series 3",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Anglet",
+    "address": "Plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
+    "lat": 43.502002,
+    "lon": -1.540854
   },
   {
     "id": "81",
