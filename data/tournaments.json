@@ -1027,6 +1027,19 @@
     "lon": 4.996361
   },
   {
+    "id": "155",
+    "name": "MONTPELLIER BEACH VOLLEY MIXTE",
+    "date_start": "2026-04-11",
+    "date_end": "2026-04-11",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "Montpellier",
+    "address": "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.627214,
+    "lon": 3.875
+  },
+  {
     "id": "152",
     "name": "Sand System Beach Serie  - 100 F",
     "date_start": "2026-04-24",
@@ -1337,6 +1350,19 @@
     "address": "Complexe sportif Rue des loisirs 26600 - PONT DE L'ISERE FRANCE",
     "lat": 44.996958,
     "lon": 4.868408
+  },
+  {
+    "id": "156",
+    "name": "24° TOURNOI \"1 GARS 1 FILLE\"",
+    "date_start": "2026-07-14",
+    "date_end": "2026-07-14",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "Le Touquet Paris-Plage",
+    "address": "Patio Central de la Plage Boulevard de la Mer 62520 - LE TOUQUET PARIS PLAGE FRANCE",
+    "lat": 50.525905,
+    "lon": 1.581372
   },
   {
     "id": "80",
