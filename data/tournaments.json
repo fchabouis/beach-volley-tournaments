@@ -572,6 +572,19 @@
     "lon": 1.420437
   },
   {
+    "id": "162",
+    "name": "Sand System Beach Open #1 - 100 M",
+    "date_start": "2026-03-27",
+    "date_end": "2026-03-27",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
     "id": "77",
     "name": "Anglet Beach Bask Series #1",
     "date_start": "2026-03-29",
@@ -1014,6 +1027,32 @@
     "lon": -61.369585
   },
   {
+    "id": "160",
+    "name": "Salamandres Beach 33 2026 #4",
+    "date_start": "2026-04-19",
+    "date_end": "2026-04-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Médar-en-Jalles",
+    "address": "Ball' en Jall' Pl. Michel Gadret 33160 - SAINT MEDAR EN JALLES FRANCE",
+    "lat": 44.888077,
+    "lon": -0.704039
+  },
+  {
+    "id": "161",
+    "name": "Salamandres Beach 33 2026 #4",
+    "date_start": "2026-04-19",
+    "date_end": "2026-04-19",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Médar-en-Jalles",
+    "address": "Ball' en Jall' Pl. Michel Gadret 33160 - SAINT MEDAR EN JALLES FRANCE",
+    "lat": 44.888077,
+    "lon": -0.704039
+  },
+  {
     "id": "151",
     "name": "BTARA-US MEYZIEU BEACH #4",
     "date_start": "2026-04-26",
@@ -1040,6 +1079,19 @@
     "lon": 3.875
   },
   {
+    "id": "157",
+    "name": "Anglet S3 #2",
+    "date_start": "2026-04-12",
+    "date_end": "2026-04-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Anglet",
+    "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
+    "lat": 43.502002,
+    "lon": -1.540854
+  },
+  {
     "id": "152",
     "name": "Sand System Beach Serie  - 100 F",
     "date_start": "2026-04-24",
@@ -1051,6 +1103,19 @@
     "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
     "lat": 48.890302,
     "lon": 2.397433
+  },
+  {
+    "id": "158",
+    "name": "Anglet S3 #2",
+    "date_start": "2026-04-30",
+    "date_end": "2026-04-30",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Anglet",
+    "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
+    "lat": 43.502002,
+    "lon": -1.540854
   },
   {
     "id": "116",
@@ -1259,6 +1324,19 @@
     "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
     "lat": 44.779392,
     "lon": -0.628661
+  },
+  {
+    "id": "159",
+    "name": "BTARA-US MEYZIEU BEACH #5",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Meyzieu",
+    "address": "Gymnase Evariste Galois 45 Rue Henri Lebrun 69330 - MEYZIEU FRANCE",
+    "lat": 45.771222,
+    "lon": 4.996361
   },
   {
     "id": "123",
