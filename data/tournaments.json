@@ -196,7 +196,7 @@
   },
   {
     "id": "125",
-    "name": "Peymeinade Beach séries 3",
+    "name": "(ANNULE) Peymeinade Beach séries 3",
     "date_start": "2026-03-07",
     "date_end": "2026-03-07",
     "genre": "Féminin",
@@ -222,7 +222,7 @@
   },
   {
     "id": "126",
-    "name": "Peymeinade Beach séries 3",
+    "name": "(ANNULE) Peymeinade Beach séries 3",
     "date_start": "2026-03-08",
     "date_end": "2026-03-08",
     "genre": "Masculin",
@@ -521,7 +521,7 @@
   },
   {
     "id": "17",
-    "name": "PLAYBOX BeachNantesReze ABBT#6",
+    "name": "PLAYBOX BNR",
     "date_start": "2026-03-15",
     "date_end": "2026-03-15",
     "genre": "Masculin",
@@ -570,6 +570,19 @@
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
     "lat": 43.608174,
     "lon": 1.420437
+  },
+  {
+    "id": "162",
+    "name": "Sand System Beach Open #1 - 100 M",
+    "date_start": "2026-03-27",
+    "date_end": "2026-03-27",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "77",
@@ -1014,6 +1027,97 @@
     "lon": -61.369585
   },
   {
+    "id": "160",
+    "name": "Salamandres Beach 33 2026 #4",
+    "date_start": "2026-04-19",
+    "date_end": "2026-04-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Médar-en-Jalles",
+    "address": "Ball' en Jall' Pl. Michel Gadret 33160 - SAINT MEDAR EN JALLES FRANCE",
+    "lat": 44.888077,
+    "lon": -0.704039
+  },
+  {
+    "id": "161",
+    "name": "Salamandres Beach 33 2026 #4",
+    "date_start": "2026-04-19",
+    "date_end": "2026-04-19",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Médar-en-Jalles",
+    "address": "Ball' en Jall' Pl. Michel Gadret 33160 - SAINT MEDAR EN JALLES FRANCE",
+    "lat": 44.888077,
+    "lon": -0.704039
+  },
+  {
+    "id": "151",
+    "name": "BTARA-US MEYZIEU BEACH #4",
+    "date_start": "2026-04-26",
+    "date_end": "2026-04-26",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Meyzieu",
+    "address": "Gymnase Evariste Galois 45 Rue Henri Lebrun 69330 - MEYZIEU FRANCE",
+    "lat": 45.771222,
+    "lon": 4.996361
+  },
+  {
+    "id": "155",
+    "name": "MONTPELLIER BEACH VOLLEY MIXTE",
+    "date_start": "2026-04-11",
+    "date_end": "2026-04-11",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "Montpellier",
+    "address": "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.627214,
+    "lon": 3.875
+  },
+  {
+    "id": "157",
+    "name": "Anglet S3 #2",
+    "date_start": "2026-04-12",
+    "date_end": "2026-04-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Anglet",
+    "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
+    "lat": 43.502002,
+    "lon": -1.540854
+  },
+  {
+    "id": "152",
+    "name": "Sand System Beach Serie  - 100 F",
+    "date_start": "2026-04-24",
+    "date_end": "2026-04-24",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
+    "id": "158",
+    "name": "Anglet S3 #2",
+    "date_start": "2026-04-30",
+    "date_end": "2026-04-30",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Anglet",
+    "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
+    "lat": 43.502002,
+    "lon": -1.540854
+  },
+  {
     "id": "116",
     "name": "VSGC Beach Master 20 St Germain",
     "date_start": "2026-05-29",
@@ -1072,6 +1176,19 @@
     "date_end": "2026-05-02",
     "genre": "Féminin",
     "genre_code": "F",
+    "serie": "Série 2 - 1000",
+    "city": "La Courneuve",
+    "address": "Parc Departemental des Sports de Marville 51 avenue Roger Salengro 93027 - LA COURNEUVE FRANCE",
+    "lat": 48.932689,
+    "lon": 2.400799
+  },
+  {
+    "id": "150",
+    "name": "Champion's Ligue IDF",
+    "date_start": "2026-05-01",
+    "date_end": "2026-05-03",
+    "genre": "Masculin",
+    "genre_code": "M",
     "serie": "Série 2 - 1000",
     "city": "La Courneuve",
     "address": "Parc Departemental des Sports de Marville 51 avenue Roger Salengro 93027 - LA COURNEUVE FRANCE",
@@ -1144,6 +1261,19 @@
     "lon": -1.395261
   },
   {
+    "id": "153",
+    "name": "Anglet beach bask Series 3",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 500",
+    "city": "Anglet",
+    "address": "Plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
+    "lat": 43.502002,
+    "lon": -1.540854
+  },
+  {
     "id": "133",
     "name": "RACCOON SUR MARNE (94)",
     "date_start": "2026-05-09",
@@ -1155,6 +1285,19 @@
     "address": "Stade sous la Lune - Alain Mimoun Avenue Smith Champion 94130 - NOGENT-SUR-MARNE FRANCE",
     "lat": 48.832277,
     "lon": 2.486139
+  },
+  {
+    "id": "154",
+    "name": "Anglet beach bask Series 3",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Anglet",
+    "address": "Plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
+    "lat": 43.502002,
+    "lon": -1.540854
   },
   {
     "id": "81",
@@ -1181,6 +1324,19 @@
     "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
     "lat": 44.779392,
     "lon": -0.628661
+  },
+  {
+    "id": "159",
+    "name": "BTARA-US MEYZIEU BEACH #5",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Meyzieu",
+    "address": "Gymnase Evariste Galois 45 Rue Henri Lebrun 69330 - MEYZIEU FRANCE",
+    "lat": 45.771222,
+    "lon": 4.996361
   },
   {
     "id": "123",
@@ -1272,6 +1428,19 @@
     "address": "Complexe sportif Rue des loisirs 26600 - PONT DE L'ISERE FRANCE",
     "lat": 44.996958,
     "lon": 4.868408
+  },
+  {
+    "id": "156",
+    "name": "24° TOURNOI \"1 GARS 1 FILLE\"",
+    "date_start": "2026-07-14",
+    "date_end": "2026-07-14",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "Le Touquet Paris-Plage",
+    "address": "Patio Central de la Plage Boulevard de la Mer 62520 - LE TOUQUET PARIS PLAGE FRANCE",
+    "lat": 50.525905,
+    "lon": 1.581372
   },
   {
     "id": "80",
