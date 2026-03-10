@@ -346,5 +346,13 @@
   "Patio Central de la Plage Boulevard de la Mer 62520 LE TOUQUET PARIS PLAGE": {
     "lat": 50.525905,
     "lon": 1.581372
+  },
+  "Complexe Grégory Coupet 17 rue Louis Pize 69004 LYON, FRANCE": {
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  "Base de loisir du Pays du Montbéliard Rue du Pâquis 25600 BROGNARD": {
+    "lat": 47.529622,
+    "lon": 6.862684
   }
 }
