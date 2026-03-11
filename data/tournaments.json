@@ -209,7 +209,7 @@
   },
   {
     "id": "53",
-    "name": "Monaco Winter Tour #7",
+    "name": "(ANNULE) Monaco Winter Tour #7",
     "date_start": "2026-03-08",
     "date_end": "2026-03-08",
     "genre": "Mixte",
@@ -949,6 +949,32 @@
     "lon": 2.397433
   },
   {
+    "id": "177",
+    "name": "BTAURA OnlyBeach M  #2",
+    "date_start": "2026-04-06",
+    "date_end": "2026-04-06",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "LYON, FRANCE",
+    "address": "Complexe Grégory Coupet 17 rue Louis Pize 69004 - LYON, FRANCE FRANCE",
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  {
+    "id": "174",
+    "name": "S3 - MIXTE",
+    "date_start": "2026-04-11",
+    "date_end": "2026-04-11",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
     "id": "110",
     "name": "Pont de l'Isère Féminin",
     "date_start": "2026-04-12",
@@ -1079,6 +1105,32 @@
     "lon": -0.704039
   },
   {
+    "id": "175",
+    "name": "S3 - 150",
+    "date_start": "2026-04-19",
+    "date_end": "2026-04-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
+    "id": "176",
+    "name": "S3 - 150",
+    "date_start": "2026-04-19",
+    "date_end": "2026-04-19",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
     "id": "151",
     "name": "BTARA-US MEYZIEU BEACH #4",
     "date_start": "2026-04-26",
@@ -1090,6 +1142,32 @@
     "address": "Gymnase Evariste Galois 45 Rue Henri Lebrun 69330 - MEYZIEU FRANCE",
     "lat": 45.771222,
     "lon": 4.996361
+  },
+  {
+    "id": "172",
+    "name": "S3 - 100",
+    "date_start": "2026-04-05",
+    "date_end": "2026-04-05",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
+    "id": "173",
+    "name": "S3 - 100",
+    "date_start": "2026-04-05",
+    "date_end": "2026-04-05",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
   },
   {
     "id": "155",
@@ -1324,6 +1402,32 @@
     "address": "Plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
     "lat": 43.502002,
     "lon": -1.540854
+  },
+  {
+    "id": "178",
+    "name": "S3 - 250",
+    "date_start": "2026-05-02",
+    "date_end": "2026-05-02",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
+    "id": "179",
+    "name": "S3 - 250",
+    "date_start": "2026-05-02",
+    "date_end": "2026-05-02",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
   },
   {
     "id": "133",
