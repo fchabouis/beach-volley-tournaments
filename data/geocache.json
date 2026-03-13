@@ -358,5 +358,26 @@
   "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 SAINTES": {
     "lat": 45.735954,
     "lon": -0.650715
+  },
+  "Esplanade Christian Massicot 20 Bvd de l'Océan 44250 ST BREVIN LES PINS": {
+    "lat": 47.232352,
+    "lon": -2.180402
+  },
+  "Stade Louis Lumière 30 rue Louis Lumière 75020 PARIS": {
+    "lat": 48.859198,
+    "lon": 2.411646
+  },
+  "Charles Geniaux Rue Charles Geniaux 35000 RENNES": {
+    "lat": 48.110488,
+    "lon": -1.711709
+  },
+  "Centre Sportif de Normandie 71 Route de la Vallée 14150 HOULGATE": null,
+  "Houlgate": {
+    "lat": 49.296419,
+    "lon": -0.065237
+  },
+  "Complexe Saint Exupéry 534 avenue Saint Exupéry 69400 VILLEFRANCHE SUR SAONE": {
+    "lat": 45.990558,
+    "lon": 4.708182
   }
 }

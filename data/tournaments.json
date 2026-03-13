@@ -47,9 +47,9 @@
     "genre_code": "M",
     "serie": "Série 2 - 500",
     "city": "Saint Brévin Les Pins",
-    "address": "Plage du Val d'or Chemin de la marine 44250 - ST BREVIN LES PINS FRANCE",
-    "lat": 47.234697,
-    "lon": -2.178265
+    "address": "Esplanade Christian Massicot 20 Bvd de l'Océan 44250 - ST BREVIN LES PINS FRANCE",
+    "lat": 47.232352,
+    "lon": -2.180402
   },
   {
     "id": "45",
@@ -1131,6 +1131,19 @@
     "lon": -0.650715
   },
   {
+    "id": "186",
+    "name": "Tournoi PBV H - S3 150 #1",
+    "date_start": "2026-04-19",
+    "date_end": "2026-04-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Paris Beach Volley",
+    "address": "Stade Louis Lumière 30 rue Louis Lumière 75020 - PARIS FRANCE",
+    "lat": 48.859198,
+    "lon": 2.411646
+  },
+  {
     "id": "151",
     "name": "BTARA-US MEYZIEU BEACH #4",
     "date_start": "2026-04-26",
@@ -1194,6 +1207,32 @@
     "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
     "lat": 43.502002,
     "lon": -1.540854
+  },
+  {
+    "id": "180",
+    "name": "Open rennes avril",
+    "date_start": "2026-04-19",
+    "date_end": "2026-04-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Rennes",
+    "address": "Charles Geniaux Rue Charles Geniaux 35000 - RENNES FRANCE",
+    "lat": 48.110488,
+    "lon": -1.711709
+  },
+  {
+    "id": "181",
+    "name": "Open rennes avril",
+    "date_start": "2026-04-19",
+    "date_end": "2026-04-19",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Rennes",
+    "address": "Charles Geniaux Rue Charles Geniaux 35000 - RENNES FRANCE",
+    "lat": 48.110488,
+    "lon": -1.711709
   },
   {
     "id": "152",
@@ -1391,6 +1430,19 @@
     "lon": -1.395261
   },
   {
+    "id": "187",
+    "name": "Btaura Onlybeach M #5",
+    "date_start": "2026-05-16",
+    "date_end": "2026-05-16",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 500",
+    "city": "LYON, FRANCE",
+    "address": "Complexe Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  {
     "id": "153",
     "name": "Anglet beach bask Series 3",
     "date_start": "2026-05-17",
@@ -1573,6 +1625,32 @@
     "lon": 1.978507
   },
   {
+    "id": "184",
+    "name": "Serie 3 du CD 14",
+    "date_start": "2026-05-25",
+    "date_end": "2026-05-25",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Houlgate",
+    "address": "Centre Sportif de Normandie 71 Route de la Vallée 14150 - HOULGATE FRANCE",
+    "lat": 49.296419,
+    "lon": -0.065237
+  },
+  {
+    "id": "185",
+    "name": "Serie 3 du CD 14",
+    "date_start": "2026-05-25",
+    "date_end": "2026-05-25",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Houlgate",
+    "address": "Centre Sportif de Normandie 71 Route de la Vallée 14150 - HOULGATE FRANCE",
+    "lat": 49.296419,
+    "lon": -0.065237
+  },
+  {
     "id": "163",
     "name": "RE BEACH FRANCE 2026",
     "date_start": "2026-06-12",
@@ -1636,6 +1714,32 @@
     "address": "Complexe sportif Rue des loisirs 26600 - PONT DE L'ISERE FRANCE",
     "lat": 44.996958,
     "lon": 4.868408
+  },
+  {
+    "id": "182",
+    "name": "BTARA Villefranche-sur-Saône",
+    "date_start": "2026-06-27",
+    "date_end": "2026-06-27",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Villefranche-sur-Saône",
+    "address": "Complexe Saint Exupéry 534 avenue Saint Exupéry 69400 - VILLEFRANCHE SUR SAONE FRANCE",
+    "lat": 45.990558,
+    "lon": 4.708182
+  },
+  {
+    "id": "183",
+    "name": "BTARA Villefranche-sur-Saône",
+    "date_start": "2026-06-28",
+    "date_end": "2026-06-28",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Villefranche-sur-Saône",
+    "address": "Complexe Saint Exupéry 534 avenue Saint Exupéry 69400 - VILLEFRANCHE SUR SAONE FRANCE",
+    "lat": 45.990558,
+    "lon": 4.708182
   },
   {
     "id": "156",
