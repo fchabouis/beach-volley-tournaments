@@ -1001,6 +1001,58 @@
     "lon": 4.868408
   },
   {
+    "id": "197",
+    "name": "Pays de Grasse Beach séries 3 Féminin",
+    "date_start": "2026-04-12",
+    "date_end": "2026-04-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Peymeinade",
+    "address": "Beach Park de Peymeinade 8 chemin du suye 06530 - PEYMEINADE FRANCE",
+    "lat": 43.637386,
+    "lon": 6.875652
+  },
+  {
+    "id": "198",
+    "name": "Pays de Grasse beach séries 3 Masculin",
+    "date_start": "2026-04-12",
+    "date_end": "2026-04-12",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Peymeinade",
+    "address": "Beach Park de Peymeinade 8 chemin du suye 06530 - PEYMEINADE FRANCE",
+    "lat": 43.637386,
+    "lon": 6.875652
+  },
+  {
+    "id": "203",
+    "name": "Open Beach St-Germain #8",
+    "date_start": "2026-04-12",
+    "date_end": "2026-04-12",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint Germain En Laye",
+    "address": "Stade Georges Lefèvre Avenue Kennedy 78100 - ST GERMAIN EN LAYE FRANCE",
+    "lat": 48.912034,
+    "lon": 2.080378
+  },
+  {
+    "id": "204",
+    "name": "Open Beach St-Germain #8",
+    "date_start": "2026-04-12",
+    "date_end": "2026-04-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint Germain En Laye",
+    "address": "Stade Georges Lefèvre Avenue Kennedy 78100 - ST GERMAIN EN LAYE FRANCE",
+    "lat": 48.912034,
+    "lon": 2.080378
+  },
+  {
     "id": "84",
     "name": "Marmande Beach 47",
     "date_start": "2026-04-18",
@@ -1157,6 +1209,19 @@
     "lon": 2.411646
   },
   {
+    "id": "202",
+    "name": "OPEN ASSOA MIXTE #2",
+    "date_start": "2026-04-19",
+    "date_end": "2026-04-19",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint Ouen L'aumone",
+    "address": "Parc des Sports 1 boulevard Ducher 95310 - ST-OUEN L'AUMONE FRANCE",
+    "lat": 49.042462,
+    "lon": 2.101355
+  },
+  {
     "id": "151",
     "name": "BTARA-US MEYZIEU BEACH #4",
     "date_start": "2026-04-26",
@@ -1168,6 +1233,19 @@
     "address": "Gymnase Evariste Galois 45 Rue Henri Lebrun 69330 - MEYZIEU FRANCE",
     "lat": 45.771222,
     "lon": 4.996361
+  },
+  {
+    "id": "206",
+    "name": "Tournoi PBV F - S3 150 #1",
+    "date_start": "2026-04-26",
+    "date_end": "2026-04-26",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "Centre Sportif Louis Lumière 30 rue Louis Lumière 75020 - PARIS FRANCE",
+    "lat": 48.859198,
+    "lon": 2.411646
   },
   {
     "id": "172",
@@ -1207,84 +1285,6 @@
     "address": "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
     "lat": 43.627214,
     "lon": 3.875
-  },
-  {
-    "id": "157",
-    "name": "Anglet S3 #2",
-    "date_start": "2026-04-12",
-    "date_end": "2026-04-12",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Anglet",
-    "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
-    "lat": 43.502002,
-    "lon": -1.540854
-  },
-  {
-    "id": "180",
-    "name": "Open rennes avril",
-    "date_start": "2026-04-19",
-    "date_end": "2026-04-19",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 3 - 100",
-    "city": "Rennes",
-    "address": "Charles Geniaux Rue Charles Geniaux 35000 - RENNES FRANCE",
-    "lat": 48.110488,
-    "lon": -1.711709
-  },
-  {
-    "id": "181",
-    "name": "Open rennes avril",
-    "date_start": "2026-04-19",
-    "date_end": "2026-04-19",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Rennes",
-    "address": "Charles Geniaux Rue Charles Geniaux 35000 - RENNES FRANCE",
-    "lat": 48.110488,
-    "lon": -1.711709
-  },
-  {
-    "id": "188",
-    "name": "SANTA BREVINA BEACH SERIES",
-    "date_start": "2026-04-19",
-    "date_end": "2026-04-19",
-    "genre": "Mixte",
-    "genre_code": "X",
-    "serie": "Série 3 - 100",
-    "city": "Saint Brévin Les Pins",
-    "address": "Plage du Val d'or Chemin de la marine 44250 - ST BREVIN LES PINS FRANCE",
-    "lat": 47.234697,
-    "lon": -2.178265
-  },
-  {
-    "id": "152",
-    "name": "Sand System Beach Serie  - 100 F",
-    "date_start": "2026-04-24",
-    "date_end": "2026-04-24",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Paris",
-    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
-    "lat": 48.890302,
-    "lon": 2.397433
-  },
-  {
-    "id": "158",
-    "name": "Anglet S3 #2",
-    "date_start": "2026-04-30",
-    "date_end": "2026-04-30",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Anglet",
-    "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
-    "lat": 43.502002,
-    "lon": -1.540854
   },
   {
     "id": "116",
@@ -1560,6 +1560,45 @@
     "lon": 4.55608
   },
   {
+    "id": "199",
+    "name": "AB Memory beach 2026",
+    "date_start": "2026-05-02",
+    "date_end": "2026-05-02",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Brognard",
+    "address": "Base de loisirs du Pays de Montbéliard Rue du Pâquis 25600 - BROGNARD FRANCE",
+    "lat": 47.529622,
+    "lon": 6.862684
+  },
+  {
+    "id": "200",
+    "name": "AB Memory beach 2026",
+    "date_start": "2026-05-02",
+    "date_end": "2026-05-02",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Brognard",
+    "address": "Base de loisirs du Pays de Montbéliard Rue du Pâquis 25600 - BROGNARD FRANCE",
+    "lat": 47.529622,
+    "lon": 6.862684
+  },
+  {
+    "id": "207",
+    "name": "Stade Montois 1 S3 150",
+    "date_start": "2026-05-02",
+    "date_end": "2026-05-02",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "ST PIERRE DU MONT",
+    "address": "Base de loisirs du Marsan D824 , 40280 saint pierre du mont 40280 - ST PIERRE DU MONT FRANCE",
+    "lat": 43.880757,
+    "lon": -0.535029
+  },
+  {
     "id": "194",
     "name": "BAROBEACH QUEENS",
     "date_start": "2026-05-03",
@@ -1571,6 +1610,19 @@
     "address": "Domaine de la Barollière 2250 Route de la Barollière 42740 - SAINT PAUL EN JAREZ FRANCE",
     "lat": 45.467917,
     "lon": 4.55608
+  },
+  {
+    "id": "201",
+    "name": "AB Memory Beach 2026",
+    "date_start": "2026-05-03",
+    "date_end": "2026-05-03",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Brognard",
+    "address": "Base de loisirs du Pays de Montbéliard Rue du Pâquis 25600 - BROGNARD FRANCE",
+    "lat": 47.529622,
+    "lon": 6.862684
   },
   {
     "id": "40",

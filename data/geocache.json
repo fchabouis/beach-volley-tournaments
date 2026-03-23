@@ -383,5 +383,25 @@
   "Domaine de la Barollière 2250 Route de la Barollière 42740 SAINT PAUL EN JAREZ": {
     "lat": 45.467917,
     "lon": 4.55608
+  },
+  "Beach Park de Peymeinade 8 chemin du suye 06530 PEYMEINADE": {
+    "lat": 43.637386,
+    "lon": 6.875652
+  },
+  "Stade Georges Lefèvre Avenue Kennedy 78100 ST GERMAIN EN LAYE": {
+    "lat": 48.912034,
+    "lon": 2.080378
+  },
+  "Centre Sportif Louis Lumière 30 rue Louis Lumière 75020 PARIS": {
+    "lat": 48.859198,
+    "lon": 2.411646
+  },
+  "Base de loisirs du Pays de Montbéliard Rue du Pâquis 25600 BROGNARD": {
+    "lat": 47.529622,
+    "lon": 6.862684
+  },
+  "Base de loisirs du Marsan D824 , 40280 saint pierre du mont 40280 ST PIERRE DU MONT": {
+    "lat": 43.880757,
+    "lon": -0.535029
   }
 }
