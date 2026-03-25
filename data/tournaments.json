@@ -1833,6 +1833,32 @@
     "lon": 6.862684
   },
   {
+    "id": "210",
+    "name": "VIENNE BEACH OPEN",
+    "date_start": "2026-06-27",
+    "date_end": "2026-06-28",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 1000",
+    "city": "SAINT ROMAIN EN GAL",
+    "address": "Beach Parc Saint-Romain-en-Gal 65 Grande Rue de la Plaine 69560 - SAINT ROMAIN EN GAL FRANCE",
+    "lat": 45.535905,
+    "lon": 4.862528
+  },
+  {
+    "id": "211",
+    "name": "VIENNE BEACH OPEN",
+    "date_start": "2026-06-27",
+    "date_end": "2026-06-28",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 1000",
+    "city": "SAINT ROMAIN EN GAL",
+    "address": "Beach Parc Saint-Romain-en-Gal 65 Grande Rue de la Plaine 69560 - SAINT ROMAIN EN GAL FRANCE",
+    "lat": 45.535905,
+    "lon": 4.862528
+  },
+  {
     "id": "142",
     "name": "BTARA Pont de l'Isère",
     "date_start": "2026-06-13",
