@@ -52,19 +52,6 @@
     "lon": -2.180402
   },
   {
-    "id": "45",
-    "name": "MONTPELLIER BEACH VOLLEY SERIES 500 F MARS",
-    "date_start": "2026-03-28",
-    "date_end": "2026-03-28",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 2 - 500",
-    "city": "Montpellier",
-    "address": "Parc de La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.627214,
-    "lon": 3.875
-  },
-  {
     "id": "46",
     "name": "MONTPELLIER BEACH VOLLEY SERIES 500 M MARS",
     "date_start": "2026-03-29",
@@ -167,6 +154,19 @@
     "address": "Complexe Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
     "lat": 45.781751,
     "lon": 4.822236
+  },
+  {
+    "id": "45",
+    "name": "MONTPELLIER BEACH VOLLEY SERIES 500 F MARS",
+    "date_start": "2026-03-28",
+    "date_end": "2026-03-28",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "Parc de La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.627214,
+    "lon": 3.875
   },
   {
     "id": "74",
