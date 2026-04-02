@@ -130,19 +130,6 @@
     "lon": -1.395261
   },
   {
-    "id": "88",
-    "name": "Ré Beach Open #7",
-    "date_start": "2026-04-05",
-    "date_end": "2026-04-06",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 2 - 500",
-    "city": "Le Bois Plage En Ré",
-    "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
-    "lat": 46.181152,
-    "lon": -1.395261
-  },
-  {
     "id": "76",
     "name": "Anglet Beach Bask series #2",
     "date_start": "2026-04-26",
@@ -180,6 +167,19 @@
     "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
     "lat": 50.68526,
     "lon": 3.08317
+  },
+  {
+    "id": "88",
+    "name": "Ré Beach Open #7",
+    "date_start": "2026-04-06",
+    "date_end": "2026-04-06",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Le Bois Plage En Ré",
+    "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
+    "lat": 46.181152,
+    "lon": -1.395261
   },
   {
     "id": "132",
