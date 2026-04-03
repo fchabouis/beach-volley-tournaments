@@ -407,5 +407,14 @@
   "Beach Parc Saint Romain en Gal 65 Grande Rue de la Plaine 69560 SAINT ROMAIN EN GAL": {
     "lat": 45.535905,
     "lon": 4.862528
+  },
+  "Base de loisirs de la Borde Base de loisirs de la Borde 28400 ARCISSES": null,
+  "Arcisses": {
+    "lat": 48.333173,
+    "lon": 0.889016
+  },
+  "Plage des Ponchettes Quai des Etats Unis 06000 NICE": {
+    "lat": 43.700388,
+    "lon": 7.272966
   }
 }

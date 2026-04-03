@@ -910,6 +910,19 @@
     "lon": -1.182327
   },
   {
+    "id": "213",
+    "name": "TOURNOI S3 BEACH DU PERCHE",
+    "date_start": "2026-05-01",
+    "date_end": "2026-05-01",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Arcisses",
+    "address": "Base de loisirs de la Borde Base de loisirs de la Borde 28400 - ARCISSES FRANCE",
+    "lat": 48.333173,
+    "lon": 0.889016
+  },
+  {
     "id": "193",
     "name": "Barobeach Masters",
     "date_start": "2026-05-02",
@@ -960,6 +973,19 @@
     "address": "Base de loisirs du Marsan D824 , 40280 saint pierre du mont 40280 - ST PIERRE DU MONT FRANCE",
     "lat": 43.880757,
     "lon": -0.535029
+  },
+  {
+    "id": "214",
+    "name": "TOURNOI S3 BEACH DU PERCHE",
+    "date_start": "2026-05-02",
+    "date_end": "2026-05-02",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Arcisses",
+    "address": "Base de loisirs de la Borde Base de loisirs de la Borde 28400 - ARCISSES FRANCE",
+    "lat": 48.333173,
+    "lon": 0.889016
   },
   {
     "id": "194",
@@ -1298,6 +1324,19 @@
     "address": "Domaine de la Barollière 2250 Route de la Barollière 42740 - SAINT PAUL EN JAREZ FRANCE",
     "lat": 45.467917,
     "lon": 4.55608
+  },
+  {
+    "id": "212",
+    "name": "NICE BEACH PRO TOUR 2026",
+    "date_start": "2026-07-04",
+    "date_end": "2026-07-05",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 1000",
+    "city": "Nice",
+    "address": "Plage des Ponchettes Quai des Etats-Unis 06000 - NICE FRANCE",
+    "lat": 43.700388,
+    "lon": 7.272966
   },
   {
     "id": "156",
