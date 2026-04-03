@@ -346,5 +346,75 @@
   "Patio Central de la Plage Boulevard de la Mer 62520 LE TOUQUET PARIS PLAGE": {
     "lat": 50.525905,
     "lon": 1.581372
+  },
+  "Complexe Grégory Coupet 17 rue Louis Pize 69004 LYON, FRANCE": {
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  "Base de loisir du Pays du Montbéliard Rue du Pâquis 25600 BROGNARD": {
+    "lat": 47.529622,
+    "lon": 6.862684
+  },
+  "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 SAINTES": {
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  "Esplanade Christian Massicot 20 Bvd de l'Océan 44250 ST BREVIN LES PINS": {
+    "lat": 47.232352,
+    "lon": -2.180402
+  },
+  "Stade Louis Lumière 30 rue Louis Lumière 75020 PARIS": {
+    "lat": 48.859198,
+    "lon": 2.411646
+  },
+  "Charles Geniaux Rue Charles Geniaux 35000 RENNES": {
+    "lat": 48.110488,
+    "lon": -1.711709
+  },
+  "Centre Sportif de Normandie 71 Route de la Vallée 14150 HOULGATE": null,
+  "Houlgate": {
+    "lat": 49.296419,
+    "lon": -0.065237
+  },
+  "Complexe Saint Exupéry 534 avenue Saint Exupéry 69400 VILLEFRANCHE SUR SAONE": {
+    "lat": 45.990558,
+    "lon": 4.708182
+  },
+  "Domaine de la Barollière 2250 Route de la Barollière 42740 SAINT PAUL EN JAREZ": {
+    "lat": 45.467917,
+    "lon": 4.55608
+  },
+  "Beach Park de Peymeinade 8 chemin du suye 06530 PEYMEINADE": {
+    "lat": 43.637386,
+    "lon": 6.875652
+  },
+  "Stade Georges Lefèvre Avenue Kennedy 78100 ST GERMAIN EN LAYE": {
+    "lat": 48.912034,
+    "lon": 2.080378
+  },
+  "Centre Sportif Louis Lumière 30 rue Louis Lumière 75020 PARIS": {
+    "lat": 48.859198,
+    "lon": 2.411646
+  },
+  "Base de loisirs du Pays de Montbéliard Rue du Pâquis 25600 BROGNARD": {
+    "lat": 47.529622,
+    "lon": 6.862684
+  },
+  "Base de loisirs du Marsan D824 , 40280 saint pierre du mont 40280 ST PIERRE DU MONT": {
+    "lat": 43.880757,
+    "lon": -0.535029
+  },
+  "Beach Parc Saint Romain en Gal 65 Grande Rue de la Plaine 69560 SAINT ROMAIN EN GAL": {
+    "lat": 45.535905,
+    "lon": 4.862528
+  },
+  "Base de loisirs de la Borde Base de loisirs de la Borde 28400 ARCISSES": null,
+  "Arcisses": {
+    "lat": 48.333173,
+    "lon": 0.889016
+  },
+  "Plage des Ponchettes Quai des Etats Unis 06000 NICE": {
+    "lat": 43.700388,
+    "lon": 7.272966
   }
 }
