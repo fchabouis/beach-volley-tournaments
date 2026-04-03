@@ -77,7 +77,10 @@ function getISOWeek(dateStr) {
 }
 
 function getFiltered() {
+  const today = new Date().toISOString().slice(0, 10);
   return allTournaments.filter((t) => {
+    const end = t.date_end || t.date_start;
+    if (end && end < today) return false;
     if (filters.genres.size > 0 && !filters.genres.has(t.genre_code)) return false;
     if (filters.series.size > 0 && !filters.series.has(t.serie)) return false;
     if (filters.monthFrom || filters.yearFrom || filters.monthTo || filters.yearTo) {
