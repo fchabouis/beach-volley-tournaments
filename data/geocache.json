@@ -416,5 +416,21 @@
   "Plage des Ponchettes Quai des Etats Unis 06000 NICE": {
     "lat": 43.700388,
     "lon": 7.272966
+  },
+  "Stade Grégory Coupet 17 rue Louis Pize 69004 LYON": {
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  "Centre Loisirs Prince Albert II 1364 Route de Beausoleil 06320 LA TURBIE": {
+    "lat": 43.746459,
+    "lon": 7.413606
+  },
+  "Lac Kir Plage Est du lac kir, Avenue du prem 21000 DIJON": {
+    "lat": 47.320595,
+    "lon": 5.003016
+  },
+  "Beach Park du Carestier Avenue Etienne Lombardo 13700 MARIGNANE": {
+    "lat": 43.404835,
+    "lon": 5.219845
   }
 }

@@ -845,6 +845,19 @@
     "lon": -1.540854
   },
   {
+    "id": "225",
+    "name": "BTAURA ONLY BEACH F #5",
+    "date_start": "2026-05-30",
+    "date_end": "2026-05-31",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 500",
+    "city": "Lyon",
+    "address": "Stade Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  {
     "id": "178",
     "name": "Saintes Beach M - S2 250",
     "date_start": "2026-05-02",
@@ -895,6 +908,19 @@
     "address": "Plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
     "lat": 43.502002,
     "lon": -1.540854
+  },
+  {
+    "id": "223",
+    "name": "#BTO2026 TORTUGA",
+    "date_start": "2026-05-24",
+    "date_end": "2026-05-24",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Toulouse",
+    "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
+    "lat": 43.608174,
+    "lon": 1.420437
   },
   {
     "id": "81",
@@ -1012,6 +1038,19 @@
     "address": "Base de loisirs du Pays de Montbéliard Rue du Pâquis 25600 - BROGNARD FRANCE",
     "lat": 47.529622,
     "lon": 6.862684
+  },
+  {
+    "id": "216",
+    "name": "Monaco Summer Night #1",
+    "date_start": "2026-05-06",
+    "date_end": "2026-05-06",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II 1364 Route de Beausoleil 06320 - LA TURBIE FRANCE",
+    "lat": 43.746459,
+    "lon": 7.413606
   },
   {
     "id": "40",
@@ -1248,6 +1287,19 @@
     "lon": 4.862528
   },
   {
+    "id": "224",
+    "name": "#BTO2026 TORTUGA",
+    "date_start": "2026-06-06",
+    "date_end": "2026-06-06",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Toulouse",
+    "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
+    "lat": 43.608174,
+    "lon": 1.420437
+  },
+  {
     "id": "142",
     "name": "BTARA Pont de l'Isère",
     "date_start": "2026-06-13",
@@ -1255,6 +1307,84 @@
     "genre": "Masculin",
     "genre_code": "M",
     "serie": "Série 2 - 250",
+    "city": "Pont De L'Isère",
+    "address": "Complexe sportif Rue des loisirs 26600 - PONT DE L'ISERE FRANCE",
+    "lat": 44.996958,
+    "lon": 4.868408
+  },
+  {
+    "id": "219",
+    "name": "Open feminin Dijon",
+    "date_start": "2026-06-13",
+    "date_end": "2026-06-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "DIJON",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
+  },
+  {
+    "id": "220",
+    "name": "Open masculin Dijon",
+    "date_start": "2026-06-13",
+    "date_end": "2026-06-13",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "DIJON",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
+  },
+  {
+    "id": "221",
+    "name": "MARIGNANE SÉRIE 2",
+    "date_start": "2026-06-13",
+    "date_end": "2026-06-13",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Marignane",
+    "address": "Beach Park du Carestier Avenue Etienne Lombardo 13700 - MARIGNANE FRANCE",
+    "lat": 43.404835,
+    "lon": 5.219845
+  },
+  {
+    "id": "222",
+    "name": "MARIGNANE SÉRIE 2",
+    "date_start": "2026-06-13",
+    "date_end": "2026-06-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Marignane",
+    "address": "Beach Park du Carestier Avenue Etienne Lombardo 13700 - MARIGNANE FRANCE",
+    "lat": 43.404835,
+    "lon": 5.219845
+  },
+  {
+    "id": "218",
+    "name": "Open mixte Dijon",
+    "date_start": "2026-06-14",
+    "date_end": "2026-06-14",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 2 - 250",
+    "city": "DIJON",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
+  },
+  {
+    "id": "217",
+    "name": "Pont de l'Isère Feminin 2",
+    "date_start": "2026-06-21",
+    "date_end": "2026-06-21",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
     "city": "Pont De L'Isère",
     "address": "Complexe sportif Rue des loisirs 26600 - PONT DE L'ISERE FRANCE",
     "lat": 44.996958,
@@ -1350,6 +1480,32 @@
     "address": "Patio Central de la Plage Boulevard de la Mer 62520 - LE TOUQUET PARIS PLAGE FRANCE",
     "lat": 50.525905,
     "lon": 1.581372
+  },
+  {
+    "id": "226",
+    "name": "Open Beach Volley Anglet",
+    "date_start": "2026-08-14",
+    "date_end": "2026-08-16",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 750",
+    "city": "Anglet",
+    "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
+    "lat": 43.502002,
+    "lon": -1.540854
+  },
+  {
+    "id": "227",
+    "name": "Open Beach Volley Anglet",
+    "date_start": "2026-08-14",
+    "date_end": "2026-08-16",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 750",
+    "city": "Anglet",
+    "address": "plages des Sables d'or Plage des Sables d'or 64600 - ANGLET FRANCE",
+    "lat": 43.502002,
+    "lon": -1.540854
   },
   {
     "id": "169",
