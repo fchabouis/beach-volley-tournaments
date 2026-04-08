@@ -923,6 +923,19 @@
     "lon": 1.420437
   },
   {
+    "id": "228",
+    "name": "VIENNE BEACH OPEN",
+    "date_start": "2026-05-30",
+    "date_end": "2026-05-30",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Saint-Romain-en-Gal",
+    "address": "Beach Parc Saint-Romain-en-Gal 65 Grande Rue de la Plaine 69560 - SAINT ROMAIN EN GAL FRANCE",
+    "lat": 45.535905,
+    "lon": 4.862528
+  },
+  {
     "id": "81",
     "name": "Ça mixte chez LES MORDUS ! #3",
     "date_start": "2026-05-01",
@@ -1287,6 +1300,32 @@
     "lon": 4.862528
   },
   {
+    "id": "219",
+    "name": "Open feminin Dijon",
+    "date_start": "2026-06-13",
+    "date_end": "2026-06-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 500",
+    "city": "DIJON",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
+  },
+  {
+    "id": "220",
+    "name": "Open masculin Dijon",
+    "date_start": "2026-06-13",
+    "date_end": "2026-06-13",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 500",
+    "city": "DIJON",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
+  },
+  {
     "id": "224",
     "name": "#BTO2026 TORTUGA",
     "date_start": "2026-06-06",
@@ -1311,32 +1350,6 @@
     "address": "Complexe sportif Rue des loisirs 26600 - PONT DE L'ISERE FRANCE",
     "lat": 44.996958,
     "lon": 4.868408
-  },
-  {
-    "id": "219",
-    "name": "Open feminin Dijon",
-    "date_start": "2026-06-13",
-    "date_end": "2026-06-13",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 2 - 250",
-    "city": "DIJON",
-    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
-    "lat": 47.320595,
-    "lon": 5.003016
-  },
-  {
-    "id": "220",
-    "name": "Open masculin Dijon",
-    "date_start": "2026-06-13",
-    "date_end": "2026-06-13",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 2 - 250",
-    "city": "DIJON",
-    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
-    "lat": 47.320595,
-    "lon": 5.003016
   },
   {
     "id": "221",
