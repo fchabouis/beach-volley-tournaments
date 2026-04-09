@@ -404,7 +404,7 @@
   },
   {
     "id": "204",
-    "name": "Open Beach St-Germain #8",
+    "name": "(ANNULE) Open Beach St-Germain #8",
     "date_start": "2026-04-12",
     "date_end": "2026-04-12",
     "genre": "Féminin",
@@ -612,7 +612,7 @@
   },
   {
     "id": "172",
-    "name": "Saintes Beach M - S3 100",
+    "name": "(ANNULE) Saintes Beach M - S3 100",
     "date_start": "2026-04-05",
     "date_end": "2026-04-05",
     "genre": "Masculin",
@@ -1092,6 +1092,19 @@
     "lon": 4.996361
   },
   {
+    "id": "229",
+    "name": "Monaco Summer Night #2",
+    "date_start": "2026-05-22",
+    "date_end": "2026-05-22",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
     "id": "123",
     "name": "BEACH SERIES 13 #3",
     "date_start": "2026-05-23",
@@ -1391,6 +1404,45 @@
     "lon": 5.003016
   },
   {
+    "id": "230",
+    "name": "Monaco Summer Night #3",
+    "date_start": "2026-06-05",
+    "date_end": "2026-06-05",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
+    "id": "237",
+    "name": "BTARA-US MEYZIEU BEACH #6",
+    "date_start": "2026-06-14",
+    "date_end": "2026-06-14",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Meyzieu",
+    "address": "Gymnase Evariste Galois 45 Rue Henri Lebrun 69330 - MEYZIEU FRANCE",
+    "lat": 45.771222,
+    "lon": 4.996361
+  },
+  {
+    "id": "231",
+    "name": "Monaco Summer Night #4",
+    "date_start": "2026-06-19",
+    "date_end": "2026-06-19",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
     "id": "217",
     "name": "Pont de l'Isère Feminin 2",
     "date_start": "2026-06-21",
@@ -1482,6 +1534,45 @@
     "lon": 7.272966
   },
   {
+    "id": "232",
+    "name": "Monaco Summer Night #5",
+    "date_start": "2026-07-03",
+    "date_end": "2026-07-03",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
+    "id": "233",
+    "name": "Monaco Summer Night #6",
+    "date_start": "2026-07-17",
+    "date_end": "2026-07-17",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
+    "id": "234",
+    "name": "Monaco Summer Night #7",
+    "date_start": "2026-07-31",
+    "date_end": "2026-07-31",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
     "id": "156",
     "name": "24° TOURNOI \"1 GARS 1 FILLE\"",
     "date_start": "2026-07-14",
@@ -1532,6 +1623,32 @@
     "address": "Patio Central de la Plage Boulevard de la Mer 62520 - LE TOUQUET PARIS PLAGE FRANCE",
     "lat": 50.525905,
     "lon": 1.581372
+  },
+  {
+    "id": "235",
+    "name": "Monaco Summer Night #8",
+    "date_start": "2026-08-14",
+    "date_end": "2026-08-14",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
+    "id": "236",
+    "name": "Monaco Summer Night #9",
+    "date_start": "2026-08-28",
+    "date_end": "2026-08-28",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
   },
   {
     "id": "80",
