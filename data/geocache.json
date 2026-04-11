@@ -432,5 +432,17 @@
   "Beach Park du Carestier Avenue Etienne Lombardo 13700 MARIGNANE": {
     "lat": 43.404835,
     "lon": 5.219845
+  },
+  "Beach parc Rue du rooy 47300 VILLENEUVE SUR LOT": {
+    "lat": 44.396754,
+    "lon": 0.712439
+  },
+  "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 MONPTELLIER": {
+    "lat": 43.627214,
+    "lon": 3.875
+  },
+  "Parking Côte Vermeille Parking Côte Vermeille 66140 CANET EN ROUSILLON": {
+    "lat": 42.688558,
+    "lon": 3.035084
   }
 }
