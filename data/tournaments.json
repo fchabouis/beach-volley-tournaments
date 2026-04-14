@@ -326,7 +326,7 @@
   },
   {
     "id": "196",
-    "name": "Sand System Open Avril - 150 M",
+    "name": "(INTERROMPU) Sand System Open Avril - 150 M",
     "date_start": "2026-04-10",
     "date_end": "2026-04-10",
     "genre": "Masculin",
@@ -923,6 +923,32 @@
     "lon": 1.420437
   },
   {
+    "id": "248",
+    "name": "Skyball Tour - S2 du Week-end de la Saint Didier",
+    "date_start": "2026-05-24",
+    "date_end": "2026-05-24",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Bondues",
+    "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
+    "lat": 50.68526,
+    "lon": 3.08317
+  },
+  {
+    "id": "249",
+    "name": "Skyball Tour - S2 du Week-end de la Saint Didier",
+    "date_start": "2026-05-24",
+    "date_end": "2026-05-24",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Bondues",
+    "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
+    "lat": 50.68526,
+    "lon": 3.08317
+  },
+  {
     "id": "228",
     "name": "VIENNE BEACH OPEN",
     "date_start": "2026-05-30",
@@ -1079,6 +1105,32 @@
     "lon": -0.628661
   },
   {
+    "id": "266",
+    "name": "Sand System S3 150 Mixte - Mai",
+    "date_start": "2026-05-08",
+    "date_end": "2026-05-08",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
+    "id": "257",
+    "name": "Very Nice Beach M1",
+    "date_start": "2026-05-10",
+    "date_end": "2026-05-10",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  {
     "id": "159",
     "name": "BTARA-US MEYZIEU BEACH #5",
     "date_start": "2026-05-17",
@@ -1090,6 +1142,32 @@
     "address": "Gymnase Evariste Galois 45 Rue Henri Lebrun 69330 - MEYZIEU FRANCE",
     "lat": 45.771222,
     "lon": 4.996361
+  },
+  {
+    "id": "250",
+    "name": "Very Nice Beach X1",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  {
+    "id": "265",
+    "name": "Salamandres Beach 33 2026 #5",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Médar-en-Jalles",
+    "address": "Ball' en Jall' Pl. Michel Gadret 33160 - ST-MEDARD EN JALLES FRANCE",
+    "lat": 44.888077,
+    "lon": -0.704039
   },
   {
     "id": "229",
@@ -1131,6 +1209,19 @@
     "lon": 2.486139
   },
   {
+    "id": "262",
+    "name": "Skyball Tour - Mixte du Week-end de la Saint Didier",
+    "date_start": "2026-05-23",
+    "date_end": "2026-05-23",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Bondues",
+    "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
+    "lat": 50.68526,
+    "lon": 3.08317
+  },
+  {
     "id": "124",
     "name": "BEACH SERIES 13 #3",
     "date_start": "2026-05-24",
@@ -1142,6 +1233,19 @@
     "address": "Complexe Sportif et Culturel Airbus Helicopters Rue Jean-Louis Calderon 13700 - MARIGNANE FRANCE",
     "lat": 43.410202,
     "lon": 5.239681
+  },
+  {
+    "id": "251",
+    "name": "Very Nice Beach X2",
+    "date_start": "2026-05-31",
+    "date_end": "2026-05-31",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
   },
   {
     "id": "78",
@@ -1194,45 +1298,6 @@
     "address": "Centre Sportif de Normandie 71 Route de la Vallée 14150 - HOULGATE FRANCE",
     "lat": 49.296419,
     "lon": -0.065237
-  },
-  {
-    "id": "185",
-    "name": "Serie 3 du CD 14",
-    "date_start": "2026-05-25",
-    "date_end": "2026-05-25",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 3 - 100",
-    "city": "Houlgate",
-    "address": "Centre Sportif de Normandie 71 Route de la Vallée 14150 - HOULGATE FRANCE",
-    "lat": 49.296419,
-    "lon": -0.065237
-  },
-  {
-    "id": "191",
-    "name": "SANTA BREVINA BEACH SERIES",
-    "date_start": "2026-05-25",
-    "date_end": "2026-05-25",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 3 - 100",
-    "city": "Saint Brévin Les Pins",
-    "address": "Plage du Val d'or Chemin de la marine 44250 - ST BREVIN LES PINS FRANCE",
-    "lat": 47.234697,
-    "lon": -2.178265
-  },
-  {
-    "id": "192",
-    "name": "SANTA BREVINA BEACH SERIES",
-    "date_start": "2026-05-25",
-    "date_end": "2026-05-25",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Saint Brévin Les Pins",
-    "address": "Plage du Val d'or Chemin de la marine 44250 - ST BREVIN LES PINS FRANCE",
-    "lat": 47.234697,
-    "lon": -2.178265
   },
   {
     "id": "163",
@@ -1339,6 +1404,19 @@
     "lon": 5.003016
   },
   {
+    "id": "247",
+    "name": "SUNSET BEACH OPEN",
+    "date_start": "2026-06-13",
+    "date_end": "2026-06-14",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 2 - 500",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  {
     "id": "224",
     "name": "#BTO2026 TORTUGA",
     "date_start": "2026-06-06",
@@ -1415,6 +1493,32 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
+  },
+  {
+    "id": "258",
+    "name": "Very Nice Beach M2",
+    "date_start": "2026-06-06",
+    "date_end": "2026-06-06",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  {
+    "id": "252",
+    "name": "Very Nice Beach X3",
+    "date_start": "2026-06-07",
+    "date_end": "2026-06-07",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
   },
   {
     "id": "237",
@@ -1599,6 +1703,19 @@
     "lon": 7.401146
   },
   {
+    "id": "253",
+    "name": "Very Nice Beach X4",
+    "date_start": "2026-07-11",
+    "date_end": "2026-07-11",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  {
     "id": "240",
     "name": "CANET BEACH MASTERS",
     "date_start": "2026-07-14",
@@ -1636,6 +1753,32 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
+  },
+  {
+    "id": "259",
+    "name": "Very Nice Beach M3",
+    "date_start": "2026-07-25",
+    "date_end": "2026-07-25",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  {
+    "id": "254",
+    "name": "Very Nice Beach X5",
+    "date_start": "2026-07-26",
+    "date_end": "2026-07-26",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
   },
   {
     "id": "234",
@@ -1716,6 +1859,19 @@
     "lon": 1.581372
   },
   {
+    "id": "255",
+    "name": "Very Nice Beach X6",
+    "date_start": "2026-08-09",
+    "date_end": "2026-08-09",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  {
     "id": "235",
     "name": "Monaco Summer Night #8",
     "date_start": "2026-08-14",
@@ -1729,6 +1885,19 @@
     "lon": 7.401146
   },
   {
+    "id": "260",
+    "name": "Very Nice Beach M4",
+    "date_start": "2026-08-16",
+    "date_end": "2026-08-16",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  {
     "id": "236",
     "name": "Monaco Summer Night #9",
     "date_start": "2026-08-28",
@@ -1740,6 +1909,32 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
+  },
+  {
+    "id": "261",
+    "name": "Very Nice Beach M5",
+    "date_start": "2026-08-29",
+    "date_end": "2026-08-29",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  {
+    "id": "256",
+    "name": "Very Nice Beach X7",
+    "date_start": "2026-08-30",
+    "date_end": "2026-08-30",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
   },
   {
     "id": "80",

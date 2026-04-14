@@ -444,5 +444,13 @@
   "Parking Côte Vermeille Parking Côte Vermeille 66140 CANET EN ROUSILLON": {
     "lat": 42.688558,
     "lon": 3.035084
+  },
+  "Plage des ponchettes Quai des etats unis 06000 NICE": {
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  "Ball' en Jall' Pl. Michel Gadret 33160 ST MEDARD EN JALLES": {
+    "lat": 44.888077,
+    "lon": -0.704039
   }
 }
