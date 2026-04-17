@@ -469,7 +469,7 @@
   },
   {
     "id": "111",
-    "name": "C'Chartres Beach Volley #1 F",
+    "name": "(ANNULE) C'Chartres Beach Volley #1 F",
     "date_start": "2026-04-19",
     "date_end": "2026-04-19",
     "genre": "Féminin",
@@ -1248,6 +1248,32 @@
     "lon": 7.273028
   },
   {
+    "id": "267",
+    "name": "S3 Villeneuve sur Lot",
+    "date_start": "2026-05-31",
+    "date_end": "2026-05-31",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Villeneuve Sur Lot",
+    "address": "Beach parc Rue du rooy 47300 - VILLENEUVE SUR LOT FRANCE",
+    "lat": 44.396754,
+    "lon": 0.712439
+  },
+  {
+    "id": "268",
+    "name": "S3 Villeneuve sur Lot",
+    "date_start": "2026-05-31",
+    "date_end": "2026-05-31",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Villeneuve Sur Lot",
+    "address": "Beach parc Rue du rooy 47300 - VILLENEUVE SUR LOT FRANCE",
+    "lat": 44.396754,
+    "lon": 0.712439
+  },
+  {
     "id": "78",
     "name": "ASBAM Série 3-100 F",
     "date_start": "2026-05-16",
@@ -1272,32 +1298,6 @@
     "address": "ASBAM 36 Rue de la Cavalerie 34000 - MONTPELLIER CEDEX 5 FRANCE",
     "lat": 43.618049,
     "lon": 3.882289
-  },
-  {
-    "id": "147",
-    "name": "#BTO2026 TARN",
-    "date_start": "2026-05-23",
-    "date_end": "2026-05-23",
-    "genre": "Mixte",
-    "genre_code": "X",
-    "serie": "Série 3 - 100",
-    "city": "Rivières",
-    "address": "Espace de loisirs dAiguelèze Espace de loisirs dAiguelèze 81600 - RIVIERES FRANCE",
-    "lat": 43.91342,
-    "lon": 1.978507
-  },
-  {
-    "id": "184",
-    "name": "Serie 3 du CD 14",
-    "date_start": "2026-05-25",
-    "date_end": "2026-05-25",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Houlgate",
-    "address": "Centre Sportif de Normandie 71 Route de la Vallée 14150 - HOULGATE FRANCE",
-    "lat": 49.296419,
-    "lon": -0.065237
   },
   {
     "id": "163",
@@ -1428,6 +1428,32 @@
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
     "lat": 43.608174,
     "lon": 1.420437
+  },
+  {
+    "id": "270",
+    "name": "S2 Villeneuve sur Lot",
+    "date_start": "2026-06-07",
+    "date_end": "2026-06-07",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Villeneuve Sur Lot",
+    "address": "Beach parc Rue du rooy 47300 - VILLENEUVE SUR LOT FRANCE",
+    "lat": 44.396754,
+    "lon": 0.712439
+  },
+  {
+    "id": "271",
+    "name": "S2 Villeneuve sur Lot",
+    "date_start": "2026-06-07",
+    "date_end": "2026-06-07",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Villeneuve Sur Lot",
+    "address": "Beach parc Rue du rooy 47300 - VILLENEUVE SUR LOT FRANCE",
+    "lat": 44.396754,
+    "lon": 0.712439
   },
   {
     "id": "142",
@@ -1664,10 +1690,23 @@
     "lon": 7.272966
   },
   {
-    "id": "243",
-    "name": "MONTPELLIER BEACH MASTERS 750 F",
+    "id": "244",
+    "name": "MONTPELLIER BEACH MASTERS 750 M",
     "date_start": "2026-07-04",
     "date_end": "2026-07-04",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 750",
+    "city": "Montpellier",
+    "address": "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 - MONPTELLIER FRANCE",
+    "lat": 43.627214,
+    "lon": 3.875
+  },
+  {
+    "id": "243",
+    "name": "MONTPELLIER BEACH MASTERS 750 F",
+    "date_start": "2026-07-05",
+    "date_end": "2026-07-05",
     "genre": "Féminin",
     "genre_code": "F",
     "serie": "Série 2 - 750",
@@ -1677,17 +1716,17 @@
     "lon": 3.875
   },
   {
-    "id": "244",
-    "name": "MONTPELLIER BEACH MASTERS 750 F",
-    "date_start": "2026-07-05",
-    "date_end": "2026-07-05",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 2 - 750",
-    "city": "Montpellier",
-    "address": "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 - MONPTELLIER FRANCE",
-    "lat": 43.627214,
-    "lon": 3.875
+    "id": "269",
+    "name": "NICE BEACH SPONSORS",
+    "date_start": "2026-07-14",
+    "date_end": "2026-07-14",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 2 - 250",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
   },
   {
     "id": "232",
