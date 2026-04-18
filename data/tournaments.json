@@ -1300,6 +1300,32 @@
     "lon": 3.882289
   },
   {
+    "id": "283",
+    "name": "OPEN BEACH VOLLEY ORLEANS",
+    "date_start": "2026-06-06",
+    "date_end": "2026-06-07",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 1 - 1500",
+    "city": "ST JEAN LE BLANC",
+    "address": "PARC DE LOIRE LEVEE DE LA CHEVAUCHEE 45650 - ST JEAN LE BLANC FRANCE",
+    "lat": 47.892843,
+    "lon": 1.927532
+  },
+  {
+    "id": "284",
+    "name": "OPEN BEACH VOLLEY ORLEANS",
+    "date_start": "2026-06-06",
+    "date_end": "2026-06-07",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 1 - 1500",
+    "city": "ST JEAN LE BLANC",
+    "address": "PARC DE LOIRE LEVEE DE LA CHEVAUCHEE 45650 - ST JEAN LE BLANC FRANCE",
+    "lat": 47.892843,
+    "lon": 1.927532
+  },
+  {
     "id": "163",
     "name": "RE BEACH FRANCE 2026",
     "date_start": "2026-06-12",
