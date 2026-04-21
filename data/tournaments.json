@@ -1131,6 +1131,32 @@
     "lon": 7.273028
   },
   {
+    "id": "287",
+    "name": "C'Chartres Beach Volley #1 Mixte",
+    "date_start": "2026-05-14",
+    "date_end": "2026-05-14",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Chartres",
+    "address": "Terrains de Beach Volley - Chartres 9 rue des Hauts de Chartres 28000 - CHARTRES FRANCE",
+    "lat": 48.444761,
+    "lon": 1.510801
+  },
+  {
+    "id": "286",
+    "name": "C'Chartres Beach Volley #2 F",
+    "date_start": "2026-05-16",
+    "date_end": "2026-05-16",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Chartres",
+    "address": "Terrains de Beach Volley - Chartres 9 rue des Hauts de Chartres 28000 - CHARTRES FRANCE",
+    "lat": 48.444761,
+    "lon": 1.510801
+  },
+  {
     "id": "159",
     "name": "BTARA-US MEYZIEU BEACH #5",
     "date_start": "2026-05-17",
@@ -1168,6 +1194,19 @@
     "address": "Ball' en Jall' Pl. Michel Gadret 33160 - ST-MEDARD EN JALLES FRANCE",
     "lat": 44.888077,
     "lon": -0.704039
+  },
+  {
+    "id": "285",
+    "name": "C'Chartres Beach Volley #2 M",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Chartres",
+    "address": "Terrains de Beach Volley - Chartres 9 rue des Hauts de Chartres 28000 - CHARTRES FRANCE",
+    "lat": 48.444761,
+    "lon": 1.510801
   },
   {
     "id": "229",
@@ -1259,45 +1298,6 @@
     "address": "Beach parc Rue du rooy 47300 - VILLENEUVE SUR LOT FRANCE",
     "lat": 44.396754,
     "lon": 0.712439
-  },
-  {
-    "id": "268",
-    "name": "S3 Villeneuve sur Lot",
-    "date_start": "2026-05-31",
-    "date_end": "2026-05-31",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 150",
-    "city": "Villeneuve Sur Lot",
-    "address": "Beach parc Rue du rooy 47300 - VILLENEUVE SUR LOT FRANCE",
-    "lat": 44.396754,
-    "lon": 0.712439
-  },
-  {
-    "id": "78",
-    "name": "ASBAM Série 3-100 F",
-    "date_start": "2026-05-16",
-    "date_end": "2026-05-16",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Montpellier",
-    "address": "ASBAM 36 Rue de la Cavalerie 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.618049,
-    "lon": 3.882289
-  },
-  {
-    "id": "79",
-    "name": "ASBAM Série 3-100 M",
-    "date_start": "2026-05-17",
-    "date_end": "2026-05-17",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 3 - 100",
-    "city": "Montpellier",
-    "address": "ASBAM 36 Rue de la Cavalerie 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.618049,
-    "lon": 3.882289
   },
   {
     "id": "283",
@@ -1675,6 +1675,32 @@
     "address": "Domaine de la Barollière 2250 Route de la Barollière 42740 - SAINT PAUL EN JAREZ FRANCE",
     "lat": 45.467917,
     "lon": 4.55608
+  },
+  {
+    "id": "288",
+    "name": "CHAMPIONNAT DE FRANCE (M)",
+    "date_start": "2026-07-19",
+    "date_end": "2026-07-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Championnat de France",
+    "city": "Saint-Laurent-du-Var",
+    "address": "Plage Cousteau Promenade Jacques Yves Coustau 06700 - ST-LAURENT-DU-VAR FRANCE",
+    "lat": 43.657112,
+    "lon": 7.197195
+  },
+  {
+    "id": "289",
+    "name": "CHAMPIONNAT DE FRANCE (F)",
+    "date_start": "2026-07-19",
+    "date_end": "2026-07-19",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Championnat de France",
+    "city": "Saint-Laurent-du-Var",
+    "address": "Plage Cousteau Promenade Jacques Yves Coustau 06700 - ST-LAURENT-DU-VAR FRANCE",
+    "lat": 43.657112,
+    "lon": 7.197195
   },
   {
     "id": "245",
