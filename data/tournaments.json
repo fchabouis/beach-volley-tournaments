@@ -1144,6 +1144,19 @@
     "lon": 1.510801
   },
   {
+    "id": "292",
+    "name": "Sand System Beach Open #3 - 150 F",
+    "date_start": "2026-05-14",
+    "date_end": "2026-05-14",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
     "id": "286",
     "name": "C'Chartres Beach Volley #2 F",
     "date_start": "2026-05-16",
@@ -1274,30 +1287,17 @@
     "lon": 5.239681
   },
   {
-    "id": "251",
-    "name": "Very Nice Beach X2",
-    "date_start": "2026-05-31",
-    "date_end": "2026-05-31",
-    "genre": "Mixte",
-    "genre_code": "X",
+    "id": "290",
+    "name": "AAJB Blois féminin S3",
+    "date_start": "2026-05-30",
+    "date_end": "2026-05-30",
+    "genre": "Féminin",
+    "genre_code": "F",
     "serie": "Série 3 - 150",
-    "city": "Nice",
-    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
-    "lat": 43.700441,
-    "lon": 7.273028
-  },
-  {
-    "id": "267",
-    "name": "S3 Villeneuve sur Lot",
-    "date_start": "2026-05-31",
-    "date_end": "2026-05-31",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 3 - 150",
-    "city": "Villeneuve Sur Lot",
-    "address": "Beach parc Rue du rooy 47300 - VILLENEUVE SUR LOT FRANCE",
-    "lat": 44.396754,
-    "lon": 0.712439
+    "city": "Blois",
+    "address": "AAJB Omnisport 29 avenue Pierre Brossolette 41000 - BLOIS CEDEX FRANCE",
+    "lat": 47.56881,
+    "lon": 1.330037
   },
   {
     "id": "283",
@@ -1379,7 +1379,7 @@
   },
   {
     "id": "210",
-    "name": "VIENNE BEACH OPEN",
+    "name": "Groupama Vienne Beach Open",
     "date_start": "2026-06-27",
     "date_end": "2026-06-28",
     "genre": "Masculin",
@@ -1392,7 +1392,7 @@
   },
   {
     "id": "211",
-    "name": "VIENNE BEACH OPEN",
+    "name": "Groupama Vienne Beach Open",
     "date_start": "2026-06-27",
     "date_end": "2026-06-28",
     "genre": "Féminin",
