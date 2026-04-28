@@ -1222,6 +1222,32 @@
     "lon": 1.510801
   },
   {
+    "id": "293",
+    "name": "Beach Sport Orléans open s3",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint Jean De Braye",
+    "address": "USO TENNIS PLAINE DE BELNEUF 5 Rue ANTOINE DE LAVOISIER 45800 - ST JEAN DE BRAYE FRANCE",
+    "lat": 47.920289,
+    "lon": 1.944429
+  },
+  {
+    "id": "294",
+    "name": "Beach Sport Orléans open s3",
+    "date_start": "2026-05-17",
+    "date_end": "2026-05-17",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint Jean De Braye",
+    "address": "USO TENNIS PLAINE DE BELNEUF 5 Rue ANTOINE DE LAVOISIER 45800 - ST JEAN DE BRAYE FRANCE",
+    "lat": 47.920289,
+    "lon": 1.944429
+  },
+  {
     "id": "229",
     "name": "Monaco Summer Night #2",
     "date_start": "2026-05-22",
@@ -1272,32 +1298,6 @@
     "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
     "lat": 50.68526,
     "lon": 3.08317
-  },
-  {
-    "id": "124",
-    "name": "BEACH SERIES 13 #3",
-    "date_start": "2026-05-24",
-    "date_end": "2026-05-24",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 150",
-    "city": "Marignane",
-    "address": "Complexe Sportif et Culturel Airbus Helicopters Rue Jean-Louis Calderon 13700 - MARIGNANE FRANCE",
-    "lat": 43.410202,
-    "lon": 5.239681
-  },
-  {
-    "id": "290",
-    "name": "AAJB Blois féminin S3",
-    "date_start": "2026-05-30",
-    "date_end": "2026-05-30",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 150",
-    "city": "Blois",
-    "address": "AAJB Omnisport 29 avenue Pierre Brossolette 41000 - BLOIS CEDEX FRANCE",
-    "lat": 47.56881,
-    "lon": 1.330037
   },
   {
     "id": "283",
@@ -1612,6 +1612,32 @@
     "lon": 4.868408
   },
   {
+    "id": "297",
+    "name": "Monaco Summer Tour #3",
+    "date_start": "2026-06-21",
+    "date_end": "2026-06-21",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
+    "id": "298",
+    "name": "Monaco Summer Tour #3",
+    "date_start": "2026-06-21",
+    "date_end": "2026-06-21",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
     "id": "182",
     "name": "BTARA Villefranche-sur-Saône",
     "date_start": "2026-06-27",
@@ -1807,6 +1833,32 @@
     "lon": 7.273028
   },
   {
+    "id": "299",
+    "name": "Monaco Summer Tour #4",
+    "date_start": "2026-07-12",
+    "date_end": "2026-07-12",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
+    "id": "300",
+    "name": "Monaco Summer Tour #4",
+    "date_start": "2026-07-12",
+    "date_end": "2026-07-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
     "id": "240",
     "name": "CANET BEACH MASTERS",
     "date_start": "2026-07-14",
@@ -1987,6 +2039,32 @@
     "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
     "lat": 43.700441,
     "lon": 7.273028
+  },
+  {
+    "id": "301",
+    "name": "Monaco Summer Tour #5",
+    "date_start": "2026-08-23",
+    "date_end": "2026-08-23",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
+  },
+  {
+    "id": "302",
+    "name": "Monaco Summer Tour #5",
+    "date_start": "2026-08-23",
+    "date_end": "2026-08-23",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
   },
   {
     "id": "236",
