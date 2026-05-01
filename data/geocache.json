@@ -468,5 +468,21 @@
   "USO TENNIS PLAINE DE BELNEUF 5 Rue ANTOINE DE LAVOISIER 45800 ST JEAN DE BRAYE": {
     "lat": 47.920289,
     "lon": 1.944429
+  },
+  "Plage Sud Boulevard des sables 40600 BISCARROSSE": {
+    "lat": 44.445153,
+    "lon": -1.254505
+  },
+  "Plage de Malo place du centenaire, digue de mer 59240 DUNKERQUE MALO LES BAINS": {
+    "lat": 51.04977,
+    "lon": 2.388491
+  },
+  "Belvédère Calais Plage Digue Gaston Berthe 62100 CALAIS LA PLAGE": {
+    "lat": 50.963073,
+    "lon": 1.834675
+  },
+  "Arena Beach Avenue René Crabos 40500 SAINT SEVER": {
+    "lat": 43.765527,
+    "lon": -0.568932
   }
 }
