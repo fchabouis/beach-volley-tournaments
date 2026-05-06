@@ -143,19 +143,6 @@
     "lon": 3.875
   },
   {
-    "id": "90",
-    "name": "Ré Beach Open #8",
-    "date_start": "2026-05-08",
-    "date_end": "2026-05-09",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 2 - 500",
-    "city": "Le Bois Plage En Ré",
-    "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
-    "lat": 46.181152,
-    "lon": -1.395261
-  },
-  {
     "id": "187",
     "name": "Btaura Onlybeach M #5",
     "date_start": "2026-05-16",
@@ -227,6 +214,19 @@
     "date_end": "2026-05-09",
     "genre": "Masculin",
     "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Le Bois Plage En Ré",
+    "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
+    "lat": 46.181152,
+    "lon": -1.395261
+  },
+  {
+    "id": "90",
+    "name": "Ré Beach Open #8",
+    "date_start": "2026-05-08",
+    "date_end": "2026-05-09",
+    "genre": "Féminin",
+    "genre_code": "F",
     "serie": "Série 2 - 250",
     "city": "Le Bois Plage En Ré",
     "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
