@@ -157,7 +157,7 @@
   },
   {
     "id": "153",
-    "name": "Anglet beach bask Series 3",
+    "name": "Anglet beach bask Series 2",
     "date_start": "2026-05-17",
     "date_end": "2026-05-17",
     "genre": "Masculin",
@@ -248,7 +248,7 @@
   },
   {
     "id": "154",
-    "name": "Anglet beach bask Series 3",
+    "name": "Anglet beach bask Series 2",
     "date_start": "2026-05-17",
     "date_end": "2026-05-17",
     "genre": "Féminin",
@@ -962,6 +962,19 @@
     "lon": 7.273028
   },
   {
+    "id": "333",
+    "name": "BTARA DARDILLY",
+    "date_start": "2026-06-06",
+    "date_end": "2026-06-06",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Dardilly",
+    "address": "Stade de la brocardière Chemin de la brocardière 69570 - DARDILLY FRANCE",
+    "lat": 45.811264,
+    "lon": 4.765767
+  },
+  {
     "id": "252",
     "name": "Very Nice Beach X3",
     "date_start": "2026-06-07",
@@ -973,6 +986,32 @@
     "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
     "lat": 43.700441,
     "lon": 7.273028
+  },
+  {
+    "id": "334",
+    "name": "BTARA DARDILLY",
+    "date_start": "2026-06-07",
+    "date_end": "2026-06-07",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Dardilly",
+    "address": "Stade de la brocardière Chemin de la brocardière 69570 - DARDILLY FRANCE",
+    "lat": 45.811264,
+    "lon": 4.765767
+  },
+  {
+    "id": "331",
+    "name": "Sand System Beach Open #4 - 150 F",
+    "date_start": "2026-06-12",
+    "date_end": "2026-06-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "237",
@@ -988,6 +1027,45 @@
     "lon": 4.996361
   },
   {
+    "id": "328",
+    "name": "Stade Montois S3 #2",
+    "date_start": "2026-06-14",
+    "date_end": "2026-06-14",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint Pierre Du Mont",
+    "address": "Base de loisirs du Marsan D824 40280 - ST PIERRE DU MONT FRANCE",
+    "lat": 43.880757,
+    "lon": -0.535029
+  },
+  {
+    "id": "332",
+    "name": "Stade Montois S3 150 2",
+    "date_start": "2026-06-14",
+    "date_end": "2026-06-14",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint Pierre Du Mont",
+    "address": "Base de loisirs du Marsan D824 40280 - SAINT PIERRE DU MONT SUISSE",
+    "lat": 43.880757,
+    "lon": -0.535029
+  },
+  {
+    "id": "336",
+    "name": "Stade Montois S3 150 2",
+    "date_start": "2026-06-14",
+    "date_end": "2026-06-14",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint Pierre Du Mont",
+    "address": "Base de loisirs du Marsan D824 40280 - ST PIERRE DU MONT FRANCE",
+    "lat": 43.880757,
+    "lon": -0.535029
+  },
+  {
     "id": "231",
     "name": "Monaco Summer Night #4",
     "date_start": "2026-06-19",
@@ -999,6 +1077,19 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
+  },
+  {
+    "id": "326",
+    "name": "MARMANDE Beach 47 Masculin #2",
+    "date_start": "2026-06-20",
+    "date_end": "2026-06-20",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Marmande",
+    "address": "Terrain de beach volley 35 rue Portogruaro 47200 - MARMANDE FRANCE",
+    "lat": 44.507505,
+    "lon": 0.153957
   },
   {
     "id": "217",
@@ -1038,6 +1129,45 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
+  },
+  {
+    "id": "327",
+    "name": "MARMANDE BEACH MIXTE #2",
+    "date_start": "2026-06-21",
+    "date_end": "2026-06-21",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Marmande",
+    "address": "Terrain de beach volley 35 rue Portogruaro 47200 - MARMANDE FRANCE",
+    "lat": 44.507505,
+    "lon": 0.153957
+  },
+  {
+    "id": "329",
+    "name": "Tournoi PBV F - S3 150 #3",
+    "date_start": "2026-06-21",
+    "date_end": "2026-06-21",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Paris Beach Volley",
+    "address": "Stade Louis Lumière 30 rue Louis Lumière 75020 - PARIS BEACH VOLLEY FRANCE",
+    "lat": 48.859198,
+    "lon": 2.411646
+  },
+  {
+    "id": "330",
+    "name": "Tournoi PBV F - S3 150 #3",
+    "date_start": "2026-06-21",
+    "date_end": "2026-06-21",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Paris Beach Volley",
+    "address": "Stade Louis Lumière 30 rue Louis Lumière 95310 - ST-OUEN L'AUMONE FRANCE",
+    "lat": 49.035216,
+    "lon": 2.128025
   },
   {
     "id": "182",
@@ -1090,6 +1220,19 @@
     "address": "Plage du Val d'or Chemin de la marine 44250 - ST BREVIN LES PINS FRANCE",
     "lat": 47.234697,
     "lon": -2.178265
+  },
+  {
+    "id": "335",
+    "name": "BTARA DARDILLY Mixte",
+    "date_start": "2026-06-20",
+    "date_end": "2026-06-20",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "Dardilly",
+    "address": "Stade de la brocardière Chemin de la brocardière 69570 - DARDILLY FRANCE",
+    "lat": 45.811264,
+    "lon": 4.765767
   },
   {
     "id": "195",

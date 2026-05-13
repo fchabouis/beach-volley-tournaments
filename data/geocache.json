@@ -484,5 +484,25 @@
   "Arena Beach Avenue René Crabos 40500 SAINT SEVER": {
     "lat": 43.765527,
     "lon": -0.568932
+  },
+  "Stade de la brocardière Chemin de la brocardière 69570 DARDILLY": {
+    "lat": 45.811264,
+    "lon": 4.765767
+  },
+  "Base de loisirs du Marsan D824 40280 ST PIERRE DU MONT": {
+    "lat": 43.880757,
+    "lon": -0.535029
+  },
+  "Base de loisirs du Marsan D824 40280 SAINT PIERRE DU MONT SUISSE": {
+    "lat": 43.880757,
+    "lon": -0.535029
+  },
+  "Stade Louis Lumière 30 rue Louis Lumière 75020 PARIS BEACH VOLLEY": {
+    "lat": 48.859198,
+    "lon": 2.411646
+  },
+  "Stade Louis Lumière 30 rue Louis Lumière 95310 ST OUEN L'AUMONE": {
+    "lat": 49.035216,
+    "lon": 2.128025
   }
 }
