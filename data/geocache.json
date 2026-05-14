@@ -504,5 +504,9 @@
   "Stade Louis Lumière 30 rue Louis Lumière 95310 ST OUEN L'AUMONE": {
     "lat": 49.035216,
     "lon": 2.128025
+  },
+  "CREPS 1 Av. Edouard Belin 31400 TOULOUSE": {
+    "lat": 43.563022,
+    "lon": 1.481558
   }
 }

@@ -1196,6 +1196,32 @@
     "lon": 4.708182
   },
   {
+    "id": "338",
+    "name": "#BTO2026 TORTUGA",
+    "date_start": "2026-06-13",
+    "date_end": "2026-06-13",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Toulouse",
+    "address": "CREPS 1 Av. Edouard Belin 31400 - TOULOUSE FRANCE",
+    "lat": 43.563022,
+    "lon": 1.481558
+  },
+  {
+    "id": "337",
+    "name": "#BTO2026 TORTUGA",
+    "date_start": "2026-06-14",
+    "date_end": "2026-06-14",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Toulouse",
+    "address": "CREPS 1 Av. Edouard Belin 31400 - TOULOUSE FRANCE",
+    "lat": 43.563022,
+    "lon": 1.481558
+  },
+  {
     "id": "189",
     "name": "SANTA BREVINA BEACH SERIES",
     "date_start": "2026-06-20",
