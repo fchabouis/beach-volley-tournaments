@@ -287,7 +287,7 @@
   },
   {
     "id": "249",
-    "name": "Skyball Tour - S2 du Week-end de la Saint Didier",
+    "name": "(ANNULE) Skyball Tour - S2 du Week-end de la Saint Didier",
     "date_start": "2026-05-24",
     "date_end": "2026-05-24",
     "genre": "Féminin",
@@ -1040,30 +1040,30 @@
     "lon": -0.535029
   },
   {
-    "id": "332",
-    "name": "Stade Montois S3 150 2",
-    "date_start": "2026-06-14",
-    "date_end": "2026-06-14",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 150",
-    "city": "Saint Pierre Du Mont",
-    "address": "Base de loisirs du Marsan D824 40280 - SAINT PIERRE DU MONT SUISSE",
-    "lat": 43.880757,
-    "lon": -0.535029
-  },
-  {
-    "id": "336",
-    "name": "Stade Montois S3 150 2",
-    "date_start": "2026-06-14",
-    "date_end": "2026-06-14",
+    "id": "348",
+    "name": "MONTPELLIER BEACH VOLLEY SÉRIES 150 JUIN",
+    "date_start": "2026-06-18",
+    "date_end": "2026-06-18",
     "genre": "Masculin",
     "genre_code": "M",
     "serie": "Série 3 - 150",
-    "city": "Saint Pierre Du Mont",
-    "address": "Base de loisirs du Marsan D824 40280 - ST PIERRE DU MONT FRANCE",
-    "lat": 43.880757,
-    "lon": -0.535029
+    "city": "Montpellier",
+    "address": "Gymnase Henri Ferrari - La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.6112422,
+    "lon": 3.8767337
+  },
+  {
+    "id": "349",
+    "name": "MONTPELLIER BEACH VOLLEY SÉRIES 150 JUIN",
+    "date_start": "2026-06-18",
+    "date_end": "2026-06-18",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Montpellier",
+    "address": "Gymnase Henri Ferrari - La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.592061,
+    "lon": 3.896243
   },
   {
     "id": "231",
@@ -1207,6 +1207,19 @@
     "address": "CREPS 1 Av. Edouard Belin 31400 - TOULOUSE FRANCE",
     "lat": 43.563022,
     "lon": 1.481558
+  },
+  {
+    "id": "342",
+    "name": "Eurélien Beach Tour : Châteaudun (F)",
+    "date_start": "2026-06-13",
+    "date_end": "2026-06-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Châteaudun",
+    "address": "Beach Park Paulsen - Châteaudun 21 ruelle Vaubris 28200 - CHATEAUDUN FRANCE",
+    "lat": 48.064717,
+    "lon": 1.335419
   },
   {
     "id": "337",
@@ -1391,6 +1404,45 @@
     "lon": 7.273028
   },
   {
+    "id": "339",
+    "name": "MONTPELLIER BEACH VOLLEY SÉRIES JUILLET 250",
+    "date_start": "2026-07-18",
+    "date_end": "2026-07-18",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "Gymnase Henri Ferrari - La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.592061,
+    "lon": 3.896243
+  },
+  {
+    "id": "340",
+    "name": "MONTPELLIER BEACH VOLLEY SÉRIES JUILLET 250",
+    "date_start": "2026-07-18",
+    "date_end": "2026-07-18",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "Gymnase Henri Ferrari - La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.592061,
+    "lon": 3.896243
+  },
+  {
+    "id": "341",
+    "name": "MONTPELLIER BEACH VOLLEY SÉRIES MIXTE JUILLET 250",
+    "date_start": "2026-07-19",
+    "date_end": "2026-07-19",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "Gymnase Henri Ferrari - La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.592061,
+    "lon": 3.896243
+  },
+  {
     "id": "232",
     "name": "Monaco Summer Night #5",
     "date_start": "2026-07-03",
@@ -1402,6 +1454,32 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
+  },
+  {
+    "id": "344",
+    "name": "BSO OPEN BEACH",
+    "date_start": "2026-07-05",
+    "date_end": "2026-07-05",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint Jean De Braye",
+    "address": "USO TENNIS PLAINE DE BELNEUF 5 Rue ANTOINE DE LAVOISIER 45800 - ST JEAN DE BRAYE FRANCE",
+    "lat": 47.920289,
+    "lon": 1.944429
+  },
+  {
+    "id": "345",
+    "name": "BSO OPEN BEACH",
+    "date_start": "2026-07-05",
+    "date_end": "2026-07-05",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint Jean De Braye",
+    "address": "USO TENNIS PLAINE DE BELNEUF 5 Rue ANTOINE DE LAVOISIER 45800 - ST JEAN DE BRAYE FRANCE",
+    "lat": 47.920289,
+    "lon": 1.944429
   },
   {
     "id": "253",
@@ -1532,6 +1610,19 @@
     "address": "Arena Beach Avenue René Crabos 40500 - SAINT SEVER FRANCE",
     "lat": 43.765527,
     "lon": -0.568932
+  },
+  {
+    "id": "343",
+    "name": "Eurélien Beach Tour : Châteaudun (M)",
+    "date_start": "2026-07-11",
+    "date_end": "2026-07-11",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Châteaudun",
+    "address": "Beach Park Paulsen - Châteaudun 21 ruelle Vaubris 28200 - CHATEAUDUN FRANCE",
+    "lat": 48.064717,
+    "lon": 1.335419
   },
   {
     "id": "310",
@@ -1727,6 +1818,32 @@
     "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
     "lat": 43.700441,
     "lon": 7.273028
+  },
+  {
+    "id": "346",
+    "name": "BSO OPEN BEACH",
+    "date_start": "2026-08-30",
+    "date_end": "2026-08-30",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint Jean De Braye",
+    "address": "USO TENNIS PLAINE DE BELNEUF 5 Rue ANTOINE DE LAVOISIER 45800 - ST JEAN DE BRAYE FRANCE",
+    "lat": 47.920289,
+    "lon": 1.944429
+  },
+  {
+    "id": "347",
+    "name": "BSO OPEN BEACH",
+    "date_start": "2026-08-30",
+    "date_end": "2026-08-30",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint Jean De Braye",
+    "address": "USO TENNIS PLAINE DE BELNEUF 5 Rue ANTOINE DE LAVOISIER 45800 - ST JEAN DE BRAYE FRANCE",
+    "lat": 47.920289,
+    "lon": 1.944429
   },
   {
     "id": "314",

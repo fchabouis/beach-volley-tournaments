@@ -508,5 +508,13 @@
   "CREPS 1 Av. Edouard Belin 31400 TOULOUSE": {
     "lat": 43.563022,
     "lon": 1.481558
+  },
+  "Gymnase Henri Ferrari La Rauze 419 avenue du docteur Jacques Fourcade 34000 MONTPELLIER CEDEX 5": {
+    "lat": 43.592061,
+    "lon": 3.896243
+  },
+  "Beach Park Paulsen Châteaudun 21 ruelle Vaubris 28200 CHATEAUDUN": {
+    "lat": 48.064717,
+    "lon": 1.335419
   }
 }
