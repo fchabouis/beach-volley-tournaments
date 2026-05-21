@@ -573,7 +573,7 @@
   },
   {
     "id": "229",
-    "name": "Monaco Summer Night #2",
+    "name": "(ANNULE) Monaco Summer Night #2",
     "date_start": "2026-05-22",
     "date_end": "2026-05-22",
     "genre": "Mixte",
@@ -975,6 +975,19 @@
     "lon": 4.765767
   },
   {
+    "id": "350",
+    "name": "ASSOA OPEN MIXTE #4BIS",
+    "date_start": "2026-06-06",
+    "date_end": "2026-06-06",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint Ouen L'aumone",
+    "address": "Parc des Sports 1 boulevard Ducher 95310 - ST-OUEN L'AUMONE FRANCE",
+    "lat": 49.042462,
+    "lon": 2.101355
+  },
+  {
     "id": "252",
     "name": "Very Nice Beach X3",
     "date_start": "2026-06-07",
@@ -1042,8 +1055,8 @@
   {
     "id": "348",
     "name": "MONTPELLIER BEACH VOLLEY SÉRIES 150 JUIN",
-    "date_start": "2026-06-18",
-    "date_end": "2026-06-18",
+    "date_start": "2026-06-16",
+    "date_end": "2026-06-16",
     "genre": "Masculin",
     "genre_code": "M",
     "serie": "Série 3 - 150",
@@ -1055,8 +1068,8 @@
   {
     "id": "349",
     "name": "MONTPELLIER BEACH VOLLEY SÉRIES 150 JUIN",
-    "date_start": "2026-06-18",
-    "date_end": "2026-06-18",
+    "date_start": "2026-06-16",
+    "date_end": "2026-06-16",
     "genre": "Féminin",
     "genre_code": "F",
     "serie": "Série 3 - 150",
@@ -1157,19 +1170,6 @@
     "lon": 2.411646
   },
   {
-    "id": "330",
-    "name": "Tournoi PBV F - S3 150 #3",
-    "date_start": "2026-06-21",
-    "date_end": "2026-06-21",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 150",
-    "city": "Paris Beach Volley",
-    "address": "Stade Louis Lumière 30 rue Louis Lumière 95310 - ST-OUEN L'AUMONE FRANCE",
-    "lat": 49.035216,
-    "lon": 2.128025
-  },
-  {
     "id": "182",
     "name": "BTARA Villefranche-sur-Saône",
     "date_start": "2026-06-27",
@@ -1181,6 +1181,19 @@
     "address": "Complexe Saint Exupéry 534 avenue Saint Exupéry 69400 - VILLEFRANCHE SUR SAONE FRANCE",
     "lat": 45.990558,
     "lon": 4.708182
+  },
+  {
+    "id": "351",
+    "name": "BSO open MIXTE S3",
+    "date_start": "2026-06-27",
+    "date_end": "2026-06-27",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint Jean De Braye",
+    "address": "USO TENNIS PLAINE DE BELNEUF 5 Rue ANTOINE DE LAVOISIER 45800 - ST JEAN DE BRAYE FRANCE",
+    "lat": 47.920289,
+    "lon": 1.944429
   },
   {
     "id": "183",
@@ -1235,6 +1248,19 @@
     "lon": 1.481558
   },
   {
+    "id": "354",
+    "name": "Ondres Mixte #1",
+    "date_start": "2026-06-14",
+    "date_end": "2026-06-14",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "Ondres",
+    "address": "Plage Ondres Océan Plage Ondres Océan 40440 - ONDRES FRANCE",
+    "lat": 43.577339,
+    "lon": -1.487982
+  },
+  {
     "id": "189",
     "name": "SANTA BREVINA BEACH SERIES",
     "date_start": "2026-06-20",
@@ -1272,19 +1298,6 @@
     "address": "Stade de la brocardière Chemin de la brocardière 69570 - DARDILLY FRANCE",
     "lat": 45.811264,
     "lon": 4.765767
-  },
-  {
-    "id": "195",
-    "name": "UN GARS, UNE FILLE",
-    "date_start": "2026-06-26",
-    "date_end": "2026-06-26",
-    "genre": "Mixte",
-    "genre_code": "X",
-    "serie": "Série 3 - 100",
-    "city": "Saint-Paul-en-Jarez",
-    "address": "Domaine de la Barollière 2250 Route de la Barollière 42740 - SAINT PAUL EN JAREZ FRANCE",
-    "lat": 45.467917,
-    "lon": 4.55608
   },
   {
     "id": "288",
@@ -1456,6 +1469,19 @@
     "lon": 7.401146
   },
   {
+    "id": "352",
+    "name": "Eurélien Beach Tour : Arcisses (M)",
+    "date_start": "2026-07-04",
+    "date_end": "2026-07-04",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Arcisses",
+    "address": "Base de loisirs de la Borde Base de loisirs de la Borde 28400 - ARCISSES FRANCE",
+    "lat": 48.333173,
+    "lon": 0.889016
+  },
+  {
     "id": "344",
     "name": "BSO OPEN BEACH",
     "date_start": "2026-07-05",
@@ -1480,6 +1506,19 @@
     "address": "USO TENNIS PLAINE DE BELNEUF 5 Rue ANTOINE DE LAVOISIER 45800 - ST JEAN DE BRAYE FRANCE",
     "lat": 47.920289,
     "lon": 1.944429
+  },
+  {
+    "id": "353",
+    "name": "Eurélien Beach Tour : Arcisses (F)",
+    "date_start": "2026-07-05",
+    "date_end": "2026-07-05",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Arcisses",
+    "address": "Base de loisirs de la Borde Base de loisirs de la Borde 28400 - ARCISSES FRANCE",
+    "lat": 48.333173,
+    "lon": 0.889016
   },
   {
     "id": "253",
