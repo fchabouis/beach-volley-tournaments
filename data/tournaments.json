@@ -638,7 +638,7 @@
   },
   {
     "id": "293",
-    "name": "Beach Sport Orléans open s3",
+    "name": "(ANNULE) Beach Sport Orléans open s3",
     "date_start": "2026-05-24",
     "date_end": "2026-05-24",
     "genre": "Masculin",
@@ -1170,6 +1170,32 @@
     "lon": 2.411646
   },
   {
+    "id": "359",
+    "name": "Btara Lyon PESD S3-150 Masculin #4",
+    "date_start": "2026-06-21",
+    "date_end": "2026-06-21",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "LYON, FRANCE",
+    "address": "Complexe Grégory Coupet 17 rue Louis Pize 69004 - LYON, FRANCE FRANCE",
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  {
+    "id": "355",
+    "name": "ARCACHON BEACH OPEN",
+    "date_start": "2026-06-21",
+    "date_end": "2026-06-21",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Arcachon",
+    "address": "Plage Centrale d'Arcachon Bd Prom. Marcel Gounouilhou 33120 - ARCACHON FRANCE",
+    "lat": 44.663262,
+    "lon": -1.170977
+  },
+  {
     "id": "182",
     "name": "BTARA Villefranche-sur-Saône",
     "date_start": "2026-06-27",
@@ -1207,6 +1233,19 @@
     "address": "Complexe Saint Exupéry 534 avenue Saint Exupéry 69400 - VILLEFRANCHE SUR SAONE FRANCE",
     "lat": 45.990558,
     "lon": 4.708182
+  },
+  {
+    "id": "358",
+    "name": "Tournoi PBV Mixte - S3 150 #1",
+    "date_start": "2026-06-28",
+    "date_end": "2026-06-28",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Paris Beach Volley",
+    "address": "Stade Louis Lumière 30 rue Louis Lumière 75020 - PARIS BEACH VOLLEY FRANCE",
+    "lat": 48.859198,
+    "lon": 2.411646
   },
   {
     "id": "338",
@@ -1259,45 +1298,6 @@
     "address": "Plage Ondres Océan Plage Ondres Océan 40440 - ONDRES FRANCE",
     "lat": 43.577339,
     "lon": -1.487982
-  },
-  {
-    "id": "189",
-    "name": "SANTA BREVINA BEACH SERIES",
-    "date_start": "2026-06-20",
-    "date_end": "2026-06-20",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 3 - 100",
-    "city": "Saint Brévin Les Pins",
-    "address": "Plage du Val d'or Chemin de la marine 44250 - ST BREVIN LES PINS FRANCE",
-    "lat": 47.234697,
-    "lon": -2.178265
-  },
-  {
-    "id": "190",
-    "name": "SANTA BREVINA BEACH SERIES",
-    "date_start": "2026-06-20",
-    "date_end": "2026-06-20",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Saint Brévin Les Pins",
-    "address": "Plage du Val d'or Chemin de la marine 44250 - ST BREVIN LES PINS FRANCE",
-    "lat": 47.234697,
-    "lon": -2.178265
-  },
-  {
-    "id": "335",
-    "name": "BTARA DARDILLY Mixte",
-    "date_start": "2026-06-20",
-    "date_end": "2026-06-20",
-    "genre": "Mixte",
-    "genre_code": "X",
-    "serie": "Série 3 - 100",
-    "city": "Dardilly",
-    "address": "Stade de la brocardière Chemin de la brocardière 69570 - DARDILLY FRANCE",
-    "lat": 45.811264,
-    "lon": 4.765767
   },
   {
     "id": "288",
@@ -1521,6 +1521,32 @@
     "lon": 0.889016
   },
   {
+    "id": "356",
+    "name": "Ondres",
+    "date_start": "2026-07-05",
+    "date_end": "2026-07-05",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Ondres",
+    "address": "Plage Ondres Océan Plage Ondres Océan 40440 - ONDRES FRANCE",
+    "lat": 43.577339,
+    "lon": -1.487982
+  },
+  {
+    "id": "357",
+    "name": "Ondres Série 3 #4",
+    "date_start": "2026-07-05",
+    "date_end": "2026-07-05",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Ondres",
+    "address": "Plage Ondres Océan Plage Ondres Océan 40440 - ONDRES FRANCE",
+    "lat": 43.577339,
+    "lon": -1.487982
+  },
+  {
     "id": "253",
     "name": "Very Nice Beach X4",
     "date_start": "2026-07-11",
@@ -1714,6 +1740,19 @@
     "address": "Patio Central de la Plage Boulevard de la Mer 62520 - LE TOUQUET PARIS PLAGE FRANCE",
     "lat": 50.525905,
     "lon": 1.581372
+  },
+  {
+    "id": "361",
+    "name": "LES MORDUS A BISCA #4",
+    "date_start": "2026-07-19",
+    "date_end": "2026-07-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "BISCAROSSE",
+    "address": "LATECOERE 1500 Avenue Pierre Latecoere 40600 - BISCARROSSE FRANCE",
+    "lat": 44.387282,
+    "lon": -1.182327
   },
   {
     "id": "226",
