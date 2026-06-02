@@ -572,6 +572,19 @@
     "lon": 1.944429
   },
   {
+    "id": "362",
+    "name": "Eurélien Beach Tour : Chartres (M)",
+    "date_start": "2026-06-27",
+    "date_end": "2026-06-27",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Chartres",
+    "address": "Terrains de Beach Volley - Chartres 9 Rue des Hauts de Chartres 28000 - CHARTRES FRANCE",
+    "lat": 48.444761,
+    "lon": 1.510801
+  },
+  {
     "id": "183",
     "name": "BTARA Villefranche-sur-Saône",
     "date_start": "2026-06-28",
@@ -598,6 +611,19 @@
     "lon": 2.411646
   },
   {
+    "id": "363",
+    "name": "Eurélien Beach Tour : Chartres (F)",
+    "date_start": "2026-06-28",
+    "date_end": "2026-06-28",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Chartres",
+    "address": "Terrains de Beach Volley - Chartres 9 Rue des Hauts de Chartres 28000 - CHARTRES FRANCE",
+    "lat": 48.444761,
+    "lon": 1.510801
+  },
+  {
     "id": "338",
     "name": "#BTO2026 TORTUGA",
     "date_start": "2026-06-13",
@@ -622,32 +648,6 @@
     "address": "Beach Park Paulsen - Châteaudun 21 ruelle Vaubris 28200 - CHATEAUDUN FRANCE",
     "lat": 48.064717,
     "lon": 1.335419
-  },
-  {
-    "id": "337",
-    "name": "#BTO2026 TORTUGA",
-    "date_start": "2026-06-14",
-    "date_end": "2026-06-14",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Toulouse",
-    "address": "CREPS 1 Av. Edouard Belin 31400 - TOULOUSE FRANCE",
-    "lat": 43.563022,
-    "lon": 1.481558
-  },
-  {
-    "id": "354",
-    "name": "Ondres Mixte #1",
-    "date_start": "2026-06-14",
-    "date_end": "2026-06-14",
-    "genre": "Mixte",
-    "genre_code": "X",
-    "serie": "Série 3 - 100",
-    "city": "Ondres",
-    "address": "Plage Ondres Océan Plage Ondres Océan 40440 - ONDRES FRANCE",
-    "lat": 43.577339,
-    "lon": -1.487982
   },
   {
     "id": "288",
