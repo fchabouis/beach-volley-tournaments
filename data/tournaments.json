@@ -546,6 +546,32 @@
     "lon": -1.170977
   },
   {
+    "id": "364",
+    "name": "Skyball Tour - S3 estival #1",
+    "date_start": "2026-06-26",
+    "date_end": "2026-06-26",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Bondues",
+    "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
+    "lat": 50.68526,
+    "lon": 3.08317
+  },
+  {
+    "id": "365",
+    "name": "Skyball Tour - S3 estival #1",
+    "date_start": "2026-06-26",
+    "date_end": "2026-06-26",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Bondues",
+    "address": "Skyball Aerodrome de Bondues 59910 - BONDUES FRANCE",
+    "lat": 50.68526,
+    "lon": 3.08317
+  },
+  {
     "id": "182",
     "name": "BTARA Villefranche-sur-Saône",
     "date_start": "2026-06-27",
@@ -585,6 +611,19 @@
     "lon": 1.510801
   },
   {
+    "id": "367",
+    "name": "ASSOA OPEN MIXTE 6",
+    "date_start": "2026-06-27",
+    "date_end": "2026-06-27",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint Ouen L'aumone",
+    "address": "Parc des Sports 1 boulevard Ducher 95310 - ST-OUEN L'AUMONE FRANCE",
+    "lat": 49.042462,
+    "lon": 2.101355
+  },
+  {
     "id": "183",
     "name": "BTARA Villefranche-sur-Saône",
     "date_start": "2026-06-28",
@@ -609,45 +648,6 @@
     "address": "Stade Louis Lumière 30 rue Louis Lumière 75020 - PARIS BEACH VOLLEY FRANCE",
     "lat": 48.859198,
     "lon": 2.411646
-  },
-  {
-    "id": "363",
-    "name": "Eurélien Beach Tour : Chartres (F)",
-    "date_start": "2026-06-28",
-    "date_end": "2026-06-28",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 150",
-    "city": "Chartres",
-    "address": "Terrains de Beach Volley - Chartres 9 Rue des Hauts de Chartres 28000 - CHARTRES FRANCE",
-    "lat": 48.444761,
-    "lon": 1.510801
-  },
-  {
-    "id": "338",
-    "name": "#BTO2026 TORTUGA",
-    "date_start": "2026-06-13",
-    "date_end": "2026-06-13",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 3 - 100",
-    "city": "Toulouse",
-    "address": "CREPS 1 Av. Edouard Belin 31400 - TOULOUSE FRANCE",
-    "lat": 43.563022,
-    "lon": 1.481558
-  },
-  {
-    "id": "342",
-    "name": "Eurélien Beach Tour : Châteaudun (F)",
-    "date_start": "2026-06-13",
-    "date_end": "2026-06-13",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Châteaudun",
-    "address": "Beach Park Paulsen - Châteaudun 21 ruelle Vaubris 28200 - CHATEAUDUN FRANCE",
-    "lat": 48.064717,
-    "lon": 1.335419
   },
   {
     "id": "288",
@@ -754,6 +754,19 @@
     "lon": 1.834675
   },
   {
+    "id": "368",
+    "name": "Saintes Oasis Féminin - S2 250",
+    "date_start": "2026-07-12",
+    "date_end": "2026-07-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
     "id": "269",
     "name": "NICE BEACH SPONSORS",
     "date_start": "2026-07-14",
@@ -804,6 +817,32 @@
     "address": "Gymnase Henri Ferrari - La Rauze 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
     "lat": 43.592061,
     "lon": 3.896243
+  },
+  {
+    "id": "369",
+    "name": "Saintes Oasis Masculin- S2 250",
+    "date_start": "2026-07-26",
+    "date_end": "2026-07-26",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
+    "id": "370",
+    "name": "Saintes Oasis Féminin - S2 250",
+    "date_start": "2026-07-29",
+    "date_end": "2026-07-29",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
   },
   {
     "id": "232",
@@ -973,6 +1012,19 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
+  },
+  {
+    "id": "366",
+    "name": "GIGI BEACH TEAM S3mixte",
+    "date_start": "2026-07-19",
+    "date_end": "2026-07-19",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Sollies-Pont",
+    "address": "Complexe Sportif Christophe Dominici 1193 les Senes 83210 - SOLLIES PONT FRANCE",
+    "lat": 43.205967,
+    "lon": 6.043166
   },
   {
     "id": "259",
