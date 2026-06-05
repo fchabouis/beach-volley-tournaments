@@ -1196,6 +1196,58 @@
     "lon": 1.581372
   },
   {
+    "id": "381",
+    "name": "Saintes Oasis MasculinS2 - 250",
+    "date_start": "2026-08-09",
+    "date_end": "2026-08-09",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
+    "id": "378",
+    "name": "Saintes Oasis Masculin S2 - 250",
+    "date_start": "2026-08-12",
+    "date_end": "2026-08-12",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
+    "id": "379",
+    "name": "Saintes Oasis Féminin S2 - 250",
+    "date_start": "2026-08-23",
+    "date_end": "2026-08-23",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
+    "id": "380",
+    "name": "Saintes Oasis MasculinS2 - 250",
+    "date_start": "2026-08-26",
+    "date_end": "2026-08-26",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Saintes",
+    "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
     "id": "255",
     "name": "Very Nice Beach X6",
     "date_start": "2026-08-09",
@@ -1376,5 +1428,31 @@
     "address": "ASBAM 36 Rue de la Cavalerie 34000 - MONTPELLIER CEDEX 5 FRANCE",
     "lat": 43.618049,
     "lon": 3.882289
+  },
+  {
+    "id": "382",
+    "name": "TORTUGA BEACH MASTERS",
+    "date_start": "2026-10-03",
+    "date_end": "2026-10-04",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 750",
+    "city": "Toulouse",
+    "address": "CREPS Avenue Edouard Belin 31500 - TOULOUSE FRANCE",
+    "lat": 43.586074,
+    "lon": 1.4776
+  },
+  {
+    "id": "383",
+    "name": "TORTUGA BEACH MASTERS",
+    "date_start": "2026-10-10",
+    "date_end": "2026-10-11",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 750",
+    "city": "Toulouse",
+    "address": "CREPS Avenue Edouard Belin 31500 - TOULOUSE FRANCE",
+    "lat": 43.586074,
+    "lon": 1.4776
   }
 ]
