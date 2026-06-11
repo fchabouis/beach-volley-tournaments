@@ -528,5 +528,9 @@
   "CREPS Avenue Edouard Belin 31500 TOULOUSE": {
     "lat": 43.586074,
     "lon": 1.4776
+  },
+  "Skyball Aérodrome de Bondues 59910 BONDUES": {
+    "lat": 50.68526,
+    "lon": 3.08317
   }
 }

@@ -936,6 +936,19 @@
     "lon": -1.487982
   },
   {
+    "id": "384",
+    "name": "Skyball Tour - S3 estival mixte #1",
+    "date_start": "2026-07-08",
+    "date_end": "2026-07-08",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Bondues",
+    "address": "Skyball Aérodrome de Bondues 59910 - BONDUES FRANCE",
+    "lat": 50.68526,
+    "lon": 3.08317
+  },
+  {
     "id": "253",
     "name": "Very Nice Beach X4",
     "date_start": "2026-07-11",
