@@ -819,6 +819,19 @@
     "lon": 3.896243
   },
   {
+    "id": "385",
+    "name": "Saintes Oasis Féminin - S2 250",
+    "date_start": "2026-07-22",
+    "date_end": "2026-07-22",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Saintes",
+    "address": "stadium des boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
     "id": "369",
     "name": "Saintes Oasis Masculin- S2 250",
     "date_start": "2026-07-26",
@@ -833,11 +846,11 @@
   },
   {
     "id": "370",
-    "name": "Saintes Oasis Féminin - S2 250",
+    "name": "Saintes Oasis Masculin - S2 250",
     "date_start": "2026-07-29",
     "date_end": "2026-07-29",
-    "genre": "Féminin",
-    "genre_code": "F",
+    "genre": "Masculin",
+    "genre_code": "M",
     "serie": "Série 2 - 250",
     "city": "Saintes",
     "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
@@ -1210,11 +1223,11 @@
   },
   {
     "id": "381",
-    "name": "Saintes Oasis MasculinS2 - 250",
+    "name": "Saintes Oasis Féminin S2 - 250",
     "date_start": "2026-08-09",
     "date_end": "2026-08-09",
-    "genre": "Masculin",
-    "genre_code": "M",
+    "genre": "Féminin",
+    "genre_code": "F",
     "serie": "Série 2 - 250",
     "city": "Saintes",
     "address": "Stadium des Boiffiers 1 rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
@@ -1428,6 +1441,19 @@
     "address": "Arena Beach Avenue René Crabos 40500 - SAINT SEVER FRANCE",
     "lat": 43.765527,
     "lon": -0.568932
+  },
+  {
+    "id": "386",
+    "name": "CHALLENGE MIXTE FRANCE 2026",
+    "date_start": "2026-09-05",
+    "date_end": "2026-09-06",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 2 - 1000",
+    "city": "Paris",
+    "address": "STADE JULES LADOUMEGUE 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "80",

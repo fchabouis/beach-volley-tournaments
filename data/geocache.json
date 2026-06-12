@@ -532,5 +532,13 @@
   "Skyball Aérodrome de Bondues 59910 BONDUES": {
     "lat": 50.68526,
     "lon": 3.08317
+  },
+  "stadium des boiffiers 1 rue Jean Philippe Rameau 17100 SAINTES": {
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  "STADE JULES LADOUMEGUE 1 avenue de la porte de pantin 75019 PARIS": {
+    "lat": 48.890302,
+    "lon": 2.397433
   }
 }
