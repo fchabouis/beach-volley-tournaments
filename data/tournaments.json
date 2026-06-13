@@ -1222,6 +1222,19 @@
     "lon": 1.581372
   },
   {
+    "id": "260",
+    "name": "Very Nice Beach M4",
+    "date_start": "2026-08-16",
+    "date_end": "2026-08-16",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 500",
+    "city": "Nice",
+    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
+    "lat": 43.700441,
+    "lon": 7.273028
+  },
+  {
     "id": "381",
     "name": "Saintes Oasis Féminin S2 - 250",
     "date_start": "2026-08-09",
@@ -1298,19 +1311,6 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
-  },
-  {
-    "id": "260",
-    "name": "Very Nice Beach M4",
-    "date_start": "2026-08-16",
-    "date_end": "2026-08-16",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 3 - 150",
-    "city": "Nice",
-    "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
-    "lat": 43.700441,
-    "lon": 7.273028
   },
   {
     "id": "301",
