@@ -540,5 +540,9 @@
   "STADE JULES LADOUMEGUE 1 avenue de la porte de pantin 75019 PARIS": {
     "lat": 48.890302,
     "lon": 2.397433
+  },
+  "Le Belvédère Digue Gaston Berthe 62100 CALAIS": {
+    "lat": 50.963073,
+    "lon": 1.834675
   }
 }

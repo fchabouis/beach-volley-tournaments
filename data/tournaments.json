@@ -28,7 +28,7 @@
   {
     "id": "163",
     "name": "RE BEACH FRANCE 2026",
-    "date_start": "2026-06-12",
+    "date_start": "2026-06-14",
     "date_end": "2026-06-14",
     "genre": "Masculin",
     "genre_code": "M",
@@ -41,7 +41,7 @@
   {
     "id": "164",
     "name": "RE BEACH FRANCE 2026",
-    "date_start": "2026-06-12",
+    "date_start": "2026-06-14",
     "date_end": "2026-06-14",
     "genre": "Féminin",
     "genre_code": "F",
@@ -884,6 +884,19 @@
     "lon": 0.889016
   },
   {
+    "id": "387",
+    "name": "Calais'tivales",
+    "date_start": "2026-07-04",
+    "date_end": "2026-07-04",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Calais",
+    "address": "Le Belvédère Digue Gaston-Berthe 62100 - CALAIS FRANCE",
+    "lat": 50.963073,
+    "lon": 1.834675
+  },
+  {
     "id": "344",
     "name": "BSO OPEN BEACH",
     "date_start": "2026-07-05",
@@ -1025,6 +1038,19 @@
     "address": "Parking Côte Vermeille Parking Côte Vermeille 66140 - CANET EN ROUSILLON FRANCE",
     "lat": 42.688558,
     "lon": 3.035084
+  },
+  {
+    "id": "388",
+    "name": "LE SERIE 3 DE LA TORTUE",
+    "date_start": "2026-07-14",
+    "date_end": "2026-07-14",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "BROGNARD",
+    "address": "Base de loisirs du Pays de Montbéliard Rue du Pâquis 25600 - BROGNARD FRANCE",
+    "lat": 47.529622,
+    "lon": 6.862684
   },
   {
     "id": "233",
