@@ -1014,6 +1014,19 @@
     "lon": 7.401146
   },
   {
+    "id": "390",
+    "name": "Série 3 féminin - Vienne VBPV",
+    "date_start": "2026-07-12",
+    "date_end": "2026-07-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Romain-en-Gal",
+    "address": "Halle sportive 65 grande rue de la plaine 69560 - SAINT ROMAIN EN GAL FRANCE",
+    "lat": 45.535905,
+    "lon": 4.862528
+  },
+  {
     "id": "240",
     "name": "CANET BEACH MASTERS",
     "date_start": "2026-07-14",
@@ -1051,6 +1064,32 @@
     "address": "Base de loisirs du Pays de Montbéliard Rue du Pâquis 25600 - BROGNARD FRANCE",
     "lat": 47.529622,
     "lon": 6.862684
+  },
+  {
+    "id": "391",
+    "name": "Skyball Tour - S3 estival #3",
+    "date_start": "2026-07-15",
+    "date_end": "2026-07-15",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Bondues",
+    "address": "Skyball Av. du Général de Gaulle Aerodrome 59910 - BONDUES FRANCE",
+    "lat": 50.707391,
+    "lon": 3.102383
+  },
+  {
+    "id": "392",
+    "name": "Skyball Tour - S3 estival #3",
+    "date_start": "2026-07-15",
+    "date_end": "2026-07-15",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Bondues",
+    "address": "Skyball Av. du Général de Gaulle Aerodrome 59910 - BONDUES FRANCE",
+    "lat": 50.707391,
+    "lon": 3.102383
   },
   {
     "id": "233",
@@ -1116,6 +1155,19 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
+  },
+  {
+    "id": "389",
+    "name": "MONTPELLIER FRIDAY NIGHT MIXTE S3-150",
+    "date_start": "2026-07-31",
+    "date_end": "2026-07-31",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Montpellier",
+    "address": "La Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.593525,
+    "lon": 3.895943
   },
   {
     "id": "309",

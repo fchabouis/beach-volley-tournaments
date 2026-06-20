@@ -544,5 +544,17 @@
   "Le Belvédère Digue Gaston Berthe 62100 CALAIS": {
     "lat": 50.963073,
     "lon": 1.834675
+  },
+  "Halle sportive 65 grande rue de la plaine 69560 SAINT ROMAIN EN GAL": {
+    "lat": 45.535905,
+    "lon": 4.862528
+  },
+  "Skyball Av. du Général de Gaulle Aerodrome 59910 BONDUES": {
+    "lat": 50.707391,
+    "lon": 3.102383
+  },
+  "La Rauze 419 av. Dr Jacques Fourcade 34000 MONTPELLIER CEDEX 5": {
+    "lat": 43.593525,
+    "lon": 3.895943
   }
 }
