@@ -556,5 +556,9 @@
   "La Rauze 419 av. Dr Jacques Fourcade 34000 MONTPELLIER CEDEX 5": {
     "lat": 43.593525,
     "lon": 3.895943
+  },
+  "STADE JULES LADOUMEGUE 1 avenue de la Porte de Pantin 75019 PARIS": {
+    "lat": 48.890302,
+    "lon": 2.397433
   }
 }

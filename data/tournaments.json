@@ -573,7 +573,7 @@
   },
   {
     "id": "182",
-    "name": "BTARA Villefranche-sur-Saône",
+    "name": "(ANNULE) BTARA Villefranche-sur-Saône",
     "date_start": "2026-06-27",
     "date_end": "2026-06-27",
     "genre": "Féminin",
@@ -1103,6 +1103,19 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
+  },
+  {
+    "id": "393",
+    "name": "SSA Beach Mixte 150 - Juillet",
+    "date_start": "2026-07-17",
+    "date_end": "2026-07-17",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "STADE JULES LADOUMEGUE 1 avenue de la Porte de Pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "366",
