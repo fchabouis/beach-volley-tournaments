@@ -560,5 +560,9 @@
   "STADE JULES LADOUMEGUE 1 avenue de la Porte de Pantin 75019 PARIS": {
     "lat": 48.890302,
     "lon": 2.397433
+  },
+  "CREPS IDF 139 Av. Roger Salengro 92290 CHATENAY MALABRY": {
+    "lat": 48.765223,
+    "lon": 2.272222
   }
 }
