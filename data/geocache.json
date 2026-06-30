@@ -564,5 +564,14 @@
   "CREPS IDF 139 Av. Roger Salengro 92290 CHATENAY MALABRY": {
     "lat": 48.765223,
     "lon": 2.272222
+  },
+  "Base de loisirs du marsan D824 40289 ST PIERRE DU MONT": null,
+  "Saint Pierre Du Mont": {
+    "lat": 43.875683,
+    "lon": -0.52716
+  },
+  "Ondres Océan Ondres Océan 40440 ONDRES": {
+    "lat": 43.576873,
+    "lon": -1.486347
   }
 }
