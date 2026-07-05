@@ -507,6 +507,19 @@
     "lon": 7.273028
   },
   {
+    "id": "400",
+    "name": "ASSOA OPEN MIXTE 6",
+    "date_start": "2026-07-26",
+    "date_end": "2026-07-26",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint Ouen L'Aumone",
+    "address": "Parc des Sports 1 boulevard DUCHER 95310 - ST-OUEN L'AUMONE FRANCE",
+    "lat": 49.042462,
+    "lon": 2.101355
+  },
+  {
     "id": "234",
     "name": "Monaco Summer Night #7",
     "date_start": "2026-07-31",
