@@ -741,6 +741,45 @@
     "lon": -0.650715
   },
   {
+    "id": "413",
+    "name": "Pantin Beach Tour - Août 2026",
+    "date_start": "2026-08-29",
+    "date_end": "2026-08-29",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
+    "id": "414",
+    "name": "Pantin Beach Tour - Août 2026",
+    "date_start": "2026-08-29",
+    "date_end": "2026-08-29",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
+    "id": "415",
+    "name": "Stade Montois S 2 250 #4",
+    "date_start": "2029-08-29",
+    "date_end": "2026-08-30",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Saint Pierre Du Mont",
+    "address": "Base de loisirs du Marsan D824 40280 - SAINT PIERRE DU MONT SUISSE",
+    "lat": 43.880757,
+    "lon": -0.535029
+  },
+  {
     "id": "397",
     "name": "Stade Montois S3  150 #3",
     "date_start": "2026-08-02",
@@ -856,6 +895,19 @@
     "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
     "lat": 43.744724,
     "lon": 7.401146
+  },
+  {
+    "id": "412",
+    "name": "LIGUE DE GUYANE - BEACH VOLLEY",
+    "date_start": "2026-08-23",
+    "date_end": "2026-08-23",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Remire Montjoly",
+    "address": "Complexe sportif de Don Bosco avenue louis caristan 97354 remire mon 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
   },
   {
     "id": "236",
