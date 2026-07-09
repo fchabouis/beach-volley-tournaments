@@ -326,7 +326,7 @@
   },
   {
     "id": "253",
-    "name": "Very Nice Beach X4",
+    "name": "(ANNULE) Very Nice Beach X4",
     "date_start": "2026-07-11",
     "date_end": "2026-07-11",
     "genre": "Mixte",
@@ -336,6 +336,19 @@
     "address": "Plage des ponchettes Quai des etats unis 06000 - NICE FRANCE",
     "lat": 43.700441,
     "lon": 7.273028
+  },
+  {
+    "id": "300",
+    "name": "Monaco Summer Tour #4",
+    "date_start": "2026-07-11",
+    "date_end": "2026-07-11",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
+    "lat": 43.744724,
+    "lon": 7.401146
   },
   {
     "id": "299",
@@ -351,21 +364,8 @@
     "lon": 7.401146
   },
   {
-    "id": "300",
-    "name": "Monaco Summer Tour #4",
-    "date_start": "2026-07-12",
-    "date_end": "2026-07-12",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 150",
-    "city": "La Turbie",
-    "address": "Centre Loisirs Prince Albert II Google map : AS Monaco Beach-volley 06320 - LA TURBIE FRANCE",
-    "lat": 43.744724,
-    "lon": 7.401146
-  },
-  {
     "id": "390",
-    "name": "Série 3 féminin - Vienne VBPV",
+    "name": "(ANNULE) Série 3 féminin - Vienne VBPV",
     "date_start": "2026-07-12",
     "date_end": "2026-07-12",
     "genre": "Féminin",
