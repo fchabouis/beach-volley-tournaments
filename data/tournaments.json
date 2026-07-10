@@ -871,6 +871,19 @@
     "lon": -1.486347
   },
   {
+    "id": "419",
+    "name": "Marmande Beach 47 #3 Mixte",
+    "date_start": "2026-08-22",
+    "date_end": "2026-08-22",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Marmande",
+    "address": "Terrains de Beach Volley 35 rue Portogruaro 47200 - MARMANDE FRANCE",
+    "lat": 44.507505,
+    "lon": 0.153957
+  },
+  {
     "id": "301",
     "name": "Monaco Summer Tour #5",
     "date_start": "2026-08-23",
@@ -1038,6 +1051,45 @@
     "address": "STADE JULES LADOUMEGUE 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
     "lat": 48.890302,
     "lon": 2.397433
+  },
+  {
+    "id": "416",
+    "name": "Open Beach St Germain #1",
+    "date_start": "2026-09-12",
+    "date_end": "2026-09-12",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Germain-en-Laye",
+    "address": "Stade Georges Lefèvre Avenue Kennedy 78100 - ST GERMAIN EN LAYE FRANCE",
+    "lat": 48.912034,
+    "lon": 2.080378
+  },
+  {
+    "id": "417",
+    "name": "Open Beach St Germain #1",
+    "date_start": "2026-09-12",
+    "date_end": "2026-09-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Germain-en-Laye",
+    "address": "Stade Georges Lefèvre Avenue Kennedy 78100 - ST GERMAIN EN LAYE FRANCE",
+    "lat": 48.912034,
+    "lon": 2.080378
+  },
+  {
+    "id": "418",
+    "name": "Open Beach St Germain #2",
+    "date_start": "2026-09-26",
+    "date_end": "2026-09-26",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Germain-en-Laye",
+    "address": "Stade Georges Lefèvre Avenue Kennedy 78100 - ST GERMAIN EN LAYE FRANCE",
+    "lat": 48.912034,
+    "lon": 2.080378
   },
   {
     "id": "80",
