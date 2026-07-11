@@ -560,7 +560,7 @@
   },
   {
     "id": "343",
-    "name": "Eurélien Beach Tour : Châteaudun (M)",
+    "name": "(ANNULE) Eurélien Beach Tour : Châteaudun (M)",
     "date_start": "2026-07-11",
     "date_end": "2026-07-11",
     "genre": "Masculin",
@@ -819,6 +819,19 @@
     "lon": 2.272222
   },
   {
+    "id": "422",
+    "name": "ASSOA OPEN BEACH MIXTE 7",
+    "date_start": "2026-08-09",
+    "date_end": "2026-08-09",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint Ouen L'Aumone",
+    "address": "Parc des Sports 1 boulevard DUCHER 95310 - ST-OUEN L'AUMONE FRANCE",
+    "lat": 49.042462,
+    "lon": 2.101355
+  },
+  {
     "id": "235",
     "name": "Monaco Summer Night #8",
     "date_start": "2026-08-14",
@@ -921,6 +934,32 @@
     "address": "Complexe sportif de Don Bosco avenue louis caristan 97354 remire mon 97354 - REMIRE MONTJOLY FRANCE",
     "lat": 4.913558,
     "lon": -52.267692
+  },
+  {
+    "id": "420",
+    "name": "Marmande Beach 47 #3",
+    "date_start": "2026-08-23",
+    "date_end": "2026-08-23",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Marmande",
+    "address": "Terrains de Beach Volley 35 rue Portogruaro 47200 - MARMANDE FRANCE",
+    "lat": 44.507505,
+    "lon": 0.153957
+  },
+  {
+    "id": "421",
+    "name": "Marmande Beach 47 #3",
+    "date_start": "2026-08-23",
+    "date_end": "2026-08-23",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Marmande",
+    "address": "Terrains de Beach Volley 35 rue Portogruaro 47200 - MARMANDE FRANCE",
+    "lat": 44.507505,
+    "lon": 0.153957
   },
   {
     "id": "236",
