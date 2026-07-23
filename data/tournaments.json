@@ -793,6 +793,19 @@
     "lon": -0.52716
   },
   {
+    "id": "441",
+    "name": "SSA Beach Mixte 150 - Août",
+    "date_start": "2026-08-08",
+    "date_end": "2026-08-08",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "STADE JULES LADOUMEGUE 1 avenue de la Porte de Pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
     "id": "255",
     "name": "Very Nice Beach X6",
     "date_start": "2026-08-09",
@@ -830,6 +843,19 @@
     "address": "Parc des Sports 1 boulevard DUCHER 95310 - ST-OUEN L'AUMONE FRANCE",
     "lat": 49.042462,
     "lon": 2.101355
+  },
+  {
+    "id": "440",
+    "name": "Skyball Tour - S3 estival mixte #2",
+    "date_start": "2026-08-12",
+    "date_end": "2026-08-12",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Bondues",
+    "address": "Skyball Av. du Général de Gaulle Aerodrome 59910 - BONDUES FRANCE",
+    "lat": 50.707391,
+    "lon": 3.102383
   },
   {
     "id": "235",
@@ -882,6 +908,32 @@
     "address": "Ondres Océan Ondres Océan 40440 - ONDRES FRANCE",
     "lat": 43.576873,
     "lon": -1.486347
+  },
+  {
+    "id": "427",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-08-16",
+    "date_end": "2026-08-16",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
+  },
+  {
+    "id": "428",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-08-16",
+    "date_end": "2026-08-16",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
   },
   {
     "id": "419",
@@ -962,6 +1014,19 @@
     "lon": 0.153957
   },
   {
+    "id": "429",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-08-23",
+    "date_end": "2026-08-23",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
+  },
+  {
     "id": "236",
     "name": "Monaco Summer Night #9",
     "date_start": "2026-08-28",
@@ -1038,6 +1103,32 @@
     "address": "CREPS - IDF 139 Av. Roger Salengro 92290 - CHATENAY MALABRY FRANCE",
     "lat": 48.765223,
     "lon": 2.272222
+  },
+  {
+    "id": "431",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-08-30",
+    "date_end": "2026-08-30",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
+  },
+  {
+    "id": "432",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-08-30",
+    "date_end": "2026-08-30",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
   },
   {
     "id": "314",
@@ -1118,6 +1209,58 @@
     "lon": 2.080378
   },
   {
+    "id": "433",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-09-13",
+    "date_end": "2026-09-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
+  },
+  {
+    "id": "434",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-09-13",
+    "date_end": "2026-09-13",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
+  },
+  {
+    "id": "430",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-09-20",
+    "date_end": "2026-09-20",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
+  },
+  {
+    "id": "435",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-09-20",
+    "date_end": "2026-09-20",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
+  },
+  {
     "id": "418",
     "name": "Open Beach St Germain #2",
     "date_start": "2026-09-26",
@@ -1168,5 +1311,57 @@
     "address": "CREPS Avenue Edouard Belin 31500 - TOULOUSE FRANCE",
     "lat": 43.586074,
     "lon": 1.4776
+  },
+  {
+    "id": "436",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-10-04",
+    "date_end": "2026-10-04",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
+  },
+  {
+    "id": "437",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-10-04",
+    "date_end": "2026-10-04",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
+  },
+  {
+    "id": "438",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-10-11",
+    "date_end": "2026-10-11",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
+  },
+  {
+    "id": "439",
+    "name": "LIGUE DE GUYANE -BEACH VOLLEY",
+    "date_start": "2026-10-11",
+    "date_end": "2026-10-11",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "REMIRE-MONTJOLY",
+    "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
+    "lat": 4.913558,
+    "lon": -52.267692
   }
 ]
