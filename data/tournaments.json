@@ -1183,6 +1183,45 @@
     "lon": 2.397433
   },
   {
+    "id": "442",
+    "name": "Skyball Tour - Licence to Beach F",
+    "date_start": "2026-09-19",
+    "date_end": "2026-09-20",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 500",
+    "city": "Bondues",
+    "address": "Skyball Av. du Général de Gaulle Aerodrome 59910 - BONDUES FRANCE",
+    "lat": 50.707391,
+    "lon": 3.102383
+  },
+  {
+    "id": "443",
+    "name": "Skyball Tour - Licence to Beach F",
+    "date_start": "2026-09-19",
+    "date_end": "2026-09-20",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 500",
+    "city": "Bondues",
+    "address": "Skyball Av. du Général de Gaulle Aerodrome 59910 - BONDUES FRANCE",
+    "lat": 50.707391,
+    "lon": 3.102383
+  },
+  {
+    "id": "444",
+    "name": "Skyball Tour - Licence to Beach - mixte",
+    "date_start": "2026-09-20",
+    "date_end": "2026-09-20",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 2 - 250",
+    "city": "Bondues",
+    "address": "Skyball Av. du Général de Gaulle Aerodrome 59910 - BONDUES FRANCE",
+    "lat": 50.707391,
+    "lon": 3.102383
+  },
+  {
     "id": "416",
     "name": "Open Beach St Germain #1",
     "date_start": "2026-09-12",
