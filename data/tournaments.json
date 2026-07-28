@@ -1170,6 +1170,32 @@
     "lon": -0.568932
   },
   {
+    "id": "445",
+    "name": "Tournoi de rentrée à Rennes",
+    "date_start": "2026-08-29",
+    "date_end": "2026-08-29",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Rennes",
+    "address": "Beach park Charles Géniaux Rue Charles Géniaux 35000 - RENNES FRANCE",
+    "lat": 48.110488,
+    "lon": -1.711709
+  },
+  {
+    "id": "446",
+    "name": "Tournoi de rentrée à Rennes",
+    "date_start": "2026-08-29",
+    "date_end": "2026-08-29",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Rennes",
+    "address": "Beach park Charles Géniaux Rue Charles Géniaux 35000 - RENNES FRANCE",
+    "lat": 48.110488,
+    "lon": -1.711709
+  },
+  {
     "id": "386",
     "name": "CHALLENGE MIXTE FRANCE 2026",
     "date_start": "2026-09-05",
