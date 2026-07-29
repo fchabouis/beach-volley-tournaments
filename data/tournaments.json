@@ -521,7 +521,7 @@
   },
   {
     "id": "234",
-    "name": "Monaco Summer Night #7",
+    "name": "(ANNULE) Monaco Summer Night #7",
     "date_start": "2026-07-31",
     "date_end": "2026-07-31",
     "genre": "Mixte",
@@ -1235,6 +1235,32 @@
     "lon": 3.102383
   },
   {
+    "id": "447",
+    "name": "MONTPELLIER DOUBLE GENRE SEPTEMBRE",
+    "date_start": "2026-09-26",
+    "date_end": "2026-09-26",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 500",
+    "city": "Montpellier",
+    "address": "La Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.593525,
+    "lon": 3.895943
+  },
+  {
+    "id": "448",
+    "name": "MONTPELLIER DOUBLE GENRE SEPTEMBRE",
+    "date_start": "2026-09-26",
+    "date_end": "2026-09-26",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 500",
+    "city": "Montpellier",
+    "address": "La Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.593525,
+    "lon": 3.895943
+  },
+  {
     "id": "444",
     "name": "Skyball Tour - Licence to Beach - mixte",
     "date_start": "2026-09-20",
@@ -1246,6 +1272,19 @@
     "address": "Skyball Av. du Général de Gaulle Aerodrome 59910 - BONDUES FRANCE",
     "lat": 50.707391,
     "lon": 3.102383
+  },
+  {
+    "id": "449",
+    "name": "MONTPELLIER MIXTE SEPTEMBRE",
+    "date_start": "2026-09-27",
+    "date_end": "2026-09-27",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "La Rauze 419 av. Dr Jacques Fourcade 3400 - MONTPELLIER FRANCE",
+    "lat": 43.590639,
+    "lon": 3.897082
   },
   {
     "id": "416",
