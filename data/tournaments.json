@@ -1261,6 +1261,19 @@
     "lon": 3.895943
   },
   {
+    "id": "450",
+    "name": "Neuf-Trois Beach Tour",
+    "date_start": "2026-09-19",
+    "date_end": "2026-09-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "La Courneuve",
+    "address": "Parc des sports de Marville 51 av. Roger Salengro 93120 - LA COURNEUVE FRANCE",
+    "lat": 48.937752,
+    "lon": 2.384092
+  },
+  {
     "id": "444",
     "name": "Skyball Tour - Licence to Beach - mixte",
     "date_start": "2026-09-20",
@@ -1415,6 +1428,19 @@
     "address": "CREPS Avenue Edouard Belin 31500 - TOULOUSE FRANCE",
     "lat": 43.586074,
     "lon": 1.4776
+  },
+  {
+    "id": "451",
+    "name": "Neuf-Trois Beach Tour",
+    "date_start": "2026-10-10",
+    "date_end": "2026-10-10",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "La Courneuve",
+    "address": "Parc des sports de Marville 51 av. Roger Salengro 93120 - LA COURNEUVE FRANCE",
+    "lat": 48.937752,
+    "lon": 2.384092
   },
   {
     "id": "436",
