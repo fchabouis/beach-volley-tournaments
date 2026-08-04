@@ -624,6 +624,32 @@
     "lon": 3.895943
   },
   {
+    "id": "452",
+    "name": "LA BRAISE BEACH CUP",
+    "date_start": "2026-09-06",
+    "date_end": "2026-09-06",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.627214,
+    "lon": 3.875
+  },
+  {
+    "id": "453",
+    "name": "LA BRAISE BEACH CUP",
+    "date_start": "2026-09-06",
+    "date_end": "2026-09-06",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "Montpellier Beach Volley 419 avenue du docteur Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.627214,
+    "lon": 3.875
+  },
+  {
     "id": "450",
     "name": "Neuf-Trois Beach Tour",
     "date_start": "2026-09-19",
