@@ -806,6 +806,32 @@
     "lon": 1.4776
   },
   {
+    "id": "454",
+    "name": "Monaco Winter Tour #1",
+    "date_start": "2026-10-03",
+    "date_end": "2026-10-04",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 750",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II 1364 Route de Beausoleil 06320 - LA TURBIE FRANCE",
+    "lat": 43.746459,
+    "lon": 7.413606
+  },
+  {
+    "id": "455",
+    "name": "Monaco Winter Tour #1",
+    "date_start": "2026-10-03",
+    "date_end": "2026-10-04",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 750",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II 1364 Route de Beausoleil 06320 - LA TURBIE FRANCE",
+    "lat": 43.746459,
+    "lon": 7.413606
+  },
+  {
     "id": "383",
     "name": "TORTUGA BEACH MASTERS",
     "date_start": "2026-10-10",
