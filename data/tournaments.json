@@ -559,6 +559,19 @@
     "lon": -1.711709
   },
   {
+    "id": "457",
+    "name": "Eurélien beach tour : Châteaudun (M)",
+    "date_start": "2026-08-30",
+    "date_end": "2026-08-30",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Châteaudun",
+    "address": "Beach Park Paulsen 21 ruelle Vaubris 28200 - CHATEAUDUN FRANCE",
+    "lat": 48.064717,
+    "lon": 1.335419
+  },
+  {
     "id": "386",
     "name": "CHALLENGE MIXTE FRANCE 2026",
     "date_start": "2026-09-05",
