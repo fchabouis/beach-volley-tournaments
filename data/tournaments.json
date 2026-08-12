@@ -767,6 +767,32 @@
     "lon": -52.267692
   },
   {
+    "id": "458",
+    "name": "Open Dijon",
+    "date_start": "2026-09-19",
+    "date_end": "2026-09-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Dijon",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
+  },
+  {
+    "id": "459",
+    "name": "Open Dijon",
+    "date_start": "2026-09-19",
+    "date_end": "2026-09-19",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Dijon",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
+  },
+  {
     "id": "430",
     "name": "LIGUE DE GUYANE -BEACH VOLLEY",
     "date_start": "2026-09-20",
@@ -791,6 +817,19 @@
     "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
     "lat": 4.913558,
     "lon": -52.267692
+  },
+  {
+    "id": "460",
+    "name": "Open mixte dijon",
+    "date_start": "2026-09-20",
+    "date_end": "2026-09-20",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "DIJON",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
   },
   {
     "id": "418",
@@ -871,6 +910,32 @@
     "lon": 1.4776
   },
   {
+    "id": "463",
+    "name": "Sand System Beach Séries S2 - 750",
+    "date_start": "2026-10-10",
+    "date_end": "2026-10-11",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 750",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
+    "id": "464",
+    "name": "Sand System Beach Séries S2 - 750",
+    "date_start": "2026-10-10",
+    "date_end": "2026-10-11",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 750",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
     "id": "451",
     "name": "Neuf-Trois Beach Tour",
     "date_start": "2026-10-10",
@@ -882,6 +947,32 @@
     "address": "Parc des sports de Marville 51 av. Roger Salengro 93120 - LA COURNEUVE FRANCE",
     "lat": 48.937752,
     "lon": 2.384092
+  },
+  {
+    "id": "461",
+    "name": "Open masculin dijon",
+    "date_start": "2026-10-10",
+    "date_end": "2026-10-10",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "DIJON",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
+  },
+  {
+    "id": "462",
+    "name": "Open féminin dijon",
+    "date_start": "2026-10-11",
+    "date_end": "2026-10-11",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "DIJON",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
   },
   {
     "id": "436",
