@@ -235,7 +235,7 @@
   },
   {
     "id": "398",
-    "name": "Ondres Série 3 #5",
+    "name": "Ondres Série 3 #5 - ANNULE",
     "date_start": "2026-08-15",
     "date_end": "2026-08-15",
     "genre": "Féminin",
@@ -570,6 +570,32 @@
     "address": "Beach Park Paulsen 21 ruelle Vaubris 28200 - CHATEAUDUN FRANCE",
     "lat": 48.064717,
     "lon": 1.335419
+  },
+  {
+    "id": "465",
+    "name": "LES MORDUS A BISCA #5",
+    "date_start": "2026-08-30",
+    "date_end": "2026-08-30",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "BISCAROSSE",
+    "address": "LATECOERE 1500 Avenue Pierre Latecoere 40600 - BISCARROSSE FRANCE",
+    "lat": 44.387282,
+    "lon": -1.182327
+  },
+  {
+    "id": "466",
+    "name": "LES MORDUS A BISCA #5",
+    "date_start": "2026-08-30",
+    "date_end": "2026-08-30",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "BISCAROSSE",
+    "address": "LATECOERE 1500 Avenue Pierre Latecoere 40600 - BISCARROSSE FRANCE",
+    "lat": 44.387282,
+    "lon": -1.182327
   },
   {
     "id": "386",
