@@ -613,5 +613,13 @@
   "Beach Parc Rue du Rooy 47300 VILLENEUVE SUR LOT": {
     "lat": 44.396754,
     "lon": 0.712439
+  },
+  "CREPS PACA 62 Chemin du Viaduc, 13080 Aix en Prov 13617 AIX EN PROVENCE": {
+    "lat": 43.509774,
+    "lon": 5.444229
+  },
+  "CREPS PACA 62 Chemin du Viaduc, 13080 Aix en Prov 13100 AIX EN PROVENCE": {
+    "lat": 43.509774,
+    "lon": 5.444229
   }
 }

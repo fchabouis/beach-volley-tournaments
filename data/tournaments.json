@@ -845,6 +845,32 @@
     "lon": 5.003016
   },
   {
+    "id": "472",
+    "name": "BS13 #4 Aix En Provence  - Masculin",
+    "date_start": "2026-09-19",
+    "date_end": "2026-09-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Aix-en-Provence",
+    "address": "CREPS PACA 62 Chemin du Viaduc, 13080 Aix-en-Prov 13617 - AIX EN PROVENCE FRANCE",
+    "lat": 43.509774,
+    "lon": 5.444229
+  },
+  {
+    "id": "473",
+    "name": "BS13 #4 Aix En Provence - féminin",
+    "date_start": "2026-09-19",
+    "date_end": "2026-09-19",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Aix-en-Provence",
+    "address": "CREPS PACA 62 Chemin du Viaduc, 13080 Aix-en-Prov 13100 - AIX EN PROVENCE FRANCE",
+    "lat": 43.509774,
+    "lon": 5.444229
+  },
+  {
     "id": "430",
     "name": "LIGUE DE GUYANE -BEACH VOLLEY",
     "date_start": "2026-09-20",
