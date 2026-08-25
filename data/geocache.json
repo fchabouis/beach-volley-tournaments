@@ -621,5 +621,22 @@
   "CREPS PACA 62 Chemin du Viaduc, 13080 Aix en Prov 13100 AIX EN PROVENCE": {
     "lat": 43.509774,
     "lon": 5.444229
+  },
+  "Ball en Jalle 33 avenue Montaigne 33160 SAINT MEDARD EN JALLES, FRANCE": {
+    "lat": 44.888307,
+    "lon": -0.703526
+  },
+  "Ball en Jalle 33 avenue Montaigne 36160 SAINT MEDARD EN JALLES": null,
+  "SAINT-MÉDARD-EN-JALLES, FRANCE": {
+    "lat": 44.891628,
+    "lon": -0.761713
+  },
+  "Parc de la Rauze 419 av. Dr Jacques Fourcade 34000 MONTPELLIER CEDEX 5": {
+    "lat": 43.591447,
+    "lon": 3.896004
+  },
+  "Parc de la Rauze 419 av. Dr Jacques Fourcade 34000 MONPTELLIER": {
+    "lat": 43.593525,
+    "lon": 3.895943
   }
 }

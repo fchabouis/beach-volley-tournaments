@@ -910,6 +910,32 @@
     "lon": 5.003016
   },
   {
+    "id": "478",
+    "name": "Salamandres Beach 33 2026 #6",
+    "date_start": "2026-09-20",
+    "date_end": "2026-09-20",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Médard-en-Jalles",
+    "address": "Ball en Jalle 33 avenue Montaigne 33160 - SAINT-MEDARD-EN-JALLES, FRANCE FRANCE",
+    "lat": 44.888307,
+    "lon": -0.703526
+  },
+  {
+    "id": "479",
+    "name": "Salamandres Beach 33 2026 #6",
+    "date_start": "2026-09-20",
+    "date_end": "2026-09-20",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "SAINT-MÉDARD-EN-JALLES, FRANCE",
+    "address": "Ball en Jalle 33 avenue Montaigne 36160 - SAINT MEDARD EN JALLES FRANCE",
+    "lat": 44.891628,
+    "lon": -0.761713
+  },
+  {
     "id": "418",
     "name": "Open Beach St Germain #2",
     "date_start": "2026-09-26",
@@ -1053,6 +1079,32 @@
     "lon": 2.397433
   },
   {
+    "id": "474",
+    "name": "MONTPELLIER BEACH VOLLEY OCTOBRE DOUBLE GENRE",
+    "date_start": "2026-10-17",
+    "date_end": "2026-10-17",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 500",
+    "city": "Montpellier",
+    "address": "Parc de la Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.591447,
+    "lon": 3.896004
+  },
+  {
+    "id": "475",
+    "name": "MONTPELLIER BEACH VOLLEY OCTOBRE DOUBLE GENRE",
+    "date_start": "2026-10-17",
+    "date_end": "2026-10-17",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 500",
+    "city": "Montpellier",
+    "address": "Parc de la Rauze 419 av. Dr Jacques Fourcade 34000 - MONPTELLIER FRANCE",
+    "lat": 43.593525,
+    "lon": 3.895943
+  },
+  {
     "id": "451",
     "name": "Neuf-Trois Beach Tour",
     "date_start": "2026-10-10",
@@ -1090,6 +1142,32 @@
     "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
     "lat": 47.320595,
     "lon": 5.003016
+  },
+  {
+    "id": "477",
+    "name": "Open Beach St Germain #3",
+    "date_start": "2026-10-17",
+    "date_end": "2026-10-17",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Saint-Germain-en-Laye",
+    "address": "Stade Georges Lefèvre Avenue Kennedy 78100 - ST GERMAIN EN LAYE FRANCE",
+    "lat": 48.912034,
+    "lon": 2.080378
+  },
+  {
+    "id": "476",
+    "name": "MONTPELLIER BEACH VOLLEY OCTOBRE MIXTE",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-18",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "Parc de la Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.591447,
+    "lon": 3.896004
   },
   {
     "id": "436",
