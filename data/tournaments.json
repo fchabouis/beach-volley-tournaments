@@ -53,7 +53,7 @@
   },
   {
     "id": "381",
-    "name": "Saintes Oasis Féminin S2 - 250",
+    "name": "(ANNULE) Saintes Oasis Féminin S2 - 250",
     "date_start": "2026-08-09",
     "date_end": "2026-08-09",
     "genre": "Féminin",
@@ -911,7 +911,7 @@
   },
   {
     "id": "478",
-    "name": "Salamandres Beach 33 2026 #6",
+    "name": "(ANNULE) Salamandres Beach 33 2026 #6",
     "date_start": "2026-09-20",
     "date_end": "2026-09-20",
     "genre": "Masculin",
@@ -924,7 +924,7 @@
   },
   {
     "id": "479",
-    "name": "Salamandres Beach 33 2026 #6",
+    "name": "(ANNULE) Salamandres Beach 33 2026 #6",
     "date_start": "2026-09-20",
     "date_end": "2026-09-20",
     "genre": "Féminin",
@@ -934,6 +934,19 @@
     "address": "Ball en Jalle 33 avenue Montaigne 36160 - SAINT MEDARD EN JALLES FRANCE",
     "lat": 44.891628,
     "lon": -0.761713
+  },
+  {
+    "id": "485",
+    "name": "Salamandres Beach 33 2026 #6",
+    "date_start": "2026-09-20",
+    "date_end": "2026-09-20",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "SAINT-MÉDARD-EN-JALLES, FRANCE",
+    "address": "Ball en Jalle 33 avenue Montaigne 33160 - ST-MEDARD EN JALLES FRANCE",
+    "lat": 44.888307,
+    "lon": -0.703526
   },
   {
     "id": "418",
@@ -988,6 +1001,32 @@
     "lon": 0.712439
   },
   {
+    "id": "488",
+    "name": "ASSOA MIXTE OPEN 8",
+    "date_start": "2026-09-27",
+    "date_end": "2026-09-27",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint Ouen L'Aumone",
+    "address": "Parc des Sports 1 boulevard DUCHER 95310 - ST-OUEN L'AUMONE FRANCE",
+    "lat": 49.042462,
+    "lon": 2.101355
+  },
+  {
+    "id": "489",
+    "name": "La rentrée des chilleuses",
+    "date_start": "2026-09-27",
+    "date_end": "2026-09-27",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "GRADIGNAN",
+    "address": "Coqs rouges 2 chemin de pichey 33170 - GRADIGNAN FRANCE",
+    "lat": 44.779394,
+    "lon": -0.628661
+  },
+  {
     "id": "80",
     "name": "ASBAM Série 3-100 Mixte",
     "date_start": "2026-09-26",
@@ -999,6 +1038,19 @@
     "address": "ASBAM 36 Rue de la Cavalerie 34000 - MONTPELLIER CEDEX 5 FRANCE",
     "lat": 43.618049,
     "lon": 3.882289
+  },
+  {
+    "id": "490",
+    "name": "Troc' Tour #1",
+    "date_start": "2026-09-27",
+    "date_end": "2026-09-27",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Rezé",
+    "address": "Complexe Léo Lagrange 1 avenue Léon Blum 44400 - REZE FRANCE",
+    "lat": 47.183433,
+    "lon": -1.567851
   },
   {
     "id": "382",

@@ -638,5 +638,17 @@
   "Parc de la Rauze 419 av. Dr Jacques Fourcade 34000 MONPTELLIER": {
     "lat": 43.593525,
     "lon": 3.895943
+  },
+  "Ball en Jalle 33 avenue Montaigne 33160 ST MEDARD EN JALLES": {
+    "lat": 44.888307,
+    "lon": -0.703526
+  },
+  "Coqs rouges 2 chemin de pichey 33170 GRADIGNAN": {
+    "lat": 44.779394,
+    "lon": -0.628661
+  },
+  "Complexe Léo Lagrange 1 avenue Léon Blum 44400 REZE": {
+    "lat": 47.183433,
+    "lon": -1.567851
   }
 }
