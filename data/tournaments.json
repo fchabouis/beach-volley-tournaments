@@ -1027,6 +1027,19 @@
     "lon": -0.628661
   },
   {
+    "id": "491",
+    "name": "Sand System Beach Serie  - 150 M",
+    "date_start": "2026-09-27",
+    "date_end": "2026-09-27",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
     "id": "80",
     "name": "ASBAM Série 3-100 Mixte",
     "date_start": "2026-09-26",
