@@ -949,6 +949,19 @@
     "lon": -0.703526
   },
   {
+    "id": "492",
+    "name": "Sand System Beach Open #3 - 150 F",
+    "date_start": "2026-09-25",
+    "date_end": "2026-09-25",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
     "id": "418",
     "name": "Open Beach St Germain #2",
     "date_start": "2026-09-26",
@@ -1170,6 +1183,19 @@
     "lon": 3.895943
   },
   {
+    "id": "493",
+    "name": "USSE Beach open",
+    "date_start": "2026-10-17",
+    "date_end": "2026-10-17",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 500",
+    "city": "Saint-Egreve",
+    "address": "Terrains de beach volley Stade Balestas 2 Rue des Brieux 38120 - ST-EGREVE FRANCE",
+    "lat": 45.232147,
+    "lon": 5.693087
+  },
+  {
     "id": "451",
     "name": "Neuf-Trois Beach Tour",
     "date_start": "2026-10-10",
@@ -1235,6 +1261,19 @@
     "lon": 3.896004
   },
   {
+    "id": "494",
+    "name": "Bordeaux beach #05",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-18",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Gradignan",
+    "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
+    "lat": 44.779392,
+    "lon": -0.628661
+  },
+  {
     "id": "436",
     "name": "LIGUE DE GUYANE -BEACH VOLLEY",
     "date_start": "2026-10-04",
@@ -1259,6 +1298,19 @@
     "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
     "lat": 4.913558,
     "lon": -52.267692
+  },
+  {
+    "id": "495",
+    "name": "Stade Montois S3 150 #4",
+    "date_start": "2026-10-04",
+    "date_end": "2026-10-04",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint Pierre Du Mont",
+    "address": "Base de loisirs du Marsan D824 40280 - ST PIERRE DU MONT FRANCE",
+    "lat": 43.880757,
+    "lon": -0.535029
   },
   {
     "id": "438",
