@@ -654,5 +654,21 @@
   "Terrains de beach volley Stade Balestas 2 Rue des Brieux 38120 ST EGREVE": {
     "lat": 45.232147,
     "lon": 5.693087
+  },
+  "Plage de La Noëveillard Plage de La Noëveillard 44210 PORNIC": {
+    "lat": 47.110417,
+    "lon": -2.117424
+  },
+  "Terrains de Beach Volley Chartres 9 Rue des Hauts de Chartres 28000 CH 28000 CHARTRES": {
+    "lat": 48.444761,
+    "lon": 1.510801
+  },
+  "Ré Beach Stadium Promenade de la plage 17580 LE BOIS PLAGE EN RE": {
+    "lat": 46.179616,
+    "lon": -1.394984
+  },
+  "LATECOERE 1500, avenue Pierre Latécoère 40600 BISCARROSSE BOURG": {
+    "lat": 44.387373,
+    "lon": -1.182729
   }
 }

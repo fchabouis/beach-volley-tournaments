@@ -676,6 +676,58 @@
     "lon": -0.628661
   },
   {
+    "id": "505",
+    "name": "ABT - Pornic Volley ball & VOLL'HAYE",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-18",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Pornic",
+    "address": "Plage de La Noëveillard Plage de La Noëveillard 44210 - PORNIC FRANCE",
+    "lat": 47.110417,
+    "lon": -2.117424
+  },
+  {
+    "id": "506",
+    "name": "HALOWEEN BTAURA OnlyBeach Mixte #4",
+    "date_start": "2026-10-31",
+    "date_end": "2026-10-31",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 2 - 250",
+    "city": "Lyon",
+    "address": "Complexe Grégory Coupet Rue Louis Pize 69004 - LYON FRANCE",
+    "lat": 45.781728,
+    "lon": 4.821956
+  },
+  {
+    "id": "498",
+    "name": "RENNES EN OCTOBRE",
+    "date_start": "2026-10-03",
+    "date_end": "2026-10-03",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Rennes",
+    "address": "Beach park Charles Géniaux Rue Charles Géniaux 35000 - RENNES FRANCE",
+    "lat": 48.110488,
+    "lon": -1.711709
+  },
+  {
+    "id": "499",
+    "name": "RENNES EN OCTOBRE",
+    "date_start": "2026-10-03",
+    "date_end": "2026-10-03",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Rennes",
+    "address": "Beach park Charles Géniaux Rue Charles Géniaux 35000 - RENNES FRANCE",
+    "lat": 48.110488,
+    "lon": -1.711709
+  },
+  {
     "id": "436",
     "name": "LIGUE DE GUYANE -BEACH VOLLEY",
     "date_start": "2026-10-04",
@@ -715,6 +767,19 @@
     "lon": -0.535029
   },
   {
+    "id": "504",
+    "name": "Sand System Beach Open #3 - 150 F",
+    "date_start": "2026-10-04",
+    "date_end": "2026-10-04",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "STADE JULES LADOUMEGUE 1 avenue de la Porte de Pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
     "id": "438",
     "name": "LIGUE DE GUYANE -BEACH VOLLEY",
     "date_start": "2026-10-11",
@@ -739,5 +804,83 @@
     "address": "Complexe sportif de Don Bosco Avenue louis caristan 97354 - REMIRE MONTJOLY FRANCE",
     "lat": 4.913558,
     "lon": -52.267692
+  },
+  {
+    "id": "503",
+    "name": "CONSELYS BEACH TOURNAMENT : Chartres (M)",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-18",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Chartres",
+    "address": "Terrains de Beach Volley - Chartres 9 Rue des Hauts de Chartres 28000 - CH 28000 - CHARTRES FRANCE",
+    "lat": 48.444761,
+    "lon": 1.510801
+  },
+  {
+    "id": "496",
+    "name": "Ré Beach 100",
+    "date_start": "2026-10-03",
+    "date_end": "2026-10-04",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Le Bois Plage En Ré",
+    "address": "Ré Beach Stadium Promenade de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
+    "lat": 46.179616,
+    "lon": -1.394984
+  },
+  {
+    "id": "497",
+    "name": "Ré Beach 100",
+    "date_start": "2026-10-03",
+    "date_end": "2026-10-04",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Le Bois Plage En Ré",
+    "address": "Ré Beach Stadium Promenade de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
+    "lat": 46.179616,
+    "lon": -1.394984
+  },
+  {
+    "id": "500",
+    "name": "LES MORDUS DU SABLE",
+    "date_start": "2026-10-04",
+    "date_end": "2026-10-04",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "BISCARROSSE BOURG",
+    "address": "LATECOERE 1500, avenue Pierre Latécoère 40600 - BISCARROSSE BOURG FRANCE",
+    "lat": 44.387373,
+    "lon": -1.182729
+  },
+  {
+    "id": "501",
+    "name": "LES MORDUS DU SABLE",
+    "date_start": "2026-10-04",
+    "date_end": "2026-10-04",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "BISCARROSSE BOURG",
+    "address": "LATECOERE 1500, avenue Pierre Latécoère 40600 - BISCARROSSE BOURG FRANCE",
+    "lat": 44.387373,
+    "lon": -1.182729
+  },
+  {
+    "id": "502",
+    "name": "ABT - Pornic Volley Ball & VOLL'HAYE",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-18",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Pornic",
+    "address": "Plage de La Noëveillard Plage de La Noëveillard 44210 - PORNIC FRANCE",
+    "lat": 47.110417,
+    "lon": -2.117424
   }
 ]
