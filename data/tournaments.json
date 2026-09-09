@@ -598,19 +598,6 @@
     "lon": 5.693087
   },
   {
-    "id": "451",
-    "name": "Neuf-Trois Beach Tour",
-    "date_start": "2026-10-10",
-    "date_end": "2026-10-10",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 2 - 250",
-    "city": "La Courneuve",
-    "address": "Parc des sports de Marville 51 av. Roger Salengro 93120 - LA COURNEUVE FRANCE",
-    "lat": 48.937752,
-    "lon": 2.384092
-  },
-  {
     "id": "461",
     "name": "Open masculin dijon",
     "date_start": "2026-10-10",
@@ -635,6 +622,19 @@
     "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
     "lat": 47.320595,
     "lon": 5.003016
+  },
+  {
+    "id": "451",
+    "name": "Neuf-Trois Beach Tour",
+    "date_start": "2026-10-17",
+    "date_end": "2026-10-17",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "La Courneuve",
+    "address": "Parc des sports de Marville 51 av. Roger Salengro 93120 - LA COURNEUVE FRANCE",
+    "lat": 48.937752,
+    "lon": 2.384092
   },
   {
     "id": "477",
@@ -690,7 +690,7 @@
   },
   {
     "id": "506",
-    "name": "HALOWEEN BTAURA OnlyBeach Mixte #4",
+    "name": "HALLOWEEN BTAURA OnlyBeach Mixte #4",
     "date_start": "2026-10-31",
     "date_end": "2026-10-31",
     "genre": "Mixte",
