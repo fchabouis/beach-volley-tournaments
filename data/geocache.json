@@ -670,5 +670,10 @@
   "LATECOERE 1500, avenue Pierre Latécoère 40600 BISCARROSSE BOURG": {
     "lat": 44.387373,
     "lon": -1.182729
+  },
+  "Italy 00000 ITALY": null,
+  "Italy": {
+    "lat": 48.660775,
+    "lon": -4.210288
   }
 }

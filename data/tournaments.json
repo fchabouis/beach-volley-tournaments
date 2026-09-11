@@ -481,6 +481,32 @@
     "lon": -1.567851
   },
   {
+    "id": "507",
+    "name": "CEV EUROBV U20",
+    "date_start": "2026-09-06",
+    "date_end": "2026-09-06",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "M20 Championnat d'Europe",
+    "city": "Italy",
+    "address": "Italy 00000 - ITALY FRANCE",
+    "lat": 48.660775,
+    "lon": -4.210288
+  },
+  {
+    "id": "508",
+    "name": "CEV EUROBV U20",
+    "date_start": "2026-09-06",
+    "date_end": "2026-09-06",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "M20 Championnat d'Europe",
+    "city": "Italy",
+    "address": "Italy 00000 - ITALY FRANCE",
+    "lat": 48.660775,
+    "lon": -4.210288
+  },
+  {
     "id": "382",
     "name": "TORTUGA BEACH MASTERS",
     "date_start": "2026-10-03",
