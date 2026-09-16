@@ -235,7 +235,7 @@
   },
   {
     "id": "459",
-    "name": "Open Dijon",
+    "name": "Open Dijon (ANNULE)",
     "date_start": "2026-09-19",
     "date_end": "2026-09-19",
     "genre": "Féminin",
@@ -845,6 +845,58 @@
     "lon": 1.510801
   },
   {
+    "id": "509",
+    "name": "Salamandres Beach 33",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-18",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "SAINT MEDARD EN JALLES",
+    "address": "Ball' en Jall' Pl. Michel Gadret 33160 - SAINT-MEDARD-EN-JALLES, FRANCE FRANCE",
+    "lat": 44.888077,
+    "lon": -0.704039
+  },
+  {
+    "id": "510",
+    "name": "Saintes Oasis",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-18",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saintes",
+    "address": "stadium des boiffiers 1 Rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
+    "id": "511",
+    "name": "Saintes Oasis",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-18",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saintes",
+    "address": "stadium des boiffiers 1 Rue Jean Philippe Rameau 17100 - SAINTES FRANCE",
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  {
+    "id": "513",
+    "name": "Open des mangeurs de ravioles",
+    "date_start": "2026-10-31",
+    "date_end": "2026-10-31",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "PONT DE L'ISERE",
+    "address": "COMPLEXE SPORTIF DESPESSES RUE DES LOISIRS 26600 - PONT DE L'ISERE FRANCE",
+    "lat": 44.996958,
+    "lon": 4.868408
+  },
+  {
     "id": "496",
     "name": "Ré Beach 100",
     "date_start": "2026-10-03",
@@ -908,5 +960,57 @@
     "address": "Plage de La Noëveillard Plage de La Noëveillard 44210 - PORNIC FRANCE",
     "lat": 47.110417,
     "lon": -2.117424
+  },
+  {
+    "id": "514",
+    "name": "MONTPELLIER DOUBLE GENRE NOVEMBRE",
+    "date_start": "2026-11-28",
+    "date_end": "2026-11-28",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 500",
+    "city": "Montpellier",
+    "address": "Parc de la Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.591447,
+    "lon": 3.896004
+  },
+  {
+    "id": "515",
+    "name": "MONTPELLIER DOUBLE GENRE NOVEMBRE",
+    "date_start": "2026-11-28",
+    "date_end": "2026-11-28",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 500",
+    "city": "Montpellier",
+    "address": "Parc de la Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.591447,
+    "lon": 3.896004
+  },
+  {
+    "id": "516",
+    "name": "MONTPELLIER NOVEMBRE MIXTE",
+    "date_start": "2026-11-29",
+    "date_end": "2026-11-29",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "Parc de la Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.591447,
+    "lon": 3.896004
+  },
+  {
+    "id": "512",
+    "name": "LES MORDUS DE BISCA #2",
+    "date_start": "2026-11-08",
+    "date_end": "2026-11-08",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "BISCARROSSE BOURG",
+    "address": "LATECOERE 1500, avenue Pierre Latécoère 40600 - BISCARROSSE BOURG FRANCE",
+    "lat": 44.387373,
+    "lon": -1.182729
   }
 ]

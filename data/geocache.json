@@ -675,5 +675,17 @@
   "Italy": {
     "lat": 48.660775,
     "lon": -4.210288
+  },
+  "Ball' en Jall' Pl. Michel Gadret 33160 SAINT MEDARD EN JALLES, FRANCE": {
+    "lat": 44.888077,
+    "lon": -0.704039
+  },
+  "stadium des boiffiers 1 Rue Jean Philippe Rameau 17100 SAINTES": {
+    "lat": 45.735954,
+    "lon": -0.650715
+  },
+  "COMPLEXE SPORTIF DESPESSES RUE DES LOISIRS 26600 PONT DE L'ISERE": {
+    "lat": 44.996958,
+    "lon": 4.868408
   }
 }
