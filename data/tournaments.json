@@ -832,6 +832,19 @@
     "lon": -52.267692
   },
   {
+    "id": "528",
+    "name": "BS13 #5 Marignane",
+    "date_start": "2026-10-17",
+    "date_end": "2026-10-17",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Marignane",
+    "address": "Halle Des Sports Du Carestier Avenue Etienne Lombardo 13700 - MARIGNANE FRANCE",
+    "lat": 43.405338,
+    "lon": 5.220231
+  },
+  {
     "id": "503",
     "name": "CONSELYS BEACH TOURNAMENT : Chartres (M)",
     "date_start": "2026-10-18",
@@ -884,6 +897,32 @@
     "lon": -0.650715
   },
   {
+    "id": "527",
+    "name": "BS13 #5 Marignane",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-18",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Marignane",
+    "address": "Beach Park du Carestier Avenue Etienne Lombardo 13700 - MARIGNANE FRANCE",
+    "lat": 43.404835,
+    "lon": 5.219845
+  },
+  {
+    "id": "524",
+    "name": "#BTO2027 TORTUGA",
+    "date_start": "2026-10-24",
+    "date_end": "2026-10-24",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Toulouse",
+    "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
+    "lat": 43.608174,
+    "lon": 1.420437
+  },
+  {
     "id": "517",
     "name": "CHAMPIONNAT DE LA GUADELOUPE",
     "date_start": "2026-10-25",
@@ -908,6 +947,19 @@
     "address": "Plaine de Beach Volley rue de l'autre bord 97160 - LE MOULE FRANCE",
     "lat": 16.333295,
     "lon": -61.338069
+  },
+  {
+    "id": "529",
+    "name": "Sand System Beach Serie #3 - 150 M",
+    "date_start": "2026-10-25",
+    "date_end": "2026-10-25",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
   },
   {
     "id": "513",
@@ -975,6 +1027,19 @@
     "lon": -1.182729
   },
   {
+    "id": "526",
+    "name": "SANTA BREVINA S3 MIXTE",
+    "date_start": "2026-10-10",
+    "date_end": "2026-10-10",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "Saint Brévin Les Pins",
+    "address": "Plage du Val d'or Chemin de la marine 44250 - ST BREVIN LES PINS FRANCE",
+    "lat": 47.234697,
+    "lon": -2.178265
+  },
+  {
     "id": "502",
     "name": "ABT - Pornic Volley Ball & VOLL'HAYE",
     "date_start": "2026-10-18",
@@ -1040,6 +1105,45 @@
     "lon": 3.896004
   },
   {
+    "id": "521",
+    "name": "Bordeaux Beach #6",
+    "date_start": "2026-11-08",
+    "date_end": "2026-11-08",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Gradignan",
+    "address": "Les coqs rouges Gradignan 2 Chemin de Pichey 33170 - GRADIGNAN FRANCE",
+    "lat": 44.779392,
+    "lon": -0.628661
+  },
+  {
+    "id": "522",
+    "name": "#BTO2027 TORTUGA",
+    "date_start": "2026-11-22",
+    "date_end": "2026-11-22",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Toulouse",
+    "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
+    "lat": 43.608174,
+    "lon": 1.420437
+  },
+  {
+    "id": "523",
+    "name": "#BTO2027 TORTUGA",
+    "date_start": "2026-11-28",
+    "date_end": "2026-11-28",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Toulouse",
+    "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
+    "lat": 43.608174,
+    "lon": 1.420437
+  },
+  {
     "id": "516",
     "name": "MONTPELLIER NOVEMBRE MIXTE",
     "date_start": "2026-11-29",
@@ -1059,10 +1163,23 @@
     "date_end": "2026-11-08",
     "genre": "Mixte",
     "genre_code": "X",
-    "serie": "Série 3 - 100",
+    "serie": "Série 3 - 150",
     "city": "BISCARROSSE BOURG",
     "address": "LATECOERE 1500, avenue Pierre Latécoère 40600 - BISCARROSSE BOURG FRANCE",
     "lat": 44.387373,
     "lon": -1.182729
+  },
+  {
+    "id": "525",
+    "name": "#BTO2027 TORTUGA",
+    "date_start": "2026-11-08",
+    "date_end": "2026-11-08",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Toulouse",
+    "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
+    "lat": 43.608174,
+    "lon": 1.420437
   }
 ]
