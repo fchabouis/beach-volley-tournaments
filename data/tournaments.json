@@ -52,19 +52,6 @@
     "lon": 3.895943
   },
   {
-    "id": "448",
-    "name": "MONTPELLIER DOUBLE GENRE SEPTEMBRE",
-    "date_start": "2026-09-26",
-    "date_end": "2026-09-26",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 2 - 500",
-    "city": "Montpellier",
-    "address": "La Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
-    "lat": 43.593525,
-    "lon": 3.895943
-  },
-  {
     "id": "452",
     "name": "LA BRAISE BEACH CUP",
     "date_start": "2026-09-06",
@@ -128,6 +115,19 @@
     "address": "Complexe sportif du Grand Vallat Avenue du grand fossé 13960 - SAUSSET LES PINS FRANCE",
     "lat": 43.33435,
     "lon": 5.097056
+  },
+  {
+    "id": "448",
+    "name": "MONTPELLIER DOUBLE GENRE SEPTEMBRE",
+    "date_start": "2026-09-26",
+    "date_end": "2026-09-26",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "La Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.593525,
+    "lon": 3.895943
   },
   {
     "id": "449",
@@ -1051,6 +1051,19 @@
     "address": "Plage de La Noëveillard Plage de La Noëveillard 44210 - PORNIC FRANCE",
     "lat": 47.110417,
     "lon": -2.117424
+  },
+  {
+    "id": "530",
+    "name": "#BTO2026 BEACH VOLLEY VIBES",
+    "date_start": "2026-10-18",
+    "date_end": "2026-10-18",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Toulouse",
+    "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
+    "lat": 43.608174,
+    "lon": 1.420437
   },
   {
     "id": "519",
