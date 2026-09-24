@@ -378,7 +378,7 @@
   },
   {
     "id": "469",
-    "name": "BEACH OPEN 47",
+    "name": "(ANNULE) BEACH OPEN 47",
     "date_start": "2026-09-26",
     "date_end": "2026-09-26",
     "genre": "Féminin",
@@ -962,6 +962,19 @@
     "lon": 2.397433
   },
   {
+    "id": "545",
+    "name": "Pont de L'Isère - Féminin",
+    "date_start": "2026-10-25",
+    "date_end": "2026-10-25",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "PONT DE L'ISERE",
+    "address": "COMPLEXE SPORTIF DESPESSES 1 Rue des Loisirs 26600 - PONT DE L'ISERE FRANCE",
+    "lat": 44.997002,
+    "lon": 4.867377
+  },
+  {
     "id": "513",
     "name": "Open des mangeurs de ravioles",
     "date_start": "2026-10-31",
@@ -1194,5 +1207,57 @@
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
     "lat": 43.608174,
     "lon": 1.420437
+  },
+  {
+    "id": "535",
+    "name": "CHAMPIONNAT DE LA GUADELOUPE",
+    "date_start": "2026-11-29",
+    "date_end": "2026-11-29",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Le Moule",
+    "address": "Plaine de Beach Volley rue de l'autre bord 97160 - LE MOULE FRANCE",
+    "lat": 16.333295,
+    "lon": -61.338069
+  },
+  {
+    "id": "544",
+    "name": "CHAMPIONNAT DE LA GUADELOUPE",
+    "date_start": "2026-11-29",
+    "date_end": "2026-11-29",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Le Moule",
+    "address": "Plaine de Beach Volley rue de l'autre bord 97160 - LE MOULE FRANCE",
+    "lat": 16.333295,
+    "lon": -61.338069
+  },
+  {
+    "id": "536",
+    "name": "CHAMPIONNAT DE LA GUADELOUPE",
+    "date_start": "2026-12-20",
+    "date_end": "2026-12-20",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Le Moule",
+    "address": "Plaine de Beach Volley rue de l'autre bord 97160 - LE MOULE FRANCE",
+    "lat": 16.333295,
+    "lon": -61.338069
+  },
+  {
+    "id": "543",
+    "name": "CHAMPIONNAT DE LA GUADELOUPE",
+    "date_start": "2026-12-20",
+    "date_end": "2026-12-20",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Le Moule",
+    "address": "Plaine de Beach Volley rue de l'autre bord 97160 - LE MOULE FRANCE",
+    "lat": 16.333295,
+    "lon": -61.338069
   }
 ]
