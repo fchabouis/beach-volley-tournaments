@@ -936,6 +936,19 @@
     "lon": 1.420437
   },
   {
+    "id": "547",
+    "name": "Sand System Beach Open #3 - 150 F",
+    "date_start": "2026-10-24",
+    "date_end": "2026-10-24",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Paris",
+    "address": "Stade Jules Ladoumègue 1 avenue de la porte de pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
     "id": "517",
     "name": "CHAMPIONNAT DE LA GUADELOUPE",
     "date_start": "2026-10-25",
@@ -1196,6 +1209,19 @@
     "lon": 3.896004
   },
   {
+    "id": "548",
+    "name": "BTAURA OnlyBeach F #1",
+    "date_start": "2026-11-01",
+    "date_end": "2026-11-01",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Lyon",
+    "address": "Stade Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  {
     "id": "512",
     "name": "LES MORDUS DE BISCA #2",
     "date_start": "2026-11-08",
@@ -1220,6 +1246,19 @@
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
     "lat": 43.608174,
     "lon": 1.420437
+  },
+  {
+    "id": "549",
+    "name": "Troc' Tour #2",
+    "date_start": "2026-11-15",
+    "date_end": "2026-11-15",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Rezé",
+    "address": "Stade Léo Lagrange - Espace Norbert Claro Rue de la Trocardière 44400 - REZE FRANCE",
+    "lat": 47.177452,
+    "lon": -1.569034
   },
   {
     "id": "535",
