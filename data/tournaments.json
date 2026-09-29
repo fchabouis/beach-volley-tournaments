@@ -1170,6 +1170,19 @@
     "lon": -0.628661
   },
   {
+    "id": "552",
+    "name": "BTAURA M #2",
+    "date_start": "2026-11-14",
+    "date_end": "2026-11-14",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Lyon",
+    "address": "Stade Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  {
     "id": "522",
     "name": "#BTO2027 TORTUGA",
     "date_start": "2026-11-22",
@@ -1181,6 +1194,19 @@
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
     "lat": 43.608174,
     "lon": 1.420437
+  },
+  {
+    "id": "550",
+    "name": "Ré Beach 250 #1",
+    "date_start": "2026-11-21",
+    "date_end": "2026-11-22",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Le Bois Plage En Ré",
+    "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
+    "lat": 46.181152,
+    "lon": -1.395261
   },
   {
     "id": "523",
@@ -1207,6 +1233,19 @@
     "address": "Parc de la Rauze 419 av. Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
     "lat": 43.591447,
     "lon": 3.896004
+  },
+  {
+    "id": "551",
+    "name": "Ré Beach 250 #1",
+    "date_start": "2026-11-28",
+    "date_end": "2026-11-29",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Le Bois Plage En Ré",
+    "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
+    "lat": 46.181152,
+    "lon": -1.395261
   },
   {
     "id": "548",
@@ -1246,6 +1285,19 @@
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
     "lat": 43.608174,
     "lon": 1.420437
+  },
+  {
+    "id": "553",
+    "name": "BTAURA #2 F",
+    "date_start": "2026-11-11",
+    "date_end": "2026-11-11",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Lyon",
+    "address": "Stade Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
+    "lat": 45.781751,
+    "lon": 4.822236
   },
   {
     "id": "549",
