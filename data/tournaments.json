@@ -624,6 +624,19 @@
     "lon": 4.745964
   },
   {
+    "id": "555",
+    "name": "Troc' Tour Féminin #1",
+    "date_start": "2026-10-31",
+    "date_end": "2026-10-31",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Rezé",
+    "address": "Stade Léo Lagrange - Espace Norbert Claro Rue de la Trocardière 44400 - REZE FRANCE",
+    "lat": 47.177452,
+    "lon": -1.569034
+  },
+  {
     "id": "514",
     "name": "MONTPELLIER DOUBLE GENRE NOVEMBRE",
     "date_start": "2026-11-28",
@@ -674,6 +687,19 @@
     "address": "Stade Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
     "lat": 45.781751,
     "lon": 4.822236
+  },
+  {
+    "id": "554",
+    "name": "Open masculin dijon",
+    "date_start": "2026-11-14",
+    "date_end": "2026-11-14",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "DIJON",
+    "address": "Lac Kir Plage Est du lac kir, Avenue du prem 21000 - DIJON FRANCE",
+    "lat": 47.320595,
+    "lon": 5.003016
   },
   {
     "id": "522",
