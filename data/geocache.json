@@ -707,5 +707,14 @@
   "Stade Léo Lagrange Espace Norbert Claro Rue de la Trocardière 44400 REZE": {
     "lat": 47.177452,
     "lon": -1.569034
+  },
+  "Grande Plage Place Bellevue 44760 LA BERNERIE EN RETZ": {
+    "lat": 47.080932,
+    "lon": -2.039274
+  },
+  "#ABT44 - LA BERNERIE VOLL'HAYE": null,
+  "Beach aRéna venelle du vieux marais 17410 SAINT MARTIN EN RE": {
+    "lat": 46.191431,
+    "lon": -1.35211
   }
 }

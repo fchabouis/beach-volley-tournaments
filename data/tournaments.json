@@ -131,7 +131,7 @@
   },
   {
     "id": "462",
-    "name": "Open féminin dijon",
+    "name": "Open féminin dijon (ANNULE)",
     "date_start": "2026-10-11",
     "date_end": "2026-10-11",
     "genre": "Féminin",
@@ -507,6 +507,32 @@
     "lon": 4.868408
   },
   {
+    "id": "556",
+    "name": "Monaco Winter Tour #2",
+    "date_start": "2026-10-31",
+    "date_end": "2026-10-31",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "La Turbie",
+    "address": "Centre Loisirs Prince Albert II 1364 Route de Beausoleil 06320 - LA TURBIE FRANCE",
+    "lat": 43.746459,
+    "lon": 7.413606
+  },
+  {
+    "id": "558",
+    "name": "MIXTE à RENNES",
+    "date_start": "2026-10-31",
+    "date_end": "2026-10-31",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Rennes",
+    "address": "Beach park Charles Géniaux Rue Charles Géniaux 35000 - RENNES FRANCE",
+    "lat": 48.110488,
+    "lon": -1.711709
+  },
+  {
     "id": "496",
     "name": "Ré Beach 100",
     "date_start": "2026-10-03",
@@ -560,7 +586,7 @@
   },
   {
     "id": "526",
-    "name": "SANTA BREVINA S3 MIXTE",
+    "name": "(ANNULE) SANTA BREVINA S3 MIXTE",
     "date_start": "2026-10-10",
     "date_end": "2026-10-10",
     "genre": "Mixte",
@@ -622,19 +648,6 @@
     "address": "BEACH VOLLEY LES ANGLES D2 ROUTE D'ARAMON 30133 LES ANGLES 30133 - LES ANGLES FRANCE",
     "lat": 43.935765,
     "lon": 4.745964
-  },
-  {
-    "id": "555",
-    "name": "Troc' Tour Féminin #1",
-    "date_start": "2026-10-31",
-    "date_end": "2026-10-31",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Rezé",
-    "address": "Stade Léo Lagrange - Espace Norbert Claro Rue de la Trocardière 44400 - REZE FRANCE",
-    "lat": 47.177452,
-    "lon": -1.569034
   },
   {
     "id": "514",
@@ -780,6 +793,58 @@
     "lon": 4.822236
   },
   {
+    "id": "559",
+    "name": "Série 3 F - Toussaintsemble",
+    "date_start": "2026-11-01",
+    "date_end": "2026-11-01",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Bondues",
+    "address": "Skyball Av. du Général de Gaulle Aerodrome 59910 - BONDUES FRANCE",
+    "lat": 50.707391,
+    "lon": 3.102383
+  },
+  {
+    "id": "560",
+    "name": "Série 3 M - Toussaintsemble",
+    "date_start": "2026-11-01",
+    "date_end": "2026-11-01",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Bondues",
+    "address": "Skyball Av. du Général de Gaulle Aerodrome 59910 - BONDUES FRANCE",
+    "lat": 50.707391,
+    "lon": 3.102383
+  },
+  {
+    "id": "561",
+    "name": "Open Beach St Germain #4",
+    "date_start": "2026-11-07",
+    "date_end": "2026-11-07",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Germain-en-Laye",
+    "address": "Stade Georges Lefèvre Avenue Kennedy 78100 - ST GERMAIN EN LAYE FRANCE",
+    "lat": 48.912034,
+    "lon": 2.080378
+  },
+  {
+    "id": "562",
+    "name": "Open Beach St Germain #4",
+    "date_start": "2026-11-07",
+    "date_end": "2026-11-07",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint-Germain-en-Laye",
+    "address": "Stade Georges Lefèvre Avenue Kennedy 78100 - ST GERMAIN EN LAYE FRANCE",
+    "lat": 48.912034,
+    "lon": 2.080378
+  },
+  {
     "id": "512",
     "name": "LES MORDUS DE BISCA #2",
     "date_start": "2026-11-08",
@@ -804,6 +869,19 @@
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
     "lat": 43.608174,
     "lon": 1.420437
+  },
+  {
+    "id": "557",
+    "name": "Beach and Chill #1",
+    "date_start": "2026-11-14",
+    "date_end": "2026-11-14",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "GRADIGNAN",
+    "address": "Coqs rouges 2 chemin de pichey 33170 - GRADIGNAN FRANCE",
+    "lat": 44.779394,
+    "lon": -0.628661
   },
   {
     "id": "549",
@@ -832,6 +910,19 @@
     "lon": 4.822236
   },
   {
+    "id": "565",
+    "name": "Salamandres Beach 33 #7",
+    "date_start": "2026-11-15",
+    "date_end": "2026-11-15",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "SAINT-MÉDARD-EN-JALLES, FRANCE",
+    "address": "Ball en Jalle 33 avenue Montaigne 33160 - SAINT-MEDARD-EN-JALLES, FRANCE FRANCE",
+    "lat": 44.888307,
+    "lon": -0.703526
+  },
+  {
     "id": "535",
     "name": "CHAMPIONNAT DE LA GUADELOUPE",
     "date_start": "2026-11-29",
@@ -858,6 +949,45 @@
     "lon": -61.338069
   },
   {
+    "id": "566",
+    "name": "#ABT44 - LA BERNERIE VOLL'HAYE",
+    "date_start": "2026-11-11",
+    "date_end": "2026-11-11",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "LA BERNERIE EN RETZ",
+    "address": "Grande Plage Place Bellevue 44760 - LA BERNERIE EN RETZ FRANCE",
+    "lat": 47.080932,
+    "lon": -2.039274
+  },
+  {
+    "id": "567",
+    "name": "#ABT44 - LA BERNERIE VOLL'HAYE",
+    "date_start": null,
+    "date_end": null,
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "",
+    "address": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "568",
+    "name": "#ABT44 - LA BERNERIE VOLL'HAYE",
+    "date_start": null,
+    "date_end": null,
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 100",
+    "city": "",
+    "address": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "id": "536",
     "name": "CHAMPIONNAT DE LA GUADELOUPE",
     "date_start": "2026-12-20",
@@ -882,5 +1012,31 @@
     "address": "Plaine de Beach Volley rue de l'autre bord 97160 - LE MOULE FRANCE",
     "lat": 16.333295,
     "lon": -61.338069
+  },
+  {
+    "id": "563",
+    "name": "Ré Beach 100 #2",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Saint Martin En Ré",
+    "address": "Beach aRéna venelle du vieux marais 17410 - SAINT-MARTIN EN RE FRANCE",
+    "lat": 46.191431,
+    "lon": -1.35211
+  },
+  {
+    "id": "564",
+    "name": "Ré Beach 100 #2",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Saint Martin En Ré",
+    "address": "Beach aRéna venelle du vieux marais 17410 - SAINT-MARTIN EN RE FRANCE",
+    "lat": 46.191431,
+    "lon": -1.35211
   }
 ]
