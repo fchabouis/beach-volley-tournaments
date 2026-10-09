@@ -962,32 +962,6 @@
     "lon": -2.039274
   },
   {
-    "id": "567",
-    "name": "#ABT44 - LA BERNERIE VOLL'HAYE",
-    "date_start": null,
-    "date_end": null,
-    "genre": "Mixte",
-    "genre_code": "X",
-    "serie": "Série 3 - 100",
-    "city": "",
-    "address": "",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "id": "568",
-    "name": "#ABT44 - LA BERNERIE VOLL'HAYE",
-    "date_start": null,
-    "date_end": null,
-    "genre": "Mixte",
-    "genre_code": "X",
-    "serie": "Série 3 - 100",
-    "city": "",
-    "address": "",
-    "lat": null,
-    "lon": null
-  },
-  {
     "id": "536",
     "name": "CHAMPIONNAT DE LA GUADELOUPE",
     "date_start": "2026-12-20",
