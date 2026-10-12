@@ -754,6 +754,32 @@
     "lon": 1.420437
   },
   {
+    "id": "570",
+    "name": "Série 2 à RENNES",
+    "date_start": "2026-11-28",
+    "date_end": "2026-11-28",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Rennes",
+    "address": "Beach park Charles Géniaux Rue Charles Géniaux 35000 - RENNES FRANCE",
+    "lat": 48.110488,
+    "lon": -1.711709
+  },
+  {
+    "id": "571",
+    "name": "Série 2 à RENNES",
+    "date_start": "2026-11-28",
+    "date_end": "2026-11-28",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Rennes",
+    "address": "Beach park Charles Géniaux Rue Charles Géniaux 35000 - RENNES FRANCE",
+    "lat": 48.110488,
+    "lon": -1.711709
+  },
+  {
     "id": "516",
     "name": "MONTPELLIER NOVEMBRE MIXTE",
     "date_start": "2026-11-29",
@@ -778,6 +804,19 @@
     "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
     "lat": 46.181152,
     "lon": -1.395261
+  },
+  {
+    "id": "569",
+    "name": "Beach Connect Tour #1",
+    "date_start": "2026-11-29",
+    "date_end": "2026-11-29",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Marseilles",
+    "address": "Tennis Park de Marseille 92 Chem. des Accates 13011 - MARSEILLE CEDEX 13 FRANCE",
+    "lat": 43.302203,
+    "lon": 5.49333
   },
   {
     "id": "548",
@@ -871,6 +910,19 @@
     "lon": 1.420437
   },
   {
+    "id": "572",
+    "name": "Pont de l'Isère féminin #2",
+    "date_start": "2026-11-08",
+    "date_end": "2026-11-08",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "PONT DE L'ISERE",
+    "address": "COMPLEXE SPORTIF DESPESSES 1 Rue des Loisirs 26600 - PONT DE L'ISERE FRANCE",
+    "lat": 44.997002,
+    "lon": 4.867377
+  },
+  {
     "id": "557",
     "name": "Beach and Chill #1",
     "date_start": "2026-11-14",
@@ -882,6 +934,32 @@
     "address": "Coqs rouges 2 chemin de pichey 33170 - GRADIGNAN FRANCE",
     "lat": 44.779394,
     "lon": -0.628661
+  },
+  {
+    "id": "573",
+    "name": "Beach Open 47",
+    "date_start": "2026-11-14",
+    "date_end": "2026-11-14",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Villeneuve-sur-Lot",
+    "address": "Beach Parc Rue du Rooy 47300 - VILLENEUVE SUR LOT FRANCE",
+    "lat": 44.396754,
+    "lon": 0.712439
+  },
+  {
+    "id": "574",
+    "name": "Beach Open 47",
+    "date_start": "2026-11-14",
+    "date_end": "2026-11-14",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Villeneuve-sur-Lot",
+    "address": "Beach Parc Rue du Rooy 47300 - VILLENEUVE SUR LOT FRANCE",
+    "lat": 44.396754,
+    "lon": 0.712439
   },
   {
     "id": "549",
@@ -923,6 +1001,19 @@
     "lon": -0.703526
   },
   {
+    "id": "575",
+    "name": "Beach Open 47",
+    "date_start": "2026-11-15",
+    "date_end": "2026-11-15",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Villeneuve-sur-Lot",
+    "address": "Beach Parc Rue du Rooy 47300 - VILLENEUVE SUR LOT FRANCE",
+    "lat": 44.396754,
+    "lon": 0.712439
+  },
+  {
     "id": "535",
     "name": "CHAMPIONNAT DE LA GUADELOUPE",
     "date_start": "2026-11-29",
@@ -949,6 +1040,19 @@
     "lon": -61.338069
   },
   {
+    "id": "579",
+    "name": "SANTA BREVINA BEACH S3 F",
+    "date_start": "2026-11-07",
+    "date_end": "2026-11-07",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "SAINT BREVIN LES PINS",
+    "address": "LE VAL D'OR PLAGE DU PARC, CHEMIN DE LA MARINE 44250 - ST BREVIN LES PINS FRANCE",
+    "lat": 47.234697,
+    "lon": -2.178265
+  },
+  {
     "id": "566",
     "name": "#ABT44 - LA BERNERIE VOLL'HAYE",
     "date_start": "2026-11-11",
@@ -960,6 +1064,45 @@
     "address": "Grande Plage Place Bellevue 44760 - LA BERNERIE EN RETZ FRANCE",
     "lat": 47.080932,
     "lon": -2.039274
+  },
+  {
+    "id": "578",
+    "name": "ONLY BEACH x CROIX ROUSSE VOLLEY - BTAURA S3-100M",
+    "date_start": "2026-11-11",
+    "date_end": "2026-11-11",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Lyon",
+    "address": "Complexe Grégory Coupet Rue Louis Pize 69004 - LYON FRANCE",
+    "lat": 45.781728,
+    "lon": 4.821956
+  },
+  {
+    "id": "576",
+    "name": "BREVINA BEACH SERIES",
+    "date_start": "2026-11-21",
+    "date_end": "2026-11-21",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "SAINT BREVIN LES PINS",
+    "address": "LE VAL D'OR PLAGE DU PARC, CHEMIN DE LA MARINE 44250 - ST BREVIN LES PINS FRANCE",
+    "lat": 47.234697,
+    "lon": -2.178265
+  },
+  {
+    "id": "577",
+    "name": "BREVINA BEACH SERIES",
+    "date_start": "2026-11-21",
+    "date_end": "2026-11-21",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "SAINT BREVIN LES PINS",
+    "address": "LE VAL D'OR PLAGE DU PARC, CHEMIN DE LA MARINE 44250 - ST BREVIN LES PINS FRANCE",
+    "lat": 47.234697,
+    "lon": -2.178265
   },
   {
     "id": "536",

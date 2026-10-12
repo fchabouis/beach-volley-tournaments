@@ -716,5 +716,13 @@
   "Beach aRéna venelle du vieux marais 17410 SAINT MARTIN EN RE": {
     "lat": 46.191431,
     "lon": -1.35211
+  },
+  "Tennis Park de Marseille 92 Chem. des Accates 13011 MARSEILLE CEDEX 13": {
+    "lat": 43.302203,
+    "lon": 5.49333
+  },
+  "LE VAL D'OR PLAGE DU PARC, CHEMIN DE LA MARINE 44250 ST BREVIN LES PINS": {
+    "lat": 47.234697,
+    "lon": -2.178265
   }
 }
