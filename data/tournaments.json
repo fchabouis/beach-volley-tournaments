@@ -1105,6 +1105,19 @@
     "lon": -2.178265
   },
   {
+    "id": "580",
+    "name": "Salamandres Beach Tour #8",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "SAINT-MÉDARD-EN-JALLES, FRANCE",
+    "address": "Ball en Jalle 33 avenue Montaigne 33160 - SAINT-MEDARD-EN-JALLES, FRANCE FRANCE",
+    "lat": 44.888307,
+    "lon": -0.703526
+  },
+  {
     "id": "536",
     "name": "CHAMPIONNAT DE LA GUADELOUPE",
     "date_start": "2026-12-20",
