@@ -326,7 +326,7 @@
   },
   {
     "id": "528",
-    "name": "BS13 #5 Marignane",
+    "name": "BS13 #5 Marignane (TOURNOI ANNULE)",
     "date_start": "2026-10-17",
     "date_end": "2026-10-17",
     "genre": "Féminin",
@@ -1012,6 +1012,19 @@
     "address": "Beach Parc Rue du Rooy 47300 - VILLENEUVE SUR LOT FRANCE",
     "lat": 44.396754,
     "lon": 0.712439
+  },
+  {
+    "id": "581",
+    "name": "ASSOA MIXTE OPEN #10",
+    "date_start": "2026-11-15",
+    "date_end": "2026-11-15",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint Ouen L'Aumone",
+    "address": "Parc des Sports 1 boulevard DUCHER 95310 - ST-OUEN L'AUMONE FRANCE",
+    "lat": 49.042462,
+    "lon": 2.101355
   },
   {
     "id": "535",
