@@ -416,6 +416,32 @@
     "lon": 2.397433
   },
   {
+    "id": "519",
+    "name": "Tournoi BV LES ANGLES (30) Féminines",
+    "date_start": "2026-10-24",
+    "date_end": "2026-10-24",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "LES ANGLES",
+    "address": "BEACH VOLLEY LES ANGLES D2 ROUTE D'ARAMON 30133 LES ANGLES 30133 - LES ANGLES FRANCE",
+    "lat": 43.935765,
+    "lon": 4.745964
+  },
+  {
+    "id": "520",
+    "name": "Tournoi BV LES ANGLES (30) Masculins",
+    "date_start": "2026-10-24",
+    "date_end": "2026-10-24",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "LES ANGLES",
+    "address": "BEACH VOLLEY LES ANGLES D2 ROUTE D'ARAMON 30133 LES ANGLES 30133 - LES ANGLES FRANCE",
+    "lat": 43.935765,
+    "lon": 4.745964
+  },
+  {
     "id": "524",
     "name": "#BTO2027 TORTUGA",
     "date_start": "2026-10-24",
@@ -622,32 +648,6 @@
     "address": "CREPS Avenue Edouard Belin 31000 - TOULOUSE FRANCE",
     "lat": 43.608174,
     "lon": 1.420437
-  },
-  {
-    "id": "519",
-    "name": "Tournoi BV LES ANGLES (30) Féminines",
-    "date_start": "2026-10-24",
-    "date_end": "2026-10-24",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "LES ANGLES",
-    "address": "BEACH VOLLEY LES ANGLES D2 ROUTE D'ARAMON 30133 LES ANGLES 30133 - LES ANGLES FRANCE",
-    "lat": 43.935765,
-    "lon": 4.745964
-  },
-  {
-    "id": "520",
-    "name": "Tournoi BV LES ANGLES (30) Masculins",
-    "date_start": "2026-10-24",
-    "date_end": "2026-10-24",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 3 - 100",
-    "city": "LES ANGLES",
-    "address": "BEACH VOLLEY LES ANGLES D2 ROUTE D'ARAMON 30133 LES ANGLES 30133 - LES ANGLES FRANCE",
-    "lat": 43.935765,
-    "lon": 4.745964
   },
   {
     "id": "514",
@@ -1025,6 +1025,19 @@
     "address": "Parc des Sports 1 boulevard DUCHER 95310 - ST-OUEN L'AUMONE FRANCE",
     "lat": 49.042462,
     "lon": 2.101355
+  },
+  {
+    "id": "582",
+    "name": "BORDEAUX MIXTE #06",
+    "date_start": "2026-11-22",
+    "date_end": "2026-11-22",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "GRADIGNAN",
+    "address": "Coqs rouges 2 chemin de pichey 33170 - GRADIGNAN FRANCE",
+    "lat": 44.779394,
+    "lon": -0.628661
   },
   {
     "id": "535",
