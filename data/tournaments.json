@@ -1131,6 +1131,32 @@
     "lon": -2.178265
   },
   {
+    "id": "586",
+    "name": "MONTPELLIER INDOOR DECEMBRE FEMININ",
+    "date_start": "2026-12-12",
+    "date_end": "2026-12-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "Gymnase Henri Ferrari 419 av Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.592061,
+    "lon": 3.896243
+  },
+  {
+    "id": "585",
+    "name": "MONTPELLIER INDOOR DECEMBRE MASCULIN",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Montpellier",
+    "address": "Gymnase Henri Ferrari 419 av Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
+    "lat": 43.592061,
+    "lon": 3.896243
+  },
+  {
     "id": "580",
     "name": "Salamandres Beach Tour #8",
     "date_start": "2026-12-13",

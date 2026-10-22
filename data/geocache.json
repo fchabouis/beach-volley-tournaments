@@ -724,5 +724,9 @@
   "LE VAL D'OR PLAGE DU PARC, CHEMIN DE LA MARINE 44250 ST BREVIN LES PINS": {
     "lat": 47.234697,
     "lon": -2.178265
+  },
+  "Gymnase Henri Ferrari 419 av Dr Jacques Fourcade 34000 MONTPELLIER CEDEX 5": {
+    "lat": 43.592061,
+    "lon": 3.896243
   }
 }
