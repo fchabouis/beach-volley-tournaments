@@ -1040,6 +1040,19 @@
     "lon": -0.628661
   },
   {
+    "id": "590",
+    "name": "LYON CXR BEACH BT AURA  1- S3 150 Mixte",
+    "date_start": "2026-11-22",
+    "date_end": "2026-11-22",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Lyon",
+    "address": "LYON CROIX ROUSSE VOLLEY 17 rue louis pize 69004 - LYON FRANCE",
+    "lat": 45.781751,
+    "lon": 4.822236
+  },
+  {
     "id": "535",
     "name": "CHAMPIONNAT DE LA GUADELOUPE",
     "date_start": "2026-11-29",
@@ -1144,6 +1157,19 @@
     "lon": 3.896243
   },
   {
+    "id": "587",
+    "name": "SSA Gla Gla Beach Tour F",
+    "date_start": "2026-12-12",
+    "date_end": "2026-12-12",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "Paris",
+    "address": "STADE JULES LADOUMEGUE 1 avenue de la Porte de Pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
     "id": "585",
     "name": "MONTPELLIER INDOOR DECEMBRE MASCULIN",
     "date_start": "2026-12-13",
@@ -1155,6 +1181,32 @@
     "address": "Gymnase Henri Ferrari 419 av Dr Jacques Fourcade 34000 - MONTPELLIER CEDEX 5 FRANCE",
     "lat": 43.592061,
     "lon": 3.896243
+  },
+  {
+    "id": "588",
+    "name": "SSA Gla Gla Beach Tour",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 2 - 250",
+    "city": "Paris",
+    "address": "STADE JULES LADOUMEGUE 1 avenue de la Porte de Pantin 75019 - PARIS FRANCE",
+    "lat": 48.890302,
+    "lon": 2.397433
+  },
+  {
+    "id": "589",
+    "name": "S3 Mixte #1",
+    "date_start": "2026-12-05",
+    "date_end": "2026-12-05",
+    "genre": "Mixte",
+    "genre_code": "X",
+    "serie": "Série 3 - 150",
+    "city": "Saint Martin En Ré",
+    "address": "Beach aRéna venelle du vieux marais 17410 - SAINT-MARTIN EN RE FRANCE",
+    "lat": 46.191431,
+    "lon": -1.35211
   },
   {
     "id": "580",
