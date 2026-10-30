@@ -1079,6 +1079,19 @@
     "lon": -61.338069
   },
   {
+    "id": "593",
+    "name": "Open Beach Croissy #5",
+    "date_start": "2026-11-29",
+    "date_end": "2026-11-29",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Croissy-sur-Seine",
+    "address": "Stade Omnisports de Croissy sur Seine Chemin de Ronde 78290 - CROISSY SUR SEINE FRANCE",
+    "lat": 48.878289,
+    "lon": 2.124583
+  },
+  {
     "id": "579",
     "name": "SANTA BREVINA BEACH S3 F",
     "date_start": "2026-11-07",
@@ -1142,6 +1155,32 @@
     "address": "LE VAL D'OR PLAGE DU PARC, CHEMIN DE LA MARINE 44250 - ST BREVIN LES PINS FRANCE",
     "lat": 47.234697,
     "lon": -2.178265
+  },
+  {
+    "id": "591",
+    "name": "3e étape du Championnat de Martinique de Beach-Volley 2026-2027",
+    "date_start": "2026-11-22",
+    "date_end": "2026-11-22",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Le Carbet",
+    "address": "Plage du Coin Plage du Coin, quartier Le Coin 97221 - MARTINIQUE FRANCE",
+    "lat": 14.731778,
+    "lon": -61.175848
+  },
+  {
+    "id": "592",
+    "name": "3e étape du Championnat de Martinique de Beach-Volley 2026-2027",
+    "date_start": "2026-11-22",
+    "date_end": "2026-11-22",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Le Carbet",
+    "address": "Plage du Coin Plage du Coin, quartier Le Coin 97221 - MARTINIQUE FRANCE",
+    "lat": 14.731778,
+    "lon": -61.175848
   },
   {
     "id": "586",
