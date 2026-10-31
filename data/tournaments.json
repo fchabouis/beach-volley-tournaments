@@ -1261,6 +1261,19 @@
     "lon": -0.703526
   },
   {
+    "id": "596",
+    "name": "Open Beach Croissy #6",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Croissy-sur-Seine",
+    "address": "Stade Omnisports de Croissy sur Seine Chemin de Ronde 78290 - CROISSY SUR SEINE FRANCE",
+    "lat": 48.878289,
+    "lon": 2.124583
+  },
+  {
     "id": "536",
     "name": "CHAMPIONNAT DE LA GUADELOUPE",
     "date_start": "2026-12-20",
@@ -1311,5 +1324,31 @@
     "address": "Beach aRéna venelle du vieux marais 17410 - SAINT-MARTIN EN RE FRANCE",
     "lat": 46.191431,
     "lon": -1.35211
+  },
+  {
+    "id": "594",
+    "name": "4e étape du Championnat de Martinique de Beach-Volley 2026-2027  13 décembre 2026",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Le Carbet",
+    "address": "Plage du Coin Plage du Coin, quartier Le Coin 97221 - CARBET FRANCE",
+    "lat": 14.700619,
+    "lon": -61.181306
+  },
+  {
+    "id": "595",
+    "name": "4e étape du Championnat de Martinique de Beach-Volley 2026-2027  13 décembre 2026",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Le Carbet",
+    "address": "Plage du Coin Plage du Coin, quartier Le Coin 97221 - CARBET FRANCE",
+    "lat": 14.700619,
+    "lon": -61.181306
   }
 ]
