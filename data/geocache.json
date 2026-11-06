@@ -744,5 +744,13 @@
   "Plage du Coin Plage du Coin, quartier Le Coin 97221 CARBET": {
     "lat": 14.700619,
     "lon": -61.181306
+  },
+  "aRÉna de Saint Martin de Ré rue du vieux marais 17410 SAINT MARTIN EN RE": {
+    "lat": 46.202259,
+    "lon": -1.368504
+  },
+  "aRÉna de Saint Martin de Ré rue du vieux marais 17410 ST MARTIN DE RE": {
+    "lat": 46.194649,
+    "lon": -1.351717
   }
 }

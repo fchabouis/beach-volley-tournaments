@@ -86,9 +86,9 @@
     "genre_code": "M",
     "serie": "Série 2 - 250",
     "city": "Le Bois Plage En Ré",
-    "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
-    "lat": 46.181152,
-    "lon": -1.395261
+    "address": "aRÉna de Saint Martin de Ré rue du vieux marais 17410 - SAINT-MARTIN EN RE FRANCE",
+    "lat": 46.202259,
+    "lon": -1.368504
   },
   {
     "id": "523",
@@ -150,10 +150,10 @@
     "genre": "Féminin",
     "genre_code": "F",
     "serie": "Série 2 - 250",
-    "city": "Le Bois Plage En Ré",
-    "address": "Beach Stadium des Gollandières Avenue de la plage 17580 - LE BOIS PLAGE EN RE FRANCE",
-    "lat": 46.181152,
-    "lon": -1.395261
+    "city": "Aréna De Saint Martin De Ré",
+    "address": "aRÉna de Saint Martin de Ré rue du vieux marais 17410 - ST MARTIN DE RE FRANCE",
+    "lat": 46.194649,
+    "lon": -1.351717
   },
   {
     "id": "569",
