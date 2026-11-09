@@ -533,6 +533,19 @@
     "lon": -61.175848
   },
   {
+    "id": "597",
+    "name": "Open feminin Dijon",
+    "date_start": "2026-12-05",
+    "date_end": "2026-12-06",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 2 - 250",
+    "city": "DIJON",
+    "address": "Salle Emmanuel rego Parc de la toison d'or 21000 - DIJON FRANCE",
+    "lat": 47.331406,
+    "lon": 5.02486
+  },
+  {
     "id": "586",
     "name": "MONTPELLIER INDOOR DECEMBRE FEMININ",
     "date_start": "2026-12-12",
