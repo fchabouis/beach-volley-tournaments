@@ -611,6 +611,32 @@
     "lon": -1.35211
   },
   {
+    "id": "599",
+    "name": "Pont-de-l'Isère BTARA Winter",
+    "date_start": "2026-12-06",
+    "date_end": "2026-12-06",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Pont-de-l'Isère",
+    "address": "Complexe sportif Rue des Loisirs 26600 - PONT DE L'ISERE FRANCE",
+    "lat": 44.996958,
+    "lon": 4.868408
+  },
+  {
+    "id": "598",
+    "name": "WINTER BTAURA S3-150 M #3",
+    "date_start": "2026-12-12",
+    "date_end": "2026-12-12",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Lyon",
+    "address": "Complexe Grégory Coupet Rue Louis Pize 69004 - LYON FRANCE",
+    "lat": 45.781728,
+    "lon": 4.821956
+  },
+  {
     "id": "580",
     "name": "Salamandres Beach Tour #8",
     "date_start": "2026-12-13",

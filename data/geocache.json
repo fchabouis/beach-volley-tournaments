@@ -756,5 +756,9 @@
   "Salle Emmanuel rego Parc de la toison d'or 21000 DIJON": {
     "lat": 47.331406,
     "lon": 5.02486
+  },
+  "Complexe sportif Rue des Loisirs 26600 PONT DE L'ISERE": {
+    "lat": 44.996958,
+    "lon": 4.868408
   }
 }
