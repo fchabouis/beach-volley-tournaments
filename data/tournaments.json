@@ -637,6 +637,32 @@
     "lon": 4.821956
   },
   {
+    "id": "563",
+    "name": "Ré Beach 100 #2",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 150",
+    "city": "Saint Martin En Ré",
+    "address": "Beach aRéna venelle du vieux marais 17410 - SAINT-MARTIN EN RE FRANCE",
+    "lat": 46.191431,
+    "lon": -1.35211
+  },
+  {
+    "id": "564",
+    "name": "Ré Beach 100 #2",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 150",
+    "city": "Saint Martin En Ré",
+    "address": "Beach aRéna venelle du vieux marais 17410 - SAINT-MARTIN EN RE FRANCE",
+    "lat": 46.191431,
+    "lon": -1.35211
+  },
+  {
     "id": "580",
     "name": "Salamandres Beach Tour #8",
     "date_start": "2026-12-13",
@@ -689,32 +715,6 @@
     "lon": -61.338069
   },
   {
-    "id": "563",
-    "name": "Ré Beach 100 #2",
-    "date_start": "2026-12-13",
-    "date_end": "2026-12-13",
-    "genre": "Féminin",
-    "genre_code": "F",
-    "serie": "Série 3 - 100",
-    "city": "Saint Martin En Ré",
-    "address": "Beach aRéna venelle du vieux marais 17410 - SAINT-MARTIN EN RE FRANCE",
-    "lat": 46.191431,
-    "lon": -1.35211
-  },
-  {
-    "id": "564",
-    "name": "Ré Beach 100 #2",
-    "date_start": "2026-12-13",
-    "date_end": "2026-12-13",
-    "genre": "Masculin",
-    "genre_code": "M",
-    "serie": "Série 3 - 100",
-    "city": "Saint Martin En Ré",
-    "address": "Beach aRéna venelle du vieux marais 17410 - SAINT-MARTIN EN RE FRANCE",
-    "lat": 46.191431,
-    "lon": -1.35211
-  },
-  {
     "id": "594",
     "name": "4e étape du Championnat de Martinique de Beach-Volley 2026-2027  13 décembre 2026",
     "date_start": "2026-12-13",
@@ -739,5 +739,18 @@
     "address": "Plage du Coin Plage du Coin, quartier Le Coin 97221 - CARBET FRANCE",
     "lat": 14.700619,
     "lon": -61.181306
+  },
+  {
+    "id": "600",
+    "name": "#BTO2027 BEACH VOLLEY VIBES",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Toulouse",
+    "address": "CREPS 1 Avenue Edouard BELIN 31000 - TOULOUSE FRANCE",
+    "lat": 43.6066,
+    "lon": 1.420528
   }
 ]
