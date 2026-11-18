@@ -752,5 +752,31 @@
     "address": "CREPS 1 Avenue Edouard BELIN 31000 - TOULOUSE FRANCE",
     "lat": 43.6066,
     "lon": 1.420528
+  },
+  {
+    "id": "602",
+    "name": "XMAS M LYON CXR BTAURA 2",
+    "date_start": "2026-12-19",
+    "date_end": "2026-12-19",
+    "genre": "Masculin",
+    "genre_code": "M",
+    "serie": "Série 3 - 100",
+    "city": "Lyon",
+    "address": "Complexe sportif stade Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
+    "lat": 45.767476,
+    "lon": 4.824436
+  },
+  {
+    "id": "601",
+    "name": "XMAS F Lyon CXR Bt Aura 2",
+    "date_start": "2026-12-20",
+    "date_end": "2026-12-20",
+    "genre": "Féminin",
+    "genre_code": "F",
+    "serie": "Série 3 - 100",
+    "city": "Lyon",
+    "address": "Complexe sportif stade Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
+    "lat": 45.781751,
+    "lon": 4.822236
   }
 ]

@@ -764,5 +764,13 @@
   "CREPS 1 Avenue Edouard BELIN 31000 TOULOUSE": {
     "lat": 43.6066,
     "lon": 1.420528
+  },
+  "Lyon": {
+    "lat": 45.767476,
+    "lon": 4.824436
+  },
+  "Complexe sportif stade Grégory Coupet 17 rue Louis Pize 69004 LYON": {
+    "lat": 45.781751,
+    "lon": 4.822236
   }
 }
