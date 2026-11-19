@@ -163,7 +163,7 @@
     "genre": "Masculin",
     "genre_code": "M",
     "serie": "Série 2 - 250",
-    "city": "Marseilles",
+    "city": "Marseille",
     "address": "Tennis Park de Marseille 92 Chem. des Accates 13011 - MARSEILLE CEDEX 13 FRANCE",
     "lat": 43.302203,
     "lon": 5.49333
@@ -763,8 +763,8 @@
     "serie": "Série 3 - 100",
     "city": "Lyon",
     "address": "Complexe sportif stade Grégory Coupet 17 rue Louis Pize 69004 - LYON FRANCE",
-    "lat": 45.767476,
-    "lon": 4.824436
+    "lat": 45.781751,
+    "lon": 4.822236
   },
   {
     "id": "601",
